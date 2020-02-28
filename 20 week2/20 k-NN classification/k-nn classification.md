@@ -2,6 +2,8 @@
 
 Download the zip file on k-NN [here](Introduction to Machine Learning 1 week 2.zip). This zip contains a Jupyter notebook and some images. Complete the exercises and questions within the notebook.
 
+![embed](https://youtube.com/embed/4HKqjENq9OU?start=57&end=555)
+
 ## Reminder: Getting started
 
 In your terminal, navigate to the directory where you placed the file for the assignment and run the command
