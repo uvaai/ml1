@@ -1,8 +1,10 @@
 # k-Nearest Neighbours (k-NN)
 
-Download the zip file on k-NN [here](Introduction to Machine Learning 1 week 2.zip). This zip contains a Jupyter notebook and some images. Complete the exercises and questions within the notebook.
+Download the zip file on k-NN [here](Introduction to Machine Learning 1 week 2.zip). This zip contains a Jupyter notebook and some images. Watch the videos below and then complete the exercises and questions within the notebook.
 
-![embed](https://youtube.com/embed/4HKqjENq9OU?start=57&end=555)
+![embed](https://youtube.com/embed/4HKqjENq9OU?start=57&end=556&controls=0)
+
+![embed](https://www.youtube.com/embed/vVj2itVNku4?start=539&end=809&controls=0)
 
 ## Reminder: Getting started
 
