@@ -3,12 +3,14 @@ Pilot:
     Theory:
       Elements of AI: /week1/elements-of-ai
     SOWISO:
-      Basic statistics: /week1/basic-statistics
+      Probabilities: /week1/probabilities
     Notebook and Article:
       Chatting with Eliza: /week1/turing-test
   Module 2:
     Theory:
       Elements of AI: /week2/elements-of-ai
+    SOWISO:
+      Types of Data: /week2/types-of-data
     Notebook:
       k-NN classification: /week2/k-nn-classification
     Article:
@@ -22,4 +24,6 @@ Pilot:
   Module 6:
     TODO: /TODO
   Module 7:
+    TODO: /TODO
+  Module 8:
     TODO: /TODO
