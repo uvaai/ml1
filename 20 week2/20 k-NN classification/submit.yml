@@ -1,0 +1,4 @@
+name: k-nn-classification
+files:
+    required:
+        - Introduction to Machine Learning 1 week 2.ipynb
