@@ -8,14 +8,13 @@ how AI might affect your life, and how it will develop in the coming years.
 
 ### Getting Started
 
-Register as a student on [the Elements of AI website](https://course.elementsofai.com/),
-and complete the first three chapters
+Register as a student on [the Elements of AI
+website](https://course.elementsofai.com/). Read the first three chapters and
+complete all of the corresponding exercises.
 
 1. What is AI?
 2. AI problem solving
 3. Real world AI
-
-and their corresponding exercises.
 
 At the end of Chapter 1-3 there is an open question in Exercise 4, on the
 definition of AI. Make sure to *save your answer* to this question in a

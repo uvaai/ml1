@@ -1,15 +1,11 @@
 
-## Types of Data
+# Types of Data
 
-1. [Qualitative and Quantitive Variables](https://uva.sowiso.nl/content/theory/6061)
+This week we'll cover some basic elements from statistics and data science.
 
-2. [Hierarchy of Measurement Scales](https://uva.sowiso.nl/content/theory/6063)
+Continue in SOWISO module for the course here:
 
-3. [Nominal Scale](https://uva.sowiso.nl/content/theory/6065)
+[https://uva.sowiso.nl/](https://uva.sowiso.nl/)
 
-4. [Ordinal Scale](https://uva.sowiso.nl/content/theory/6067)
-
-5. [Interval Scale](https://uva.sowiso.nl/content/theory/6070)
-
-6. [Ratio Scale](https://uva.sowiso.nl/content/theory/6072)
+For this week you should complete all of Chapter 2: Describing Data.
 

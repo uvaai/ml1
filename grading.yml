@@ -38,8 +38,8 @@ modules:
         - writ_1
         - prog_1
     module 2:
-        - elements-of-ai-456
-        - k-nn-classification
+        - writ_2
+        - prog_2
 #    module 3:
 #        - TODO
 #    module 4:

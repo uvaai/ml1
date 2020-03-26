@@ -1,4 +1,4 @@
-name: k-nn-classification
+name: prog_2
 files:
     required:
         - Introduction to Machine Learning 1 week 2.ipynb
