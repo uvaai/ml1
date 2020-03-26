@@ -1,26 +1,24 @@
 Pilot:
   Module 1:
     Overview: /week1/overview
-    Introduction:
+    Introduction to AI:
       Elements of AI: /week1/elements-of-ai
     SOWISO:
-      Probabilities: /week1/theoretical-probability
-    Theory:
-      Probabilities: /week1/experimental-probability
-    Article:
-      Turings paper: /week1/turing-test
-    Notebook:
+      Theoretical Probability: /week1/theoretical-probability
+    Theory Videos:
+      Experimental Probability: /week1/experimental-probability
+    Written Assignment:
+      Turing's paper: /week1/turing-test
+    Programming Notebook:
       Chatting with Eliza: /week1/eliza
   Module 2:
     Overview: /week2/overview
-    Theory:
-      Elements of AI: /week2/elements-of-ai
     SOWISO:
       Types of Data: /week2/types-of-data
-    Notebook:
+    Written Assignment:
+      Elements of AI: /week2/elements-of-ai
+    Programming Notebook:
       k-NN classification: /week2/k-nn-classification
-    Article:
-      Weak vs Strong AI: /week2/weak-vs-strong-ai
 #  Module 3:
 #    TODO: /TODO
 #  Module 4:
