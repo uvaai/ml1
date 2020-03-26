@@ -25,7 +25,7 @@ templates:
 
 grades:
     module 1: *manual
-    module 2: *manual
+#    module 2: *manual
 #    module 3: *manual
 #    module 4: *manual
 #    module 5: *manual
@@ -37,9 +37,9 @@ modules:
     module 1:
         - writ_1
         - prog_1
-    module 2:
-        - writ_2
-        - prog_2
+#    module 2:
+#        - writ_2
+#        - prog_2
 #    module 3:
 #        - TODO
 #    module 4:
@@ -61,7 +61,7 @@ problems:
     show_progress: true
     submits:
         module 1: 1
-        module 2: 1
+#        module 2: 1
 #        module 3: 1
 #        module 4: 1
 #        module 5: 1
