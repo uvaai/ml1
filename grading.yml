@@ -35,7 +35,8 @@ grades:
 
 modules:
     module 1:
-        - elements-of-ai-123
+        - writ_1
+        - prog_1
     module 2:
         - elements-of-ai-456
         - k-nn-classification
