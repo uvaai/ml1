@@ -1,4 +1,4 @@
-# Eliza
+# ELIZA
 
 For this first programming assignment you'll get to know ELIZA, a famous
 computer psychotherapist, and write a simple chatbot of your own.
