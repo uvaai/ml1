@@ -13,10 +13,12 @@ Pilot:
       Chatting with ELIZA: /week1/eliza
   Module 2:
     Overview: /week2/overview
-    SOWISO:
-      Types of Data: /week2/types-of-data
     Written Assignment:
       Elements of AI: /week2/elements-of-ai
+    SOWISO:
+      Types of Data: /week2/types-of-data
+    Theory Videos:
+      Nearest Neighbours: /week2/k-nn
     Programming Notebook:
       k-NN classification: /week2/k-nn-classification
 #  Module 3:
