@@ -2,10 +2,11 @@
 # Theoretical Probability
 
 This week we'll get started with some basic concepts of probability. For this
-you should complete all the exercises in *Chapter 1. Probability*. There all 3
-subchapters this week: *Randomness*, *Relationship between Events* and
-*Probability*, which will give you a more formal introduction into the concepts
-and language used to describe the probability of events.
+you should complete all the exercises in *Chapter 1. Probability*.
+
+There all 3 subchapters this week: *Randomness*, *Relationship between Events*
+and *Probability*, which will give you a more formal introduction into the
+concepts and language used to describe the probability of events.
 
 ### SOWISO
 
