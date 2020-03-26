@@ -1,11 +1,14 @@
 Pilot:
   Module 1:
-    Theory:
+    Overview: /week1/overview
+    Introduction:
       Elements of AI: /week1/elements-of-ai
     SOWISO:
-      Probabilities: /week1/probabilities
-    Turings Article:
-      Chatting with Eliza: /week1/turing-test
+      Probabilities: /week1/theoretical-probability
+    Theory:
+      Probabilities: /week1/experimental-probability
+    Article:
+      Turings paper: /week1/turing-test
     Notebook:
       Chatting with Eliza: /week1/eliza
   Module 2:
