@@ -4,9 +4,7 @@ University of Amsterdam / Programming Lab / 50821ITM6Y
 
 ## Staff
 
-Tim Doolan
-
-Wouter Vrielink
+Tim Doolan & Wouter Vrielink
 
 You can reach us at <minorai@mprog.nl> for any practical matters or other
 questions.
@@ -52,9 +50,9 @@ assistance.
 too, you can post it on the *Ed* forum and we will answer publicly there. This 
 should already be familiar from the *Programming 1 and 2* courses.
 2. If you have a very specific question or something that would require sharing
-a large portion of your solution, you can email us directly at
-<minorai@mprog.nl>. We will then answer your question or schedule a Zoom
-meeting to take a look at your problem together.
+a large portion of your solution, you can email us directly at <minorai@mprog.nl>.
+We will then answer your question or schedule a Zoom meeting to take a look at
+your problem together.
 3. We will also host Zoom conferences with all students at least once a week.
 These will be mainly to see how everyone is progressing, what parts are hard or
 easy, and give you a chance to ask other questions you have or want to discuss
