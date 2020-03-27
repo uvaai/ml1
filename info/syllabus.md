@@ -54,9 +54,9 @@ a large portion of your solution, you can email us directly at <minorai@mprog.nl
 We will then answer your question or schedule a Zoom meeting to take a look at
 your problem together.
 3. We will also host Zoom conferences with all students at least once a week.
-These will be mainly to see how everyone is progressing, what parts are hard or
-easy, and give you a chance to ask other questions you have or want to discuss
-with the group.
+These will mainly be to see how everyone is progressing, what parts are hard or
+easy, and to give you a chance to ask other questions you have or want to
+discuss with the group.
 
 We would like to emphasise that you can (and should) ask questions if *any*
 part of the material is unclear, not just if you get stuck with the programming
