@@ -14,6 +14,6 @@ For the probability section, there will be a SOWISO chapter on
 theory videos on [Experimental Probability](/week1/experimental-probability).
 
 Finally, we'll read [Turing's paper](/week1/turing-test) describing his
-proposed test, and take a look at programming a simple [chatbot](/week1/eliza)
+proposed test, and take a look at programming a [simple chatbot](/week1/eliza)
 that could try to pass this test.
 

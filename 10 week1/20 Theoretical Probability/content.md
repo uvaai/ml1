@@ -21,7 +21,7 @@ add you to the course. Log into SOWISO using you UvAnetID here:
 
 [https://uva.sowiso.nl](https://uva.sowiso.nl)
 
-Then send us an email at *minorai@mprog.nl*, including your name and student
+Then send us an email at <minorai@mprog.nl>, including your name and student
 number, and we'll add you to the course. After that you can get started with
 the exercises.
 
