@@ -20,6 +20,8 @@ In general, there will be 4 components to each module:
 * **Programming Notebook:** Here you will implement some of the machine learning algorithms yourself in *Python*.
 * **Written Assignment:** Here you'll read articles or blog posts related to the philosophical and societal implication of ML, and answer questions about them.
 
+Log in with your UvAnetID and create an account to get access to the modules.
+
 ## Passing the course
 
 The programming and writting assignments should be handed in each week by
