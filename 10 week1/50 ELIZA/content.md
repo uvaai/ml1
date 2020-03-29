@@ -12,8 +12,8 @@ installing *Python* and running Notebooks.
 * If you don't have *Python* and an editor installed yet, start by following the
 [instructions from SP1](https://sp1.mprog.nl/installing/on-your-own-computer).
 * If you've not done so yet, complete the
-[introduction on Notebooks](https://sp2.mprog.nl/complexity/notebook) in the SP2
-course, before continuing with this assignment here.
+[introduction on Notebooks](https://sp2.mprog.nl/complexity/notebook) in *SP2*,
+before continuing with this assignment here.
 
 ### Assignment Files
 
