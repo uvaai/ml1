@@ -49,8 +49,9 @@ If you have any question about the material, there are several ways to get
 assistance.
 
 1. If you have a question on a topic that might be useful for other students
-too, you can post it on the *Ed* forum and we will answer publicly there. This 
-should already be familiar from the *Programming 1 and 2* courses.
+too, you can post it on the [Ed forum](https://us.edstem.org/courses/487/) and
+we will answer publicly there. This should already be familiar from
+the *Programming 1 and 2* courses.
 2. If you have a very specific question or something that would require sharing
 a large portion of your solution, you can email us directly at <minorai@mprog.nl>.
 We will then answer your question or schedule a Zoom meeting to take a look at
