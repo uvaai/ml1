@@ -7,13 +7,13 @@ computer psychotherapist, and write a simple chatbot of your own.
 
 All programming assignment will be done in *Jupyter Notebooks*. The Scientific
 Programming course, which you're also taking, has a short tutorials on
-installing *Python* and running Notebooks.
+installing *Python* and running Notebooks. Follow these before you continue
+with the assignment.
 
-* If you don't have *Python* and an editor installed yet, start by following the
-[instructions from SP1](https://sp1.mprog.nl/installing/on-your-own-computer).
+* If you don't have *Python* and an editor installed yet, start by following
+the [instructions from SP1](https://sp1.mprog.nl/installing/on-your-own-computer).
 * If you've not done so yet, complete the
-[introduction on Notebooks](https://sp2.mprog.nl/complexity/notebook) in *SP2*,
-before continuing with this assignment here.
+[introduction on Notebooks](https://sp2.mprog.nl/complexity/notebook) in *SP2*.
 
 ### Assignment Files
 
