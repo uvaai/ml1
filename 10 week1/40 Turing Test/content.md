@@ -4,7 +4,7 @@
 This week we'll read Alan Turing's original article from 1950 describing what
 later became known simply as *the Turing Test* (although he himself calls it
 *the Imitation Game* here). It is a classic piece of computer science history
-and gives us a picture of how such a seminal figure though about the question
+and gives us a picture of how such a seminal figure thought about the question
 *"Can machines think?"* now 70 years ago. The article has some very dated ideas
 (including on gender and race), but also some almost prophetic considerations
 on how machines might be capable of learning some time in the future. As long
