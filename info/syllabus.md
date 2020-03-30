@@ -26,9 +26,10 @@ Log in with your UvAnetID and create an account to get access to the modules.
 
 ## Deadlines
 
-All assignments in a module should be handed in each week by *Sunday 23:59*. If
-you think you will not make a deadline, send us an email *before* the deadline
-has expired, so we can try to find a suitable solution. 
+All assignments in a module should be handed in each week by *Sunday 23:59*.
+
+If you think you will not make a deadline, send us an email *before* the
+deadline has expired, so we can try to find a suitable solution. 
 
 ## Asking questions
 
@@ -72,7 +73,7 @@ More information on the exam will be announced later in the course, as we are
 still waiting for *College van Bestuur* recommendations on how to proceed with
 online examination.
 
-## Doing your own work {#academic_honesty}
+## Academic honesty
 
 This course's philosophy on academic honesty is best stated as "be reasonable." The course recognizes that interactions with classmates and others can facilitate mastery of the course's material. However, there remains a line between enlisting the help of another and submitting the work of another. This policy characterizes both sides of that line.
 
