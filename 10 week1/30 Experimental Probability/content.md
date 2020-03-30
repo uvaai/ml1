@@ -1,10 +1,10 @@
 
 # Experimental Probability
 
-Below are 4 videos by Salman Khan from the Khan Academy. These videos explain
+Below are four videos by Salman Khan from the Khan Academy. These videos explain
 the main difference between a theoretical probability, as covered in the
 SOWISO chapter, and an experimental one, and how these both can be used in
-predictions or simulations. There are no excercises associated with these
+predictions or simulations. There are no exercises associated with these
 concepts this week, so for now just watch the videos.
 
 ### Experimental probability
@@ -22,4 +22,3 @@ concepts this week, so for now just watch the videos.
 ### Theoretical versus experimental probability simulation
 
 ![embed](https://www.youtube.com/embed/Nos-xOCpQqg)
-
