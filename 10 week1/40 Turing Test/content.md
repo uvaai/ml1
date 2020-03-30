@@ -36,6 +36,13 @@ and/or counterargument. Explain why you think this objection *is* in fact a
 valid objection to using the Imitation Game as a test to determine if a machine
 can think.
 
+There is no hard limit on a minimum or maximum number of words. As an
+indication, we expect the average reply to be about 400 words. This means that
+if your reply is less then 100 words or more then 800 words, you should
+probably consider rewriting it. However, the main determining factor for the
+number of words if simply if you made a cohesive and clear argument for your
+point of view.
+
 ### Submission
 
 For the written portion this week, you should submit your answer to exercise 4
