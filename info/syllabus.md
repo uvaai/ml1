@@ -44,10 +44,10 @@ the *Programming 1 and 2* courses.
 a large portion of your solution, you can email us at <minorai@mprog.nl> or ask
 a private question on Ed. We will then answer your directly question or
 schedule a Zoom meeting to take a look at your problem together.
-3. We will also host Zoom conferences with all students at least once a week.
-These will mainly be to see how everyone is progressing, what parts are hard or
-easy, and to give you a chance to ask other questions you have or want to
-discuss with the group.
+3. We will also host Zoom conferences with all students twice a week. One on
+**Tuesday at 15:00** and one on **Friday at 11:00**. These will mainly be to
+see how everyone is progressing, what parts are hard or easy, and to give you a
+chance to ask other questions you have or want to discuss with the group.
 
 We would like to emphasise that you can (and should) ask questions if *any*
 part of the material is unclear, not just if you get stuck with the programming
