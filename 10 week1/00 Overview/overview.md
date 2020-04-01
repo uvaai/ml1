@@ -6,7 +6,7 @@ This week we'll start with a [general introduction](/week1/elements-of-ai) to
 *Machine Learning*.
 
 Next we'll dive more deeply into two other topics also covered in this
-introduction, specificially using *Probability* to model uncertainty and
+introduction, specifically using *Probability* to model uncertainty and
 the using *Turing Test* as a measure of machine intelligence.
 
 For the probability section, there will be a SOWISO chapter on
