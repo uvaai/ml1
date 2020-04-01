@@ -4,7 +4,7 @@
 This week we'll read Alan Turing's original article from 1950 describing what
 later became known simply as *the Turing Test* (although he himself calls it
 *the Imitation Game* here). It is a classic piece of computer science history
-and gives us a picture of how such a seminal figure though about the question
+and gives us a picture of how such a seminal figure thought about the question
 *"Can machines think?"* now 70 years ago. The article has some very dated ideas
 (including on gender and race), but also some almost prophetic considerations
 on how machines might be capable of learning some time in the future. As long
@@ -35,6 +35,13 @@ reply to Turing for the objection you chose, responding to his description
 and/or counterargument. Explain why you think this objection *is* in fact a
 valid objection to using the Imitation Game as a test to determine if a machine
 can think.
+
+There is no hard limit on a minimum or maximum number of words for this
+assignment. As an indication, we expect the average reply to be about 400
+words. This means that if your reply is less then 100 words or more then 800
+words, you should probably consider rewriting it. However, the main determining
+factor for the number of words if simply if you made a cohesive and clear
+argument for your point of view.
 
 ### Submission
 
