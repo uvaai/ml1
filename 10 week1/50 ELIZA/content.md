@@ -15,6 +15,10 @@ the [instructions from SP1](https://sp1.mprog.nl/installing/on-your-own-computer
 * If you've not done so yet, complete the
 [introduction on Notebooks](https://sp2.mprog.nl/complexity/notebook) in *SP2*.
 
+Finally, make sure to install all requirements by downloading [this file](requirements.txt) and running the following command in the same folder:
+
+    conda install --file requirements.txt
+
 ### Assignment Files
 
 The programming notebook for this week can be downloaded [here](Eliza.ipynb)
@@ -25,4 +29,3 @@ Make sure any code you write has clear variable names and comments where
 needed.
 
 Submit your completed notebook below.
-

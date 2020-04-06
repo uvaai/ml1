@@ -1,0 +1,10 @@
+numpy
+scipy
+pandas
+scikit-learn
+nltk
+spacy
+matplotlib
+seaborn
+bokeh
+ipywidgets
