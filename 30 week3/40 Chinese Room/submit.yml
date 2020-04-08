@@ -1,0 +1,4 @@
+name: writ_3
+files:
+    required:
+        - understanding_sentiment.txt
