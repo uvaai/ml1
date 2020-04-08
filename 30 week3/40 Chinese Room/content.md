@@ -16,7 +16,7 @@ notebook this week.
 
 I think we can state with certainty that Searle would argue that Naive Bayes
 isn’t just naive, but actually has zero understanding. It is a weak AI, applied
-to solve a specific problem, which in the end just consists of manipulating
+to solve a specific problem, which, in the end, just consists of manipulating
 formal symbols without any semantics to ascribe meaning to these symbols. You
 could interpret these formal symbols to be the strings which represent the
 words and the integers which count their relative occurrence, or all the way
@@ -27,26 +27,26 @@ or understand what these formal symbols mean in the context of sentiment
 analysis, or in general, at all.
 
 Next, consider to what degree you yourself are in fact a functional sentiment
-analysis machine, which *is* capable of actual understanding. 
+analysis machine, which *is* capable of actual understanding.
 
 Here I think, again without much doubt, we can state that you *are*, given the
 fact that you’re reading this sentence. You can probably predict if the
 sentiment of any sentence is positive or negative with much higher accuracy
 than the algorithm. But here we already start to run into trouble: When do we
 say your prediction is correct or incorrect? Are we just assuming, because you
-speak the English language, your answer is correct by definition? Do we compare
+speak the English language, that your answer is correct by definition? Do we compare
 your answer to a panel of expert linguists? If so, how many linguists is enough
 to give a conclusive answer for a very ambiguous or neutral sentence?
 
 The trick, of course, is that we’re not using the Naive Bayes algorithm to
 solve the general problem of sentiment analysis, but instead are simply trying
-to model what is considered positive or negative *in this specific data set.*
+to model what is *considered* positive or negative *for this specific data set.*
 In many ways, this is a much easier problem, as we don’t have to bother all the
 English-speaking linguists in the world for their definitions in order to know
-if we’ve even solved it. We can just assume the labels provided in the data set
+whether we’ve even solved it. We can just assume the labels provided in the data set
 to be the correct *ground truth* and focus on how to model those. However, if I
 asked *you* to solve *this* version of the problem, you might say that reading
-1.6 million tweets and building a cohesive mental model of how they are labeled
+1.6 million tweets and building a cohesive mental model of how they are labelled
 is beyond your capabilities.
 
 Perhaps, with extraordinary patience and dedication, such a feat would be
@@ -59,7 +59,7 @@ volume of tweets one by one (I assume). Therefore, neither of these two
 machines will ever be capable of extracting and understanding the entire
 distribution of positive and negative labels within the data set.
 
-Argue whether or not you think the conjuction of a computer running the Naive
+Argue whether or not you think the conjunction of a computer running the Naive
 Bayes algorithm and you, the programmer who wrote it and reports the results,
 together *does* produce a system capable of understanding the entire
 distribution of positive and negative labels within the data set, given that
