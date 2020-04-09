@@ -61,9 +61,10 @@ distribution of positive and negative labels within the data set.
 
 Lastly, consider the conjuction of these two systems. The conjuction of two
 systems here simply means that they can interact and exchange information in
-some way, in the same way that writing something down on a piece of paper can
-be considered an extension of your own working memory. However, as just argued,
-in this case neither system can solve the entire problem just by itself.
+some way, so we could view their combination as a single system. For example,
+writing something down on a piece of paper could be considered making an
+extension of your own working memory. However, as just argued, in this case
+neither system can solve the entire problem just by itself.
 
 Argue whether or not you think the conjunction of a computer running the Naive
 Bayes algorithm and you, the programmer who wrote it and reports the results,
