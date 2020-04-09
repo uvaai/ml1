@@ -1,14 +1,17 @@
 # Bayes' Rule
 
 For the theory portion this week you'll watch videos by *3blue1brown* on
-Youtube, who does a lot of great videos giving intuitive insight into al
-sorts of mathematical topics. The videos this week are all about *Bayes' Rule*
+Youtube, who does a lot of great videos giving intuitive insight into al sorts
+of mathematical topics.
 
-## Bayes' theorem, and making probability intuitive
+The videos this week are all about *Bayes' rule*, which is a fundamental rule
+in probability theory that was formulated by Thomas Bayes in the 18th century. 
+
+### Bayes' theorem, and making probability intuitive
 
 ![embed](https://www.youtube.com/embed/HZGCoVF3YvM)
 
-## The quick proof of Bayes' theorem
+### The quick proof of Bayes' theorem
 
 ![embed](https://www.youtube.com/embed/U_85TaXbeIo)
 
