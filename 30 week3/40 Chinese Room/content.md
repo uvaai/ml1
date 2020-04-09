@@ -66,8 +66,9 @@ writing something down on a piece of paper could be considered making an
 extension of your own working memory. However, as just argued, in this case
 neither system can solve the entire problem just by itself.
 
-Argue whether or not you think the conjunction of a computer running the Naive
-Bayes algorithm and you, the programmer who wrote it and reports the results,
-together *does* produce a system capable of understanding the entire
-distribution of positive and negative labels within the data set.
+For your written assignment this week, argue whether or not you think the
+conjunction of a computer running the Naive Bayes algorithm and you, the
+programmer who wrote it and reports the results, together *does* produce a
+system capable of understanding the entire distribution of positive and
+negative labels within the data set.
 
