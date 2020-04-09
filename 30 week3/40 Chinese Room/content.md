@@ -71,5 +71,6 @@ For your written assignment this week, argue whether or not you think the
 conjunction of a computer running the Naive Bayes algorithm and you, the
 programmer who wrote it and reports the results, together *does* produce a
 system capable of understanding the entire distribution of positive and
-negative labels within the data set.
+negative labels, given the content of each of their respective tweets,
+within this data set.
 
