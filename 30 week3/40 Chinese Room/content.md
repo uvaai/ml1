@@ -34,20 +34,20 @@ fact that you’re reading this sentence. You can probably predict if the
 sentiment of any sentence is positive or negative with much higher accuracy
 than the algorithm. But here we already start to run into trouble: When do we
 say your prediction is correct or incorrect? Are we just assuming, because you
-speak the English language, that your answer is correct by definition? Do we compare
-your answer to a panel of expert linguists? If so, how many linguists is enough
-to give a conclusive answer for a very ambiguous or neutral sentence?
+speak the English language, that your answer is correct by definition? Do we
+compare your answer to a panel of expert linguists? If so, how many linguists
+is enough to give a conclusive answer for a very ambiguous or neutral sentence?
 
 The trick, of course, is that we’re not using the Naive Bayes algorithm to
 solve the general problem of sentiment analysis, but instead are simply trying
-to model what is *considered* positive or negative *for this specific data set.*
-In many ways, this is a much easier problem, as we don’t have to bother all the
-English-speaking linguists in the world for their definitions in order to know
-whether we’ve even solved it. We can just assume the labels provided in the data set
-to be the correct *ground truth* and focus on how to model those. However, if I
-asked *you* to solve *this* version of the problem, you might say that reading
-1.6 million tweets and building a cohesive mental model of how they are labelled
-is beyond your capabilities.
+to model what is *considered* positive or negative *for this specific data
+set*. In many ways, this is a much easier problem, as we don’t have to bother
+all the English-speaking linguists in the world for their definitions in order
+to know whether we’ve even solved the problem. We can instead just assume the
+labels provided in the data set to be the correct *ground truth* and focus on
+how to model those.  However, if I asked *you* to solve *this* version of the
+problem, you might say that reading 1.6 million tweets and building a cohesive
+mental model of how they are labelled is beyond your capabilities.
 
 Perhaps, with extraordinary patience and dedication, such a feat would be
 possible, but the time and energy required would certainly far exceed the
@@ -59,8 +59,14 @@ volume of tweets one by one (I assume). Therefore, neither of these two
 machines will ever be capable of extracting and understanding the entire
 distribution of positive and negative labels within the data set.
 
+Lastly, consider the conjuction of these two systems. The conjuction of two
+systems here simply means that they can interact and exchange information in
+some way, in the same way that writing something down on a piece of paper can
+be considered an extension of your own working memory. However, as just argued,
+in this case neither system can solve the entire problem just by itself.
+
 Argue whether or not you think the conjunction of a computer running the Naive
 Bayes algorithm and you, the programmer who wrote it and reports the results,
 together *does* produce a system capable of understanding the entire
-distribution of positive and negative labels within the data set, given that
-neither system can produce understanding just by itself.
+distribution of positive and negative labels within the data set.
+
