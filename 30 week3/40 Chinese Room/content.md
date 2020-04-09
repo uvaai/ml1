@@ -59,12 +59,13 @@ volume of tweets one by one (I assume). Therefore, neither of these two
 machines will ever be capable of extracting and understanding the entire
 distribution of positive and negative labels within the data set.
 
-Lastly, consider the conjuction of these two systems. The conjuction of two
-systems here simply means that they can interact and exchange information in
-some way, so we could view their combination as a single system. For example,
-writing something down on a piece of paper could be considered making an
-extension of your own working memory. However, as just argued, in this case
-neither system can solve the entire problem just by itself.
+Lastly, consider if the conjuction of these two machines would together result
+in a solution capable of understanding. The conjuction of two machines here
+simply means that they can interact and exchange information in some way, so we
+could view their combination as a single system. For example, writing something
+down on a piece of paper could be considered making an extension of your own
+working memory. However, as just argued, in this case neither machine can solve
+the entire problem just by itself.
 
 For your written assignment this week, argue whether or not you think the
 conjunction of a computer running the Naive Bayes algorithm and you, the
