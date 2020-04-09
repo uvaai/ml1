@@ -21,8 +21,16 @@ Pilot:
       Nearest Neighbours: /week2/nearest-neighbours
     Programming Notebook:
       k-NN classification: /week2/k-nn-classification
-#  Module 3:
-#    TODO: /TODO
+  Module 3:
+    Overview: /week3/overview
+    Theory Videos:
+      Bayes' Rule: /week3/bayes-rule
+    SOWISO:
+      Probability Distributions: /week3/probability-distributions
+    Programming Notebook:
+      Sentiment Analysis: /week3/sentiment-analysis
+    Written Assignment:
+      Chinese Room: /week3/chinese-room
 #  Module 4:
 #    TODO: /TODO
 #  Module 5:
