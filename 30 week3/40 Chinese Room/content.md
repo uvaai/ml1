@@ -74,8 +74,10 @@ system capable of understanding the entire distribution of positive and
 negative labels, given the content of each of their respective tweets,
 within this data set.
 
-* If you think the conjunctive system *does* allow for understanding, then what
-property of the conjuction makes this synergistic result possible?
+* If you think the conjunctive system *does* allow for understanding, then do
+you have any ideas on what property of the conjuction makes this synergistic
+result possible?
 * If you think this conjunction still *doesn't* allow for understanding, then
-what further additions would be required for an understanding system? 
+do you have any ideas on what further additions would be required for an
+understanding system? 
 
