@@ -74,8 +74,8 @@ system capable of understanding the entire distribution of positive and
 negative labels, given the content of each of their respective tweets,
 within this data set.
 
-*Note:* There obviously isn't a right or wrong answer to such a difficult
-question. What *is* important, is that your answer shows you understand the
+*Note:* There obviously isn't a right or wrong answer to such a hard question.
+What is most important, is that your answer shows your understanding the
 concepts from Searle's paper and how they might apply to different solutions
 for the problem of sentiment analysis. Additionally,
 
