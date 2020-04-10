@@ -44,17 +44,18 @@ was relatively simple. This a recurring problem in AI of course; once a problem
 is solved then we can understand the solution and say this solution wasn't
 actually intelligent.
 
-In order to avoid this type of "computational horsepower" solution, the next
+In order to avoid this type of *"computational horsepower"* solution, the next
 big challenge became the game of Go. Go is a much harder game to solve in a
 purely computational way, because there are so many possible moves every turn.
 In fact, there are more possible Go board positions ($10^{170}$) than atoms in
-the universe ($10^{80}$), and even, more possible positions than the the number
-of atoms in the universe squared $(10^{80})^2 = 10^{160}$. Despite this
-insanely large number of possibilities, in 2016 the computer program *AlphaGo*
-managed to beat a top ranked human player in a series of best of 5 games. This
-was considered by many to be a problem which was still at least a decade away
-from being solved, so the success was big news. DeepMind, the company that made
-*AlphaGo*, has made a documentary on these historic 5 games:
+the universe ($10^{80}$), and even, more possible positions than the number of
+atoms in the universe squared $(10^{80})^2 = 10^{160}$. Despite this insanely
+large number of possibilities, in 2016 the computer program *AlphaGo* managed
+to beat a top ranked human player in a best of 5 series of games. This was
+considered by many to be a problem which was still at least a decade away from
+being solved, so the success was big news. DeepMind, the company that made
+*AlphaGo*, has made a documentary on these historic 5 games, which will be the
+viewing material for this week:
 
 ![embed](https://www.youtube.com/embed/WXuK6gekU1Y)
 
@@ -65,8 +66,8 @@ algorithm we discussed this week, where we learn to predict a y-value based on
 some x-value, given a set of training examples. This algorithm instead tries to
 predict how likely the human player is to play a certain move, and how likely
 the program is to win the game, which are both also numbers we can use as
-regression targets, based on the current state of the board, i.e. which pieces
-are placed where. These are of course a *much* harder functions to try and
+regression targets, based on the current state of the board (i.e. which pieces
+are placed where). These are of course a *much* harder functions to try and
 learn, and they definitely won’t have a straightforward set of training
 examples, but it is possible. The algorithm still uses *gradient descent* to
 try and find the minimum of some cost function and the whole system actually
@@ -76,7 +77,7 @@ next move that will result in the board state with the highest probability of
 winning the game.
 
 This explanation is a little oversimplified in places, but the core algorithm
-really does just approxmate these values using gradient descent. The hard part
+really does just approximate these values using gradient descent. The hard part
 is of course getting the right training data, which in part was large
 collection of games played by humans. In addition, the algorithm played versus
 itself many, many times, in order to get a better sense of what the win
@@ -84,16 +85,17 @@ probabilities of certain board states was. This allowed the algorithm to also
 explore new strategies and not just learn from human games. Because number of
 positions is *so* large, this also required a complex ability to generalize
 these patterns to new board positions, which it might not have specifically
-seen before, but perhaps it did see situations which were "similar".
+seen before, but perhaps it did see situations which were *similar*.
 
-Given this understanding of the algorithm, do you think move 37 is creative? It
-is move that extremely unlikely for humans to play, but apparantly got a high
-probability of winning in AlphaGo when playing many many games versus itself.
-Is an unlikely sequence of music notes that still sound good (given a data set
-or metric for "sounding good") creative? Apparently world experts would clearly
-characterize this move as being creative, which in a sense is the highest bar
-we could possibly set for such a system.
+Given this understanding of the algorithm, consider if move 37 is actually
+creative. It is a move is that extremely unlikely for humans to play, but did
+get a high probability of winning in AlphaGo when playing many games versus
+itself. Is an unlikely sequence of music notes that still sounds good (given a
+data set or metric for "sounding good") creative? Apparently, world experts
+would characterize this specific move as being creative, which in a sense is
+the highest bar we could possibly set for such a system.
 
 For your written assignment this week, argue whether or not you think move 37
 is creative. You may look-up and cite some definitions of creativity in your
 answer, but this is not required.
+

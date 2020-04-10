@@ -1,7 +1,7 @@
 
 # Linear Regression
 
-The videos this week arefrom Andrew Ng's great Machine Learning course
+The videos this week are from Andrew Ng's great Machine Learning course
 Coursera:
 
 ### Supervised Learning
