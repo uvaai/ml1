@@ -1,9 +1,18 @@
 
-## Videos by Andrew Ng on Regression
+# Linear Regression
 
-1. [Supervised Learning](https://www.youtube.com/watch?v=ls7Ke48jCt8&list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW&index=3)
+The videos this week arefrom Andrew Ng's great Machine Learning course
+Coursera:
 
-2. [Model Representation](https://www.youtube.com/watch?v=PBZUjnGuXjA&list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW&index=5)
+### Supervised Learning
+
+![embed](https://www.youtube.com/embed/ls7Ke48jCt8)
+
+### Model Representation
+
+![embed](https://www.youtube.com/embed/PBZUjnGuXjA)
+
+### Cost
 
 3. [Cost Function 1](https://www.youtube.com/watch?v=EANr4YttXIQ&list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW&index=6)
 
