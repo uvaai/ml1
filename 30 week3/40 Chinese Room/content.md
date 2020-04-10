@@ -74,7 +74,10 @@ system capable of understanding the entire distribution of positive and
 negative labels, given the content of each of their respective tweets,
 within this data set.
 
-Additionally,
+*Note:* There obviously isn't a right or wrong answer to such a difficult
+question. What *is* important, is that your answer shows you understand the
+concepts from Searle's paper and how they might apply to different solutions
+for the problem of sentiment analysis. Additionally,
 
 * if you think the conjunctive system *does* allow for understanding: Do you
 have any ideas on what property of the conjuction makes this synergistic result
