@@ -77,15 +77,16 @@ functions, we can simply select the next move that will result in the board
 state with the highest probability of winning the game.
 
 This explanation is a little oversimplified in places, but the core algorithm
-really does just approximate these values using gradient descent. The hard part
-is of course getting the right training data, which in part was large
-collection of games played by humans. In addition, the algorithm played versus
-itself many, many times, in order to get a better estimate of what the win
-probabilities of certain board states are. This allowed the algorithm to also
-explore new strategies and not just learn from human games. Because number of
-positions is *so* large, this also required a complex ability to generalize
-these patterns to new board positions, which it might not have specifically
-seen before, but perhaps it did see situations which were *similar*.
+really does just approximate of the parameters these functions using gradient
+descent. The hard part is of course getting the right training data, which in
+part was large collection of games played by humans. In addition, the algorithm
+played versus itself many, many times, in order to get a better estimate of
+what the win probabilities of certain board states are. This allowed the
+algorithm to also explore new strategies and not just learn from human games.
+Because number of positions is *so* large, the last essential component was
+the ability to generalize the complex board patterns to new board positions,
+which it might not have specifically seen before, but perhaps it did see
+situations which were *similar*.
 
 Given this understanding of the algorithm, consider if move 37 is actually
 creative. It is a move is that extremely unlikely for humans to play, but did
