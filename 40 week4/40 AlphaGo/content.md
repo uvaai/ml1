@@ -44,7 +44,7 @@ was relatively simple. This a recurring problem in AI of course; once a problem
 is solved then we can understand the solution and say this solution wasn't
 actually intelligent.
 
-In order to avoid this type of *"computational horsepower"* solution, the next
+In order to avoid this type of *computational horsepower* solution, the next
 big challenge became the game of Go. Go is a much harder game to solve in a
 purely computational way, because there are so many possible moves every turn.
 In fact, there are more possible Go board positions ($10^{170}$) than atoms in
