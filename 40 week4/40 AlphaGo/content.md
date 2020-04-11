@@ -65,23 +65,23 @@ First, lets try and link this complex algorithm back to the linear regression
 algorithm we discussed this week, where we learn to predict a y-value based on
 some x-value, given a set of training examples. This algorithm instead tries to
 predict how likely the human player is to play a certain move, and how likely
-the program is to win the game, which are both also numbers we can use as
-regression targets, based on the current state of the board (i.e. which pieces
-are placed where). These are of course a *much* harder functions to try and
-learn, and they definitely won’t have a straightforward set of training
-examples, but it is possible. The algorithm still uses *gradient descent* to
-try and find the minimum of some cost function and the whole system actually
-works surprisingly similar to linear regression, even if the model is much more
-complicated. Once we have learned these functions, we can simply select the
-next move that will result in the board state with the highest probability of
-winning the game.
+the program is to win the game, which are both also numbers we just can use as
+regression targets, and uses the the current state of the board (i.e. which
+pieces are placed where) as the function input. These are of course a *much*
+harder functions to try and learn, and they definitely won’t have a
+straightforward set of training examples, but it is possible. The algorithm
+still uses *gradient descent* to try and find the minimum of some cost function
+and the whole system actually works surprisingly similar to linear regression,
+even if the model is much more complicated. Once we have learned these
+functions, we can simply select the next move that will result in the board
+state with the highest probability of winning the game.
 
 This explanation is a little oversimplified in places, but the core algorithm
 really does just approximate these values using gradient descent. The hard part
 is of course getting the right training data, which in part was large
 collection of games played by humans. In addition, the algorithm played versus
-itself many, many times, in order to get a better sense of what the win
-probabilities of certain board states was. This allowed the algorithm to also
+itself many, many times, in order to get a better estimate of what the win
+probabilities of certain board states are. This allowed the algorithm to also
 explore new strategies and not just learn from human games. Because number of
 positions is *so* large, this also required a complex ability to generalize
 these patterns to new board positions, which it might not have specifically
@@ -96,6 +96,8 @@ would characterize this specific move as being creative, which in a sense is
 the highest bar we could possibly set for such a system.
 
 For your written assignment this week, argue whether or not you think move 37
-is creative. You may look-up and cite some definitions of creativity in your
-answer, but this is not required.
+is creative. Search online for some definitions of creativity and cite at least
+one definition that matches your own. These may just be dictionary definitions
+and do not have to come from scientific papers, as long as you can compare if
+move 37 is creative or not according to this / these definitions.
 
