@@ -65,7 +65,7 @@ First, lets try and link this complex algorithm back to the linear regression
 algorithm we discussed this week, where we learn to predict a y-value based on
 some x-value, given a set of training examples. This algorithm instead tries to
 predict how likely the human player is to play a certain move, and how likely
-the program is to win the game, which are both also numbers we just can use as
+the program is to win the game, which are both also just numbers we can use as
 regression targets, and uses the the current state of the board (i.e. which
 pieces are placed where) as the function input. These are of course a *much*
 harder functions to try and learn, and they definitely won’t have a
