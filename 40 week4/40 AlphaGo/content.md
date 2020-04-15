@@ -1,8 +1,8 @@
 # AlphaGo
 
 I hope that during the past few written assignments it has become clear that
-one of the hard things about creating an Artificial Intelligence is having a
-good definition of intelligence in the first place. Philosophers like Searle
+one of the difficult things about creating an Artificial Intelligence is having
+a good definition of intelligence in the first place. Philosophers like Searle
 might argue that understanding requires intentionality or consciousness, but
 neuroscientific theories of consciousness to the level of detail that we could
 simulate them on a computer, currently still seem very much like science
@@ -35,7 +35,7 @@ real world, then it must also possess some form of intelligence.
 Games are very often used as such challenges for intelligence in AI, because
 programming the basic rules of a game is usually easy and the challenge has a
 very clear goal (win the game). However, finding a strategy with which you can
-win, is usally much harder. The classic example here is the game of chess,
+win, is usually much harder. The classic example here is the game of chess,
 which was "solved" in 1997 when the computer *Deep Blue* beat Garry Kasparov,
 who was at that time was ranked the best player in the world. Most of the
 victory of *Deep Blue* is usually attributed to the increases in computational
@@ -66,10 +66,10 @@ algorithm we discussed this week, where we learn to predict a y-value based on
 some x-value, given a set of training examples. This algorithm instead tries to
 predict how likely the human player is to play a certain move, and how likely
 the program is to win the game, which are both also just numbers we can use as
-regression targets, and uses the the current state of the board (i.e. which
-pieces are placed where) as the function input. These are of course a *much*
+regression targets, and uses the current state of the board (i.e. which
+pieces are placed where) as the function input. These are of course *much*
 harder functions to try and learn, and they definitely won’t have a
-straightforward set of training examples, but it is possible. The algorithm
+straightforward set of training examples, but it *is* possible. The algorithm
 still uses *gradient descent* to try and find the minimum of some cost function
 and the whole system actually works surprisingly similar to linear regression,
 even if the model is much more complicated. Once we have learned these
@@ -77,13 +77,13 @@ functions, we can simply select the next move that will result in the board
 state with the highest probability of winning the game.
 
 This explanation is a little oversimplified in places, but the core algorithm
-really does just approximate of the parameters these functions using gradient
+really does just approximate the parameters of these functions using gradient
 descent. The hard part is of course getting the right training data, which in
 part was large collection of games played by humans. In addition, the algorithm
 played versus itself many, many times, in order to get a better estimate of
 what the win probabilities of certain board states are. This allowed the
 algorithm to also explore new strategies and not just learn from human games.
-Because number of positions is *so* large, the last essential component was
+Because the number of positions is *so* large, the last essential component was
 the ability to generalize the complex board patterns to new board positions,
 which it might not have specifically seen before, but perhaps it did see
 situations which were *similar*.
@@ -99,6 +99,5 @@ the highest bar we could possibly set for such a system.
 For your written assignment this week, argue whether or not you think move 37
 is creative. Search online for some definitions of creativity and cite at least
 one definition that matches your own. These may just be dictionary definitions
-and do not have to come from scientific papers, as long as you can compare if
+and do not have to come from scientific papers, as long as you can compare whether
 move 37 is creative or not according to this / these definitions.
-
