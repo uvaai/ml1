@@ -31,8 +31,16 @@ Pilot:
       Sentiment Analysis: /week3/sentiment-analysis
     Written Assignment:
       Chinese Room: /week3/chinese-room
-#  Module 4:
-#    TODO: /TODO
+  Module 4:
+    Overview: /week4/overview
+    SOWISO:
+      Gradients: /week4/gradients
+    Theory Videos:
+      Linear Regression: /week4/linear-regression
+    Programming Notebook:
+      Gradient Descent: /week4/gradient-descent
+    Written Assignment:
+      AlphaGo: /week4/alphago
 #  Module 5:
 #    TODO: /TODO
 #  Module 6:
