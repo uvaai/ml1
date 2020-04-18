@@ -25,10 +25,11 @@ in your everyday life already.
 
 The argument here is that if we can solve many of these complex problems in a
 general way, i.e. using the same algorithms and representations for all of
-them, at some point the program will be indistinguishable from, or even better
-than, human intelligence. It probably will not function in the same way a human
-intelligence does, but if it is equally capable of solving problems within the
-real world, then it must also possess some form of intelligence.
+them, then at some point the program will be indistinguishable from, or even
+better than, human intelligence. The result probably will not function in the
+same way a human intelligence does, but if it is equally capable of solving
+problems within the real world, then it must also possess some form of
+intelligence.
 
 ## AI and games
 
@@ -41,7 +42,7 @@ who was at that time was ranked the best player in the world. Most of the
 victory of *Deep Blue* is usually attributed to the increases in computational
 power at the time, and not the algorithm that *Deep Blue* was running, which
 was relatively simple. This a recurring problem in AI of course; once a problem
-is solved then we can understand the solution and say this solution wasn't
+is solved, then we can understand the solution and say this solution wasn't
 actually intelligent.
 
 In order to avoid this type of *computational horsepower* solution, the next
@@ -66,27 +67,27 @@ algorithm we discussed this week, where we learn to predict a y-value based on
 some x-value, given a set of training examples. This algorithm instead tries to
 predict how likely the human player is to play a certain move, and how likely
 the program is to win the game, which are both also just numbers we can use as
-regression targets, and uses the current state of the board (i.e. which
-pieces are placed where) as the function input. These are of course *much*
-harder functions to try and learn, and they definitely won’t have a
-straightforward set of training examples, but it *is* possible. The algorithm
-still uses *gradient descent* to try and find the minimum of some cost function
-and the whole system actually works surprisingly similar to linear regression,
-even if the model is much more complicated. Once we have learned these
-functions, we can simply select the next move that will result in the board
-state with the highest probability of winning the game.
+regression targets, and uses the current state of the board (i.e. which pieces
+are placed where) as the function input. These are of course *much* harder
+functions to try and learn, and they definitely won’t have a straightforward
+set of training examples, but it *is* possible. The algorithm still uses
+*gradient descent* to try and find the minimum of some cost function, and the
+whole system actually works surprisingly similar to linear regression, even if
+the model is much more complicated. Once we have learned these functions, we
+can simply select the next move that will result in the board state with the
+highest probability of winning the game.
 
 This explanation is a little oversimplified in places, but the core algorithm
 really does just approximate the parameters of these functions using gradient
 descent. The hard part is of course getting the right training data, which in
-part was large collection of games played by humans. In addition, the algorithm
-played versus itself many, many times, in order to get a better estimate of
-what the win probabilities of certain board states are. This allowed the
-algorithm to also explore new strategies and not just learn from human games.
-Because the number of positions is *so* large, the last essential component was
-the ability to generalize the complex board patterns to new board positions,
-which it might not have specifically seen before, but perhaps it did see
-situations which were *similar*.
+part was a large collection of games played by humans. In addition, the
+algorithm played versus itself many, many times, in order to get a better
+estimate of what the win probabilities of certain board states are. This
+allowed the algorithm to also explore new strategies and not just learn from
+human games.  Because the number of positions is *so* large, the last essential
+component was the ability to generalize the complex board patterns to new board
+positions, which it might not have specifically seen before, but perhaps it did
+see situations which were *similar*.
 
 Given this understanding of the algorithm, consider if move 37 is actually
 creative. It is a move is that extremely unlikely for humans to play, but did
