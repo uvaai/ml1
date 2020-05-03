@@ -34,7 +34,7 @@ by *ProPublica* in 2016 showed quite clearly:
 
 [Machine Bias: Risk assessments in criminal sentencing](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
-The reason this type of bias is so hard to correct for is because correctly
+The reason this type of bias is so hard to correct for is because completely
 anonymizing data can be very hard. If you don't want the algorithm to include
 race as a factor, it is not enough to just remove the `race` feature from the
 data set. In quite a few cities, postal code can be be a perfectly good proxy
