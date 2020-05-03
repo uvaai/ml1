@@ -32,7 +32,7 @@ version of algorithmic bias, as it is harder to detect and much harder to
 remove from the data. It is a very real problem though, as this investigation
 by *ProPublica* in 2016 showed quite clearly:
 
-[Machine bias: Risk assessments in criminal sentencing](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
+[Machine Bias: Risk assessments in criminal sentencing](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
 The reason this type of bias is so hard to correct for is because correctly
 anonymizing data can be very hard. If you don't want the algorithm to include
