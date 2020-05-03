@@ -1,5 +1,5 @@
 
-# Linear Algebra & Gaussian Distribution
+# Linear Algebra & the Gaussian Distribution
 
 Writing complex linear models actually becomes easier when you can use vectors
 and matrices, so they will be main topic of the SOWISO module for this week. In
