@@ -54,9 +54,9 @@ material from this week.
 
 ## Uncovering Bias
 
-For the written assignment this week, seach online for articles describing
-other instances of algorithmic bias resulting in discrimination of race,
-gender, or any other type of discrimination. Your text should:
+For the written assignment this week, you should seach online for articles
+describing other instances of algorithmic bias resulting in discrimination of
+race, gender, or any other type of discrimination. The text you write should:
 
 * Cite the original article you found
 * Give a short description of the problem
