@@ -1,5 +1,5 @@
 
-# Linear Algebra and the Gaussian distribution
+# Linear Algebra
 
 There will be a lot of different topics to introduce this week, but all of them
 will be directly useful in the programming notebook. Writing larger linear
