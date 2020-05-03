@@ -2,7 +2,7 @@
 # Linear Regression
 
 The videos this week are from Andrew Ng's great Machine Learning course
-Coursera:
+on Coursera:
 
 ### Supervised Learning
 
