@@ -10,7 +10,7 @@ will also cover the *Gaussian* distribution and measuring the *variance* of a
 data set.
 
 Then we'll continue with some more [video lectures by Andrew Ng](/week5/multivariate-regression)
-covering the topics of mulitvariate and polynomial regression. We'll build both
+covering the topics of multivariate and polynomial regression. We'll build both
 these algorithms in the [programming notebook](/week5/polynomial-regression),
 where we'll also learn about the essential *bias-variance* trade-off.
 
