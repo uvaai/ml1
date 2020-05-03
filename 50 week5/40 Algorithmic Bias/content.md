@@ -25,10 +25,12 @@ to fail for them.
 ### 2. Historic Bias
 
 These are biases which are historically present within our society, and thus
-will inherently also be reflected in the data we collect. This is the much more
-insidious and harder to combat version of algorithmic bias. It is a very real
-problem though, as this investigation by *ProPublica* in 2016 showed quite
-clearly:
+will inherently also be reflected in the data we collect. However, societal
+biases against minorities or other such biases are things we might not want our
+algorithms to actually learn and imitate. This is the much more insidious
+version of algorithmic bias, as it is harder to detect and much harder to
+remove from the data. It is a very real problem though, as this investigation
+by *ProPublica* in 2016 showed quite clearly:
 
 [Machine bias: Risk assessments in criminal sentencing](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
