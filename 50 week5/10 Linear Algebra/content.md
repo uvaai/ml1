@@ -12,7 +12,7 @@ Complete chapters
 * 5.a Vectors
 * 5.b Systems of Linear Equations
 * 5.c Matrices
-* 5.d Measuring variability
+* 5.d Measuring Variability
 * 5.e Gaussian Distribution
 
 on [SOWISO](https://uva.sowiso.nl/).
