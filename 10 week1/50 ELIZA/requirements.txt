@@ -8,4 +8,4 @@ matplotlib
 seaborn
 bokeh
 ipywidgets
-beautifulsoup
+beautifulsoup4
