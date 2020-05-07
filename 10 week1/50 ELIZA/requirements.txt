@@ -9,3 +9,4 @@ seaborn
 bokeh
 ipywidgets
 beautifulsoup4
+requests
