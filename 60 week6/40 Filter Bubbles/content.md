@@ -6,7 +6,7 @@ This term is not to be confused with the term _echo chamber_, as this is the des
 
 Listen to the [Stuk Rood Vlees podcast on Filter Bubbles, Echo chambers, and polarisation](https://soundcloud.com/stukroodvlees/aflevering-51-filterbubbels-echokamers-en-polarisatie-met-judith-moller) wherein researcher Judith Möller is interviewed on the subject. Then, answer the following questions.
 
-1. Explain the difference between a filter bubble and fringe bubble (the new research topic Moller describes at the end of the podcast)
+1. Explain the difference between a filter bubble and fringe bubble (the new research topic Möller describes at the end of the podcast)
 2. How does the effect of a fringe bubble on the opinion of the person in the bubble differ from that of a person in a filter bubble?
 3. Möller states that filter bubbles do not really occur in Dutch media. Do you think it is likely that fringe bubbles do exist?
-4. Möller lists several reasons why filter bubbles can't really exist in Holland. Why do or don't (depending on your answer for 3) you think that these applies to fringe bubbles too?
+4. Möller lists several reasons why filter bubbles can't really exist in the Netherlands. Why do or don't (depending on your answer for 3) you think that these applies to fringe bubbles too?
