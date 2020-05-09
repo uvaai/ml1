@@ -51,7 +51,16 @@ Pilot:
       Polynomial Regression: /week5/polynomial-regression
     Written Assignment:
       Algorithmic Bias: /week5/algorithmic-bias
-#  Module 6:
+  # Module 6:
+  #   Overview: /week6/overview
+  #   SOWISO:
+  #     Vectors, Covariance, and Correlation: /week6/sowiso
+  #   Theory Videos:
+  #     K-means: /week6/kmeans-theory
+  #   Programming Notebook:
+  #     K-means: /week6/kmeans-programming
+  #   Written Assignment:
+  #     Filter bubbles: /week6/filter-bubbles
 #    TODO: /TODO
 #  Module 7:
 #    TODO: /TODO
