@@ -25,5 +25,5 @@ Learning course on Coursera:
 
 ### Clustering: Choosing the number of clusters
 
-![embed](https://youtube.com/embed/Ev8YbxPu_bQ)
+![embed](https://youtube.com/embed/lbR5br5yvrY)
 
