@@ -1,4 +1,4 @@
 name: prog_6
 files:
     required:
-        - K-means.ipynb
+        - k_means.ipynb
