@@ -1,7 +1,7 @@
 # Filter Bubbles
 
 For the written assignment this week, listen to the
-[Stuk Rood Vlees podcast on Filter Bubbles, Echo chambers, and
+*Stuk Rood Vlees* podcast on [Filter Bubbles, Echo chambers, and
 polarisation](https://soundcloud.com/stukroodvlees/aflevering-51-filterbubbels-echokamers-en-polarisatie-met-judith-moller),
 wherein communications scientist Judith Möller is interviewed on the topics of
 her research. Then, answer the following question about the podcast:
