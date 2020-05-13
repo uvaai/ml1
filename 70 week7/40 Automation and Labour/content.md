@@ -10,10 +10,9 @@ this introductory *Medium* article on the topic:
 
 In my personal opinion, the view outlined in this article is a little
 pessimistic. However, it is common view when discussing the impact of
-automation on labour and so it is useful to understand it.
-
-Suri (the author of the article) gives two possible counters to his own
-pessimistic view, neither of which I think he really does justice.
+automation on labour and so it is useful to understand it. Suri (the author of
+the article) gives two possible counters to his own pessimistic view, neither
+of which I think he really does justice.
 
 ### 1. Universal Basic Income
 
