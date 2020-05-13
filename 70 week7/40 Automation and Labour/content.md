@@ -24,11 +24,11 @@ the many underlying problems a UBI would potentially solve, and also depends on
 the assumption that capitalism is the only viable economic system.
 
 However, I think countering these arguments really just changes the subject to
-the advantages and disadvantges of UBI. Implementing a UBI would just a direct
-effect eliminate this potential problem of unemployment due to automation,
-but that is not the only reason to argue for a UBI. Considering pro's and con's
-of a UBI is an interesting political en economic exercise, but really not the
-focus of this writing assignment.
+the advantages and disadvantges of UBI. Implementing a UBI would just as a
+direct effect eliminate this potential problem of unemployment due to
+automation, but that is not the only reason to argue for a UBI. Considering
+pro's and con's of a UBI is an interesting political en economic exercise, but
+really not the focus of this writing assignment.
 
 ### 2. Polanyis' argument?
 
