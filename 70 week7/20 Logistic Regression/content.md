@@ -16,7 +16,7 @@ This week we'll continue with more videos from Andrew Ng's machine learning cour
 
 ### Logistic Regression: Decision Boundary
 
-![embed](https://youtube.com/embed/F_VG4LNjZZ)
+![embed](https://youtube.com/embed/F_VG4LNjZZw)
 
 ### Logistic Regression: Cost Function
 
