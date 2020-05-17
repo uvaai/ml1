@@ -31,11 +31,11 @@ optimize the cost function of some model.
 
 ## Outline of the exam
 
-For the first 5/10 minutes of the exam, you're expected to explain one of the
-covered algorithms, as listed above, to us. You can choose this algorithm
-yourself beforehand, and may even make slides or other visuals, if you'd like,
-although this is not required. The requirement here is simply for you to
-explain one these 7 listed algorithms.
+For the first 5 to 10 minutes of the exam, you're expected to explain one of
+the covered algorithms, as listed above. You can choose this algorithm yourself
+beforehand, and may even make slides or other visuals, if you'd like, although
+this is not required. The requirement here is simply for you to explain one
+these 7 listed algorithms.
 
 Afterward, we'll ask some follow-up questions about your selected algorithm. If
 you selected an easy algorithm, like univariate linear or k-NN, these questions
@@ -52,13 +52,13 @@ The hundred-page machine learning book, by Andriy Burkov, is a compact 100 page
 introduction to machine learning. It is a little more mathematical than most of
 the material in this course, but it does give a nice complete overview. It
 includes the general notion of machine learning, required mathematical tools
-and some of the algorithms, so the book might be useful to use as review.
+and some of the algorithms, so the book might be useful to use as a reference.
 
-Burkov offers the first 34 pages of the book online for free, which you can
-find below. We've covered most of the topics in these first 34 pages, although
-some, like *Support Vector Machines* and *Decision Trees* will be
-**Introduction to Machine Learning 2** material, so you can just skip these
-topics.
+Burkov offers the first 34 pages of the book online for free. We've actually
+covered most of the topics in these first 34 pages, although some, like
+*Support Vector Machines* and *Decision Trees* will be **Introduction to
+Machine Learning 2** material, so you can just skip these topics. The sample
+version of the book can be found below:
 
 [The hundred-page machine learning book (sample)](theMLbook-sample.pdf)
 
