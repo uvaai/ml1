@@ -43,7 +43,7 @@ understand the possibility that this threat might be overstated:
 [D.H. Autor - Polanyi’s Paradox and the Shape of Employment Growth](polanyis_paradox_2014.pdf)
 
 It is an interesting article, but quite long and a little dense in places.
-You should definitely read sections III and VI, and the conclusion of the
+You should definitely read sections *III* and *VI*, and the *conclusion* of the
 article. All other sections are optional, if you're interested.
 
 ## Suri's vs. Autor's perspective
