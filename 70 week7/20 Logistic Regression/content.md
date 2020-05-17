@@ -1,6 +1,10 @@
 # Logistic Regression
 
-This week we'll continue with more videos from Andrew Ng's machine learning course on Coursera. Before we start with Logistic Regression, we will first freshen up our knowledge on feature scaling, as it is very important for the model we will build in this week's programming exercises.
+This week we'll continue with more videos from Andrew Ng's machine learning course on Coursera. Before we start with Logistic Regression, we will first freshen up our knowledge on the definition of machine learning and feature scaling, as it is very important for the model we will build in this week's programming exercises.
+
+### What is machine learning
+
+![embed](https://www.youtube.com/embed/PPLop4L2eGk)
 
 ### Feature Scaling
 
