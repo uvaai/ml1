@@ -61,16 +61,16 @@ Pilot:
       K-means: /week6/k-means
     Written Assignment:
       Filter bubbles: /week6/filter-bubbles
-  Module 7:
-    Overview: /week7/overview
-    SOWISO:
-      Exponentials and Logarithms: /week7/exponentials-and-logarithms
-    Theory Videos:
-      Logistic Regression: /week7/logistic-regression
-    Programming Notebook:
-      Shipwreck Survival: /week7/shipwreck-survival
-    Written Assignment:
-      Automation and Labour: /week7/filter-bubbles
+  # Module 7:
+  #   Overview: /week7/overview
+  #   SOWISO:
+  #     Exponentials and Logarithms: /week7/exponentials-and-logarithms
+  #   Theory Videos:
+  #     Logistic Regression: /week7/logistic-regression
+  #   Programming Notebook:
+  #     Shipwreck Survival: /week7/shipwreck-survival
+  #   Written Assignment:
+  #     Automation and Labour: /week7/filter-bubbles
 #    TODO: /TODO
 #  Module 8:
 #    TODO: /TODO
