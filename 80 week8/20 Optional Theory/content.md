@@ -1,7 +1,7 @@
 # Neural Networks
 
-All the videos below are entirely optional, and will not be a part of the exam
-material. 
+*All the videos below are entirely optional, and will not be a part of the exam
+material.*
 
 For the past 7 weeks we've been studying the fundamentals of machine learning,
 including the required mathematical tools, core theoretical concepts and the
