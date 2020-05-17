@@ -1,14 +1,10 @@
 # Logistic Regression
 
-This week we'll continue with more videos from Andrew Ng's machine learning course on Coursera. Before we start with Logistic Regression, we will first freshen up our knowledge on the definition of machine learning and feature scaling, as it is very important for the model we will build in this week's programming exercises.
+This week we'll continue with more videos from Andrew Ng's machine learning course on Coursera. Before we start with Logistic Regression, we will first freshen up our knowledge on the definition of machine learning. The last video you have already seen, but we have included it again this week, as it is very important for the model we will build in this week's programming exercises.
 
 ### What is machine learning
 
 ![embed](https://www.youtube.com/embed/PPLop4L2eGk)
-
-### Feature Scaling
-
-![embed](https://youtube.com/embed/r5E2X1JdHAU)
 
 ### Logistic Regression: Classification
 
@@ -33,3 +29,9 @@ This week we'll continue with more videos from Andrew Ng's machine learning cour
 ### Logistic Regression: MultiClass Classification OneVsAll
 
 ![embed](https://youtube.com/embed/-EIfb6vFJzc)
+
+### Recap: Feature Scaling
+
+You have already seen this video in week 5 of this course. We will discuss and apply feature scaling in this week's notebook, so if you are unsure on when and why you would apply feature scaling, please watch this video again.
+
+![embed](https://youtube.com/embed/r5E2X1JdHAU)
