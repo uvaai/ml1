@@ -56,8 +56,8 @@ and some of the algorithms, so the book might be useful to use as review.
 
 Burkov offers the first 34 pages of the book online for free, which you can
 find below. We've covered most of the topics in these first 34 pages, although
-some, like *Support Vector Machines* and *Decision Trees* will be *Introduction
-to Machine Learning 2* material.
+some, like *Support Vector Machines* and *Decision Trees* will be
+**Introduction to Machine Learning 2** material.
 
 [The hundred-page machine learning book (sample)](theMLbook-sample.pdf)
 
