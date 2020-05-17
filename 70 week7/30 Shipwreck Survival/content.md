@@ -1,4 +1,4 @@
-# Logistic Regression
+# Shipwreck Survival
 
 For the programming notebook this week, we'll implement Logistic regression and try to predict whether a person survived the sinking of the Titanic.
 
