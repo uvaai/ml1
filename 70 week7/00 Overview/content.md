@@ -2,7 +2,7 @@
 # Week 7
 
 This week we'll take a look at Logistic Regression. Logistic Regression is a
-method regression method used to model the probability of an input being
+regression method used to model the probability of an input being
 part of a certain class, so it is actually a classification technique.
 
 This week's [SOWISO module](/week7/exponentials-and-logarithms) topics are
@@ -18,4 +18,4 @@ using Logistic Regression.
 
 Finally, this week's [written assignment](/week7/automation-and-labour) will
 discuss the claim that the rise of AI technology is likely to cause massive
-unemployment in the future. 
+unemployment in the future.
