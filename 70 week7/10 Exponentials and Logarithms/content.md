@@ -8,4 +8,4 @@ all of the required tools to get started with the machine learning model of
 this week: Logistic regression.
 
 Complete chapters 7.a Exponentials and Logarithms and 7.b Further rules for
-Differentiation.
+Differentiation on [SOWISO](https://uva.sowiso.nl/).
