@@ -42,7 +42,7 @@ your one slide, is a perfectly valid approach.
 
 Afterward, we'll ask some follow-up questions about your selected algorithm. If
 you selected an easy algorithm, like univariate linear or k-NN, these questions
-might be harder than if you select a more difficult to explain algorithm.
+might be harder than if you selected a more difficult to explain algorithm.
 Finally, there will also be some open questions on general machine learning
 theory and one or two other algorithms.
 
