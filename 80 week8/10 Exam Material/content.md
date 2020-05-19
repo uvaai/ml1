@@ -32,10 +32,13 @@ optimize the cost function of some model.
 ## Outline of the exam
 
 For the first 5 to 10 minutes of the exam, you're expected to explain one of
-the covered algorithms, as listed above. You can choose this algorithm yourself
-beforehand, and may even make slides or other visuals, if you'd like, although
-this is not required. The requirement here is simply for you to explain one
-these 7 listed algorithms.
+these covered algorithms, as listed above. You can choose this algorithm
+yourself beforehand and should prepare some visuals to go along with your
+explanation. Some visual aspect to your presentation is required, as it really
+hard to talk about equations or graphs without some sort of visual, but you
+won't be judged on the "production quality" of these visuals at all. So
+writing/drawing on a piece of paper, taking a photo and using that photo as
+your one slide, is a perfectly valid approach.
 
 Afterward, we'll ask some follow-up questions about your selected algorithm. If
 you selected an easy algorithm, like univariate linear or k-NN, these questions
