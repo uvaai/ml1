@@ -1,7 +1,7 @@
 
 # Course Evaluation
 
-We've made an anonymous Google form for the course evaluation. All question
+We've made an (anonymous) form for the course evaluation. All question
 in the form are optional, but more detailed feedback would of course be
 appreciated, especially considering the small number of students in this pilot.
 
