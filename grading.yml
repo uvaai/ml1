@@ -38,8 +38,8 @@ grades:
     writ_6: *manual
     prog_7: *manual
     writ_7: *manual
-    programming: *manual
-    writing: *manual
+    programming: *fullyauto
+    writing: *fullyauto
     exam: *test
 
 modules:
