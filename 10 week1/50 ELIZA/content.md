@@ -5,21 +5,17 @@ computer psychotherapist, and write a simple chatbot of your own.
 
 ### Jupyter Notebooks
 
-All programming assignment will be done in *Jupyter Notebooks*. The Scientific
-Programming course, which you're also taking, has a short tutorials on
-installing *Python* and running Notebooks. Follow these before you continue
-with the assignment.
+All programming assignment will be done in *Jupyter Notebooks*. The course
+*Python for Data Processing* has a brief introduction on notebooks. Make sure
+you've completed that before starting this assignment.
 
-* If you don't have *Python* and an editor installed yet, start by following
-the [instructions from SP1](https://sp1.mprog.nl/installing/on-your-own-computer).
-* If you've not done so yet, complete the
-[introduction on Notebooks](https://sp2.mprog.nl/complexity/notebook) in *SP2*.
+### Required Modules
 
-Finally, make sure to install all requirements by downloading [this file](requirements.txt) and running the following command in the same folder:
+Finally, make sure to install all required modules by downloading [this file](requirements.txt) and running the following command in the same folder:
 
     conda install --file requirements.txt
 
-### Assignment Files
+## Assignment Files
 
 The programming notebook for this week can be downloaded [here](Eliza.ipynb)
 (right-click and save).

@@ -6,14 +6,18 @@ University of Amsterdam / Programming Lab / 50821ITM6Y
 
 Tim Doolan (coordinator)
 
+Simon Pauw (teacher)
+
 Wouter Vrielink (teacher)
+
+Kiki van Rongen (TA)
 
 You can reach us at <minorai@mprog.nl> for any practical matters or other
 questions.
 
 ## Course content
 
-This course consists of 8 modules. Each of these modules is expected to take 1
+This course consists of 6 modules. Each of these modules is expected to take 1
 week and will focus on exploring one or more techniques from machine learning.
 In general, there will be 4 components to each module:
 
@@ -26,7 +30,7 @@ Log in with your UvAnetID and create an account to get access to the modules.
 
 ## Deadlines
 
-All assignments in a module should be handed in each week by *Sunday 23:59*.
+All assignments in a module should be handed in the following week by *Monday 23:59*.
 
 If you think you will not make a deadline, send us an email *before* the
 deadline has expired, so we can try to find a suitable solution. 
@@ -36,25 +40,45 @@ deadline has expired, so we can try to find a suitable solution.
 If you have any question about the material, there are several ways to get
 assistance.
 
-1. If you have a question on a topic that might be useful for other students
-too, you can post it on the [Ed forum](https://us.edstem.org/courses/487/) and
-we will answer publicly there. This should already be familiar from
-the *Programming 1 and 2* courses.
-2. If you have a very specific question or something that would require sharing
-a large portion of your solution, you can email us at <minorai@mprog.nl> or ask
-a private question on Ed. We will then answer your directly question or
-schedule a Zoom meeting to take a look at your problem together.
-3. We will also host Zoom conferences with all students twice a week; one on
-**Tuesday at 15:00** and one on **Friday at 11:00**. These will mainly be to
-see how everyone is progressing, what parts are hard or easy, and to give you a
-chance to ask other questions you have or want to discuss with the group.
+### Ed Q&A Forum
 
-We would like to emphasise that you can (and should) ask questions if *any*
-part of the material is unclear, not just if you get stuck with the programming
-assignments. This specifically includes the material covered SOWISO chapters
-and theory videos, and discussions on ideas covered in the articles are also
-encouraged. Questions on all these topics and about the material in *Scientific
-Programming 2* can be posted on the [Ed forum](https://us.edstem.org/courses/487/).
+The first place you should try and ask your question is on the Ed
+[Ed forum](https://us.edstem.org/courses/2334/). Details on using *Ed* can be
+found in the Welcome post there. 
+
+### Videocall on Discord
+
+If you have a very specific question, something that would require sharing
+a large portion of your solution, or you are unsure how exactly to phrase your
+question for Ed, you can request a videocall with the staff. You can do so on
+Discord, using the *QuestionQueue* bot.
+
+The question queue will be open **every weekday from 9:00 to 13:00**. If you
+send the *QuestionQueue* bot a direction message starting with `!ask` and then
+followed by your question, you will be added to the queue. The staff will take
+videocalls from the queue in the order they are asked, and you will be notified
+by the *QuestionQueue* bot when it is your turn.
+
+### Werkcollege at Science Park
+
+Once a week there will also be a werkcollege at Science Park, which will
+replace the Discord video calls for that day. You can sit there, bring your
+laptop to work, meet your fellow students, and ask the staff questions. The
+schedule for the werkcolleges can be found on [Datanose](https://datanose.nl/#course[90802]).
+
+### Zoom meetings
+
+There will be Zoom meetings scheduled twice a week, once on **Wednesday at
+15:00** and once on **Friday at 15:00**. These meetings will be used to discuss
+progress and answer questions. In addition, these meetings may also be used to
+give lectures, when there are parts of the theory that require more
+explanation. You can also request a topic be discussed in more depth at these
+meetings, which then may be covered at the next meeting.
+
+### Email the staff
+
+If you have personal matters to discuss or other questions that do not fit any
+of the formats above, you can email the course staff at <minorai@mprog.nl> 
 
 ## Passing the course
 
@@ -69,9 +93,71 @@ is computed as:
 
     30% programming average + 30% written average + 40% exam grade
 
-More information on the exam will be announced later in the course, as we are
-still waiting for *College van Bestuur* recommendations on how to proceed with
-online examination.
+### Programming Grades
+
+All programming notebooks should run from top to bottom without errors, using
+`Cell > Run All`. Your grade for the programming notebooks depends on 3
+factors: Correctness of the produced output, answers to the open questions, and
+the style and design of the code.
+
+The main goal of the programming notebooks in ML1 is **not** to learn
+programming, but to better understand the algorithms you are implementing. Your
+answers to the open question and checking that the produced output for each
+step makes sense, are the main ways to show this understanding. Writing clear
+code with good comments is also only possible when you understand what you're
+implementing well enough. However, for the first 2 modules style and design
+will not be included in your grade, as you'll still be learning what those
+concepts entail in the *Python for Data Processing* course.
+
+If all coding cells are completed, all open questions are answered and your
+notebook runs top to bottom without errors, your grade starts at a 6. The
+remainder of your grade is then determined as follows:
+
+* 0 - Some code cells produce incorrect or incomplete results. Answers to some open questions are incorrect or lack motivations.
+
+* 1 - All code cells produce mostly correct results, which may still contain small mistake. Same goes for the answers to open questions. Style and design have had some attention, but can be improved.
+
+* 2 - All code cells produce correct results. Answers to all open questions are correct and are motivated. Style and design are good.
+
+* 3 - All code cells produce correct and nicely formatted results. Answers to all open questions are correct and consistently well motivated based on the theory of the algorithm. Style and design are very good.
+
+* 4 - Above, and in addition: Output, answers and code cells are beyond what is expected for the course.
+
+### Writing Grades
+
+The writing assignments for this course might be different from writing
+assignments you've done in your own studies. We'll start by outlining the
+basic concept, in order to avoid confusion of what you are exactly graded on.
+
+The most important aspect of your writing assignments is to show you've read
+the week's material and have thought carefully about the accompanying
+questions. Some questions might even just ask your opinion, which means all
+that is required is that you've thought about the topic enough to clearly argue
+*why* you think it is one way or the other. Specifically, this also means that
+not every statement you make necessarily requires a reference or citation.
+However, if you do look up other sources as part of formulating your answers,
+you can of course use and cite them. 
+
+If your writing contains a sufficient number of words answering each of the
+questions from the assignment, while referencing the concepts from the reading
+material, your grade starts at a 6. The remainder of your grade is then
+determined as follows:
+
+* 0 - A concept from the reading material may be misrepresented or missing. Arguments are not structured clearly or fail to motivate some part of the answer.
+
+* 1 - The writing shows understanding of the concepts of the reading material, but there might be small inaccuracies. Answers are motivated, but some motivations could have gone more in depth. 
+
+* 2 - The writing shows clear understanding of the reading material and how the concepts therein relate to the questions asked. All answers are well motivated using these same concepts. 
+
+* 3 - Above, and in addition: The writing may use other sources or examples from the author's own field of study to provide relevant novel perspectives. All arguments are well structured and combine into a single cohesive answer to the questions asked.
+
+* 4 - Above, and in addition: The writing as a whole is beyond what is expected for the course.
+
+### Exam
+
+The exam at the end of the course will be an oral exam consisting mainly of 
+open questions on the theory and algorithms covered. More details on the exam
+will follow later.
 
 ## Academic honesty
 

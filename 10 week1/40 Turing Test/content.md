@@ -36,12 +36,10 @@ and/or counterargument. Explain why you think this objection *is* in fact a
 valid objection to using the Imitation Game as a test to determine if a machine
 can think.
 
-There is no hard limit on a minimum or maximum number of words for this
-assignment. As an indication, we expect the average reply to be about 400
-words. This means that if your reply is less then 100 words or more then 800
-words, you should probably consider rewriting it. However, the main determining
-factor for the number of words if simply if you made a cohesive and clear
-argument for your point of view.
+Your reply should be around 500 to 600 words, but does not have to fall exactly
+in this range. Most import is if you've used enough words to make a cohesive
+and clear argument for your point of view. As the limit, less than 400 words
+words will usually be considerd too few and more than 800 to be too many.
 
 ### Submission
 
