@@ -115,7 +115,7 @@ remainder of your grade is then determined as follows:
 
 * 0 - Some code cells produce incorrect or incomplete results. Answers to some open questions are incorrect or lack motivations.
 
-* 1 - All code cells produce mostly correct results, which may still contain small mistake. Same goes for the answers to open questions. Style and design have had some attention, but can be improved.
+* 1 - All code cells produce mostly correct results, but may still contain small mistakes. Same goes for the answers to open questions. Style and design have had some attention, but can be improved.
 
 * 2 - All code cells produce correct results. Answers to all open questions are correct and are motivated. Style and design are good.
 
