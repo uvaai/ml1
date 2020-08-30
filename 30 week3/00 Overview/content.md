@@ -2,8 +2,9 @@
 # Week 3
 
 This week we'll take a deeper dive into probability theory. We'll start with some
-theory videos on [Bayes' rule](/week3/bayes-rule) and then practice with
-[probability distributions](/week3/probability-distributions) on SOWISO.
+SOWISO exercises on [probability distributions](/week3/probability-distributions)
+and after that, theory videos further introducing [Bayes' rule](/week3/bayes-rule),
+one of the most important rules in probability theory.
 
 Next, we'll apply all that theory in a *Naive Bayes* algorithm for the problem
 of [sentiment analysis](/week3/sentiment-analysis) in the programming notebook.
