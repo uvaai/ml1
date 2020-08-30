@@ -1,4 +1,4 @@
-# Sentiment Analysis
+# Naive Bayes
 
 For the programming notebook this week, we'll be applying all the probability
 theory you've been studying to the problem of sentiment analysis, using a lot
