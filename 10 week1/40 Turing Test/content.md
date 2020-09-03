@@ -37,9 +37,9 @@ valid objection to using the Imitation Game as a test to determine if a machine
 can think.
 
 Your reply should be around 500 to 600 words, but does not have to fall exactly
-in this range. Most import is if you've used enough words to make a cohesive
+in this range. Most important is if you've used enough words to make a cohesive
 and clear argument for your point of view. As the limit, less than 400 words
-words will usually be considerd too few and more than 800 to be too many.
+words will usually be considered too few and more than 800 to be too many.
 
 ### Submission
 
