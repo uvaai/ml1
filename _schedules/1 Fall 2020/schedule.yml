@@ -12,16 +12,16 @@ Module 1:
     Turing's paper: /week1/turing-test
   Programming Notebook:
     Chatting with ELIZA: /week1/eliza
-# Module 2:
-#   Overview: /week2/overview
-#   Written Assignment:
-#     Elements of AI: /week2/elements-of-ai
-#   SOWISO:
-#     Types of Data: /week2/types-of-data
-#   Theory Videos:
-#     Nearest Neighbours: /week2/nearest-neighbours
-#   Programming Notebook:
-#     k-NN classification: /week2/k-nn-classification
+Module 2:
+  Overview: /week2/overview
+  Written Assignment:
+    Elements of AI: /week2/elements-of-ai
+  SOWISO:
+    Types of Data: /week2/types-of-data
+  Theory Videos:
+    Nearest Neighbours: /week2/nearest-neighbours
+  Programming Notebook:
+    k-NN classification: /week2/k-nn-classification
 # Module 3:
 #   Overview: /week3/overview
 #   SOWISO:
