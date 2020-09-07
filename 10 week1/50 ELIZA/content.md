@@ -17,7 +17,7 @@ the [instructions from SP1](https://sp1.mprog.nl/installing/on-your-own-computer
 
 Finally, make sure to install all requirements by downloading [this file](requirements.txt) and running the following command in the same folder:
 
-    conda install -c conda-forge --file requirements.txt
+    conda install -c conda-forge --file requirements.txt 
 
 ### Assignment Files
 
