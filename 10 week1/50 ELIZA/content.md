@@ -13,7 +13,7 @@ you've completed that before starting this assignment.
 
 Finally, make sure to install all required modules by downloading [this file](requirements.txt) and running the following command in the same folder:
 
-    conda install --file requirements.txt
+    conda install -c conda-forge --file requirements.txt 
 
 ## Assignment Files
 
