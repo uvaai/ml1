@@ -1,25 +1,14 @@
 templates:
-    1: &fullyauto
-        type: pass
-        subgrades:
-            correctness: integer
-        automatic:
-            correctness: (correctness_score * 100).floor
-        calculation: -(correctness/100)
-        hide_subgrades: true
     3: &manual
         type: float
         subgrades:
             points: integer
-            hacker: integer
-            late: float
-        calculation: ((points + hacker - late) / 6.0 * 9 + 1).round(1)
-        hide_calculated: true
+        calculation: points + 6
     4: &test
-        type: pass
+        type: float
         subgrades:
-            passed: integer
-        calculation: passed
+            points: integer
+        calculation: points
         is_test: true
         hide_subgrades: true
 
@@ -38,27 +27,7 @@ grades:
     writ_6: *manual
     prog_7: *manual
     writ_7: *manual
-    programming: *manual
-    writing: *manual
     exam: *test
-
-modules:
-    writing:
-        - writ_1
-        - writ_2
-        - writ_3
-        - writ_4
-        - writ_5
-        - writ_6
-        - writ_7
-    programming:
-        - prog_1
-        - prog_2
-        - prog_3
-        - prog_4
-        - prog_5
-        - prog_6
-        - prog_7
 
 calculation:
     final:
@@ -69,15 +38,26 @@ calculation:
 programming:
     show_progress: true
     submits:
-        programming: 1
+        prog_1: 1
+        prog_2: 1
+        prog_3: 1
+        prog_4: 1
+        prog_5: 1
+        prog_6: 1
+        prog_7: 1
 
 writing:
     show_progress: true
     submits:
-        writing: 1
+        writ_1: 1
+        writ_2: 1
+        writ_3: 1
+        writ_4: 1
+        writ_5: 1
+        writ_6: 1
+        writ_7: 1
 
 exam:
     show_progress: true
     submits:
         exam: 1
-
