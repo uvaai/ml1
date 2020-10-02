@@ -14,6 +14,7 @@ Complete chapters
 * 5.a Vectors
 * 5.b Systems of Linear Equations
 * 5.c Matrices
+    * **Note:** For the section *Multiplication of Matrices* you only need to complete 3 questions, not all 10. 
 * 5.d Measuring Variability
 * 5.e Gaussian Distribution
 

@@ -42,16 +42,16 @@ Module 4:
     Gradient Descent: /week4/gradient-descent
   Written Assignment:
     AlphaGo: /week4/alphago
-# Module 5:
-#   Overview: /week5/overview
-#   SOWISO:
-#     Linear Algebra: /week5/linear-algebra
-#   Theory Videos:
-#     Multivariate Regression: /week5/multivariate-regression
-#   Programming Notebook:
-#     Polynomial Regression: /week5/polynomial-regression
-#   Written Assignment:
-#     Algorithmic Bias: /week5/algorithmic-bias
+Module 5:
+  Overview: /week5/overview
+  SOWISO:
+    Linear Algebra: /week5/linear-algebra
+  Theory Videos:
+    Multivariate Regression: /week5/multivariate-regression
+  Programming Notebook:
+    Polynomial Regression: /week5/polynomial-regression
+  Written Assignment:
+    Algorithmic Bias: /week5/algorithmic-bias
 # Module 6:
 #   Overview: /week6/overview
 #   SOWISO:
