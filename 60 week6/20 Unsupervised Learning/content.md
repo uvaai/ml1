@@ -3,6 +3,10 @@
 This week we'll continue with more videos from Andrew Ng's Machine
 Learning course on Coursera:
 
+### What is machine learning?
+
+![embed](https://www.youtube.com/embed/PPLop4L2eGk)
+
 ### Unsupervised Learning
 
 ![embed](https://youtube.com/embed/jAA2g9ItoAc)
@@ -26,8 +30,4 @@ Learning course on Coursera:
 ### Clustering: Choosing the number of clusters
 
 ![embed](https://youtube.com/embed/lbR5br5yvrY)
-
-### What is machine learning
-
-![embed](https://www.youtube.com/embed/PPLop4L2eGk)
 
