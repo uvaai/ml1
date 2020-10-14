@@ -52,16 +52,16 @@ Module 5:
     Polynomial Regression: /week5/polynomial-regression
   Written Assignment:
     Algorithmic Bias: /week5/algorithmic-bias
-# Module 6:
-#   Overview: /week6/overview
-#   SOWISO:
-#     Vector Distance: /week6/vector-distance
-#   Theory Videos:
-#     Unsupervised Learning: /week6/unsupervised-learning
-#   Programming Notebook:
-#     K-means: /week6/k-means
-#   Written Assignment:
-#     Filter bubbles: /week6/filter-bubbles
+Module 6:
+  Overview: /week6/overview
+  SOWISO:
+    Vector Distance: /week6/vector-distance
+  Theory Videos:
+    Unsupervised Learning: /week6/unsupervised-learning
+  Programming Notebook:
+    K-means: /week6/k-means
+  Written Assignment:
+    Filter bubbles: /week6/filter-bubbles
 # Module 7:
 #   Final Exam:
 #     Exam Material: /week8/exam-material

@@ -27,3 +27,7 @@ Learning course on Coursera:
 
 ![embed](https://youtube.com/embed/lbR5br5yvrY)
 
+### What is machine learning
+
+![embed](https://www.youtube.com/embed/PPLop4L2eGk)
+
