@@ -62,12 +62,12 @@ Module 6:
     K-means: /week6/k-means
   Written Assignment:
     Filter bubbles: /week6/filter-bubbles
-# Module 7:
-#   Final Exam:
-#     Exam Material: /week8/exam-material
+Module 7:
+  Final Exam:
+    Exam Material: /week8/exam-material
+  Feedback:
+    Course Evaluation: /week8/course-evaluation
 #   Optional Theory:
 #     Neural Networks: /week8/neural-networks
 #   Optional Notebook:
 #     Digit Recognition: /week8/digit-recognition
-#   Feedback:
-#     Course Evaluation: /week8/course-evaluation

@@ -18,14 +18,13 @@ optimize the cost function of some model.
 
 ## Covered algorithms
 
+* Supervised Learning - Classification
+    * k-Nearest Neighbours
+    * Naive Bayes
 * Supervised Learning - Regression
     * Univariate Linear
     * Multivariate Linear
     * Univariate Polynomial
-* Supervised Learning - Classification
-    * k-Nearest Neighbours
-    * Naive Bayes
-    * Logistic Regression
 * Unsupervised Learning - Clustering
     * k-Means
 
@@ -38,7 +37,8 @@ explanation. Some visual aspect to your presentation is required, as it really
 hard to talk about equations or graphs without some sort of visual, but you
 won't be judged on the "production quality" of these visuals at all. So
 writing/drawing on a piece of paper, taking a photo and using that photo as
-your one slide, is a perfectly valid approach.
+your one slide, is a perfectly valid approach. Please make sure your
+explanation does not exceed 10 minutes.
 
 Afterward, we'll ask some follow-up questions about your selected algorithm. If
 you selected an easy algorithm, like univariate linear or k-NN, these questions
