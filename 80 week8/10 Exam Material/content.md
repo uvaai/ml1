@@ -45,10 +45,11 @@ might be harder than if you selected a more difficult to explain algorithm.
 Finally, there will also be some open questions on general machine learning
 theory and one or two other algorithms.
 
-Please make sure you have everything set up and ready for the exam and that the
-explanation itself does not exceed 10 minutes, so there is enough time for
-questions afterwards. We'll immediately let you know if you've passed, but
-won't publish the grades until after everyone has completed their exams.
+Please make sure you have everything set up and ready for the exam, and that
+your explanation of the algorithm does not exceed 10 minutes, so there is
+enough time for questions afterwards. We'll immediately let you know if you've
+passed, but won't publish the grades until after everyone has completed (and
+passed) their exams.
 
 ## Additional material
 
