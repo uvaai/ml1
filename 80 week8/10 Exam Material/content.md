@@ -9,8 +9,8 @@ be shown an equation and asked to explain what all the terms are and how they
 relate to some piece of machine learning theory. 
 
 This means the theory pages from the SOWISO and the articles from the writing
-assignment are *not* part of the exam material, in the sense that will not be
-asked about any of these directly. However, you are expected to be able to
+assignment are *not* part of the exam material, in the sense that you will not
+be asked about any of these directly. However, you are expected to be able to
 relate these concepts back to the machine learning theory, as described above.
 This means that you won't be asked to take a derivative of some function, but
 you might be asked to explain what the gradient is and how it can be used to
@@ -37,8 +37,7 @@ explanation. Some visual aspect to your presentation is required, as it really
 hard to talk about equations or graphs without some sort of visual, but you
 won't be judged on the "production quality" of these visuals at all. So
 writing/drawing on a piece of paper, taking a photo and using that photo as
-your one slide, is a perfectly valid approach. Please make sure your
-explanation does not exceed 10 minutes.
+your one slide, is a perfectly valid approach.
 
 Afterward, we'll ask some follow-up questions about your selected algorithm. If
 you selected an easy algorithm, like univariate linear or k-NN, these questions
@@ -46,8 +45,10 @@ might be harder than if you selected a more difficult to explain algorithm.
 Finally, there will also be some open questions on general machine learning
 theory and one or two other algorithms.
 
-We'll immediately let you know if you've passed, but won't publish the grades
-until after everyone has completed (and passed) their exams.
+Please make sure you have everything set up and ready for the exam and that the
+explanation itself does not exceed 10 minutes, so there is enough time for
+questions afterwards. We'll immediately let you know if you've passed, but
+won't publish the grades until after everyone has completed their exams.
 
 ## Additional material
 
