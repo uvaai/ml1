@@ -44,7 +44,6 @@ programming:
         prog_4: 1
         prog_5: 1
         prog_6: 1
-        prog_7: 1
 
 writing:
     show_progress: true
@@ -55,7 +54,6 @@ writing:
         writ_4: 1
         writ_5: 1
         writ_6: 1
-        writ_7: 1
 
 exam:
     show_progress: true
