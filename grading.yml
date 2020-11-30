@@ -50,7 +50,6 @@ modules:
         - writ_4
         - writ_5
         - writ_6
-        - writ_7
     programming:
         - prog_1
         - prog_2
@@ -58,7 +57,6 @@ modules:
         - prog_4
         - prog_5
         - prog_6
-        - prog_7
 
 calculation:
     final:
