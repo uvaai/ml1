@@ -1,6 +1,7 @@
 Welcome:
     Read the syllabus to get started: /syllabus
 Module 1:
+  Schedule: /modules/m1
   Overview: /week1/overview
   Introduction to AI:
     Elements of AI: /week1/elements-of-ai
@@ -11,8 +12,10 @@ Module 1:
   Written Assignment:
     Turing's paper: /week1/turing-test
   Programming Notebook:
+    Notebook introduction: /week1/notebook
     Chatting with ELIZA: /week1/eliza
 Module 2:
+  Schedule: /modules/m2
   Overview: /week2/overview
   Written Assignment:
     Elements of AI: /week2/elements-of-ai

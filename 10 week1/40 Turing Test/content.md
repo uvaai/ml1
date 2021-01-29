@@ -32,7 +32,7 @@ Once you've read the article, choose one of the 9 objections listed in section
 6, whichever you think provides the most convincing argument. Turing gives a
 description and a counterargument for each of these objections. Write your own
 reply to Turing for the objection you chose, responding to his description
-and/or counterargument. Explain why you think this objection *is* in fact a
+and/or counterargument. Argue why you think this objection could in fact be a
 valid objection to using the Imitation Game as a test to determine if a machine
 can think.
 
