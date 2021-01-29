@@ -1,14 +1,14 @@
 # Module 1
 
-The deadline for both Python for Data Processing and Introduction to Machine Learning is **Friday February 5th at 17:59**
+The deadline for both Python for Data Processing and Introduction to Machine Learning 1 is **Friday February 5th at 17:59**
 
-| Day             | Python for Data Processing | Introduction to Machine Learning | Seminars                                                          |
-|-----------------|----------------------------|----------------------------------|-------------------------------------------------------------------|
-| Monday 01/02    | Installation               | Elements of AI                   | Introduction, Installation, terminal/editor basics and checkpy    |
-| Tuesday 02/02   | Getting started            | Elements of AI + SOWISO          |                                                                   |
-| Wednesday 03/02 | A first algorithm          | Theory videos + written          | Where to start; how to decompose a problem                        |
-| Thursday 04/02  | A serious algorithm        | ELIZA                            |                                                                   |
-| Friday 05/02    | Plotting graphs            | ELIZA                            |                                                                   |
+| Day             | Python for Data Processing | Introduction to Machine Learning 1 | Seminars                                                          |
+|-----------------|----------------------------|------------------------------------|-------------------------------------------------------------------|
+| Monday 01/02    | Installation               | Elements of AI: Chapt. 1 & 2       | Introduction, Installation, terminal/editor basics and checkpy    |
+| Tuesday 02/02   | Getting started            | Elements of AI: Chapt. 3 + SOWISO  |                                                                   |
+| Wednesday 03/02 | A first algorithm          | Theory videos + Written Assignment | Where to start; how to decompose a problem                        |
+| Thursday 04/02  | A serious algorithm        | Notebook intro + ELIZA             |                                                                   |
+| Friday 05/02    | Plotting graphs            | Finsih ELIZA                       |                                                                   |
 
 ### Seminars
 
