@@ -2,7 +2,7 @@
 
 The deadline for both Python for Data Processing and Introduction to Machine Learning 1 is<br>**Friday February 5th at 17:59**
 
-| Day                | Python for Data Processing | Introduction to Machine Learning 1    | Seminars                                                           |
+| Day                | Python for<br>Data Processing | Introduction to<br>Machine Learning 1    | Seminars                                                           |
 |--------------------|----------------------------|---------------------------------------|--------------------------------------------------------------------|
 | Monday<br>01/02    | Installation               | Elements of AI:<br>Ch. 1 & 2          | Introduction, installation, terminal/<br>editor basics and checkpy |
 | Tuesday<br>02/02   | Getting started            | Elements of AI: Ch. 3<br>+ SOWISO     |                                                                    |
