@@ -3,7 +3,7 @@
 For this first programming assignment you'll get to know ELIZA, a famous
 computer psychotherapist, and write a simple chatbot of your own.
 
-## Assignment File
+## Starting the assignment
 
 The programming notebook for this week can be downloaded [here](data/Eliza.ipynb)
 (right-click and save).
@@ -27,10 +27,10 @@ You can stop any active chats by typing `quit` in the chatbox. You can also
 comment out a chat by adding a `#` before, so the chatbot won't run. See the
 section *Quiting the program* for more details.
 
-## Handing in your solution
+## Completing your solution
 
-Write the answers to the questions directly in each of the *Markdown* cells.
-Make sure any code you write has clear variable names and comments where
-needed.
+Write the answers to the open questions directly in each of the *Markdown* cells.
 
-Submit your completed notebook below.
+Make sure any code you write has clear variable names and comments where needed.
+
+You can submit your completed notebook below.
