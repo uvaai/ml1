@@ -4,11 +4,11 @@ The deadline for both Python for Data Processing and Introduction to Machine Lea
 
 | Day             | Python for Data Processing | Introduction to Machine Learning 1 | Seminars                                                          |
 |-----------------|----------------------------|------------------------------------|-------------------------------------------------------------------|
-| Monday<br />01/02    | Installation               | Elements of AI:<br />Chapt. 1 & 2       | Introduction, Installation, terminal/editor basics and checkpy    |
-| Tuesday<br />02/02   | Getting started            | Elements of AI:<br />Chapt. 3 + SOWISO  |                                                                   |
-| Wednesday<br />03/02 | A first algorithm          | Theory videos<br />+ Written Assignment | Where to start; how to decompose a problem                        |
-| Thursday<br />04/02  | A serious algorithm        | Notebook intro<br />+ ELIZA             |                                                                   |
-| Friday<br />05/02    | Plotting graphs            | Finsih ELIZA                       |                                                                   |
+| Monday<br>01/02    | Installation               | Elements of AI:<br />Ch. 1 & 2       | Introduction, Installation, terminal/editor basics and checkpy    |
+| Tuesday<br>02/02   | Getting started            | Elements of AI: Ch. 3<br>+ SOWISO  |                                                                   |
+| Wednesday<br>03/02 | A first algorithm          | Theory videos<br>+ Written Assignment | Where to start; how to decompose a problem                        |
+| Thursday<br>04/02  | A serious algorithm        | Notebook intro<br>+ ELIZA             |                                                                   |
+| Friday<br>05/02    | Plotting graphs            | Finsih ELIZA                       |                                                                   |
 
 ### Seminars
 
