@@ -15,15 +15,8 @@ done in an online environment called SOWISO, which you may or may not already
 be familiar with. In SOWISO you can read theory pages describing the concepts
 and can get automated feedback and hints for each exercise.
 
-Currently, you will need to be manually added to the SOWISO module for this
-course. This means you will need to log into SOWISO *first*, and then we can
-add you to the course. Log into SOWISO using you UvAnetID here:
-
-[https://uva.sowiso.nl](https://uva.sowiso.nl)
-
-Then send us an email at <minorai@mprog.nl>, including your name and student
-number, and we'll add you to the course. After that you can get started with
-the exercises.
+[You can join the SOWISO course using this link.](https://uva.sowiso.nl/saml/surf/ZW5yb2xsL0dpb0xIeU1XRWh5cVgzRzk:)
 
 **Note:** Make sure to set your language in SOWISO to English, some of the
 modules will not be available in Dutch.
+
