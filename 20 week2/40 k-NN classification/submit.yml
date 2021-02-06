@@ -1,4 +1,4 @@
 name: prog_2
 files:
     required:
-        - Introduction to Machine Learning 1 week 2.ipynb
+        - k_Nearest_Neighbours.ipynb
