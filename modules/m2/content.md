@@ -7,7 +7,7 @@ The deadline for both Python for Data Processing and Introduction to Machine Lea
 |--------------------|-------------------------------|---------------------------------------|--------------------------------------------------------------------|
 | Monday<br>08/02    | Functions                     | Elements of AI                        |                                                                    |
 | Tuesday<br>09/02   | Roots                         | Elements of AI                        | Where to start; how to debug &<br>translating formulas to code     |
-| Wednesday<br>10/02 | Riemann                       | SOWISO + Theory videos                |                                                                    |
+| Wednesday<br>10/02 | Riemann                       | SOWISO<br>+ Theory videos             |                                                                    |
 | Thursday<br>11/02  | Riemann                       | k-NN: Assignment 4                    |                                                                    |
 | Friday<br>12/02    | Random                        | k-NN: Assignment 7                    | k-Nearest Neighbours:<br>Additional theory and Q&A                 |
 |                    |                               |                                       |                                                                    |
