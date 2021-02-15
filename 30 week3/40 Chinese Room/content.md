@@ -19,13 +19,14 @@ Read the article and then answer the questions below.
 
 ## Understanding Sentiment
 
-Searle never really gives an explicit definition of "understanding", but he
-does list a lot of hypothetical examples using people and machines, where he
-argues whether or not, in that specific example, these can be said to have
-clear understanding of the information they are processing. For this written
-assignment you'll be asked to make the same type of classification (i.e. does
-or does not have understanding) for the examples listed below, and to motivate
-these classifications using your own arguments.
+Searle never really gives an explicit definition of "understanding" and even
+says in article he wants to avoid fancy footwork around this definition.
+Instead, he simply lists a lot of hypothetical examples using people and
+machines, where he argues whether or not, in that specific example, these can
+be said to have clear understanding of the information they are processing. For
+this written assignment you'll be asked to make the same type of classification
+(i.e. does or does not have understanding) for the examples listed below, and
+to motivate these classifications using your own arguments.
 
 1. Start your written assignment by giving your own opinion on Searle's article
 and his classifications of understanding. Did Searle convince you with his
@@ -46,9 +47,10 @@ or not you think you have understanding of the sentiment of these tweets.
 own understanding of sentiment, but instead are trying to reproduce the
 specific notion of sentiment from the labels of the data set used in the
 assignment. So, you are not trying to classify what you think of as having a
-positive sentiment, but are trying to get as close as possible to the labels of
-these 1.6 million sample tweets. Argue whether or not you think you have
-understanding of the labeled sentiment of tweets in this data set.
+positive sentiment, but are reading the data set and trying to get as close as
+possible to the labels of these 1.6 million sample tweets. Argue whether or not
+you think you have understanding of the labeled sentiment of tweets in this
+data set.
 
 5. Finally, consider a combined system, consisting of the Naive Bayes sentiment
 analysis program and yourself, the programmer who wrote it. For this combined
@@ -60,7 +62,7 @@ be able to produce understanding of the labeled sentiment of tweets in this
 data set. 
 
 *Note:* Some of these exampes might be hard to classify as having understanding
-or not, and there isn't an obvious right or wrong answer for these question.
+or not, and there isn't an obvious right or wrong answer for these questions.
 What is most important, is that your answers show your understand the concepts
 from Searle's paper and how they might apply to different solutions for the
 problem of sentiment analysis.
