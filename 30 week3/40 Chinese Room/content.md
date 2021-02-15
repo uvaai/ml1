@@ -47,10 +47,10 @@ or not you think you have understanding of the sentiment of these tweets.
 own understanding of sentiment, but instead are trying to reproduce the
 specific notion of sentiment from the labels of the data set used in the
 assignment. So, you are not trying to classify what you think of as having a
-positive sentiment, but are reading the data set and trying to get as close as
-possible to the labels of these 1.6 million sample tweets. Argue whether or not
-you think you have understanding of the labeled sentiment of tweets in this
-data set.
+positive sentiment, but have read the data set and trying to get your
+classifications as close as possible to the labels of these 1.6 million sample
+tweets. Argue whether or not you think you have understanding of the labeled
+sentiment of tweets in this data set.
 
 5. Finally, consider a combined system, consisting of the Naive Bayes sentiment
 analysis program and yourself, the programmer who wrote it. For this combined
@@ -58,8 +58,8 @@ system, you are able to interact with and inspect any intermediate results and
 probabilities produced by the program when it makes a prediction for a new
 tweet, i.e. you can write code to access all of the data and not only just the
 resulting prediction. Argue whether or not you think this combined system would
-be able to produce understanding of the labeled sentiment of tweets in this
-data set. 
+be able to produce understanding of the labeled sentiment of tweets in the
+data set used in the assignment.
 
 *Note:* Some of these exampes might be hard to classify as having understanding
 or not, and there isn't an obvious right or wrong answer for these questions.
