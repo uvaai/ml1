@@ -2,18 +2,26 @@
 
 This week we’ll revisit the philosophical question from the written assignment
 of the first week; “Can machines think?”, and try to relate it to the new
-machine learning concepts you’ve learned in the past few weeks. To start, you
-should read Searle’s article describing the Chinese Room thought experiment,
-which is a classic text on the question.
+machine learning concepts you’ve learned in the past few weeks. For this we'll
+read Searle’s article describing the Chinese Room thought experiment, which is
+a classic text on the question. 
+
+The main claim Searle makes in this article is that instantiating a computer
+program is never by itself suffient to produce intentionality, where
+*intentionality* is the ability of the mind to form representations about
+something, which is required to understand them. Simply put, he claims computer
+programs by themselves can never produce understanding. Intentionality can be a
+tricky concept, but Searle gives a lot of examples in his article of cases
+where he thinks there are or aren't sufficient conditions for understanding.
 
 [J.R. Searle - Minds, brains, and programs](chinese_room.pdf)
 
 ## Understanding Sentiment
 
-Searle never really gives an explicit definition of understanding, but he does
-give a lot of hypothetical examples using people and machines, where he argues
-whether or not, in that specific example, these can be said to have clear
-understanding of the information they are processing. For this written
+Searle never really gives an explicit definition of "understanding", but he
+does give a lot of hypothetical examples using people and machines, where he
+argues whether or not, in that specific example, these can be said to have
+clear understanding of the information they are processing. For this written
 assignment you'll be asked to make the same type of classification (i.e. does
 or does not have understanding) for the examples listed below, and to motivate
 these classifications using your own arguments.
@@ -29,15 +37,19 @@ programming notebook this week as new example potentially capable of
 understanding. Would you argue this program has understanding of the
 sentiment of the tweets it processes? Why or why not?
  
-3. Next, consider the example where you yourself are reading tweets and
-classifying the sentiment of each tweet. Additionally, consider the case where
-you are not trying to classify based on your own understanding of sentiment,
-but instead are trying to reproduce the specific notion of sentiment as encoded
-in data set from the assignment, containing 1.6 million sample tweets labeled
-as having a positive or negative sentiment. For both these examples, argue
-whether or not they would produce understanding.
+3. Then, consider the case where you yourself are reading tweets and
+classifying the sentiment of each tweet. Would you argue that you have
+understanding of the sentiment of these tweets? Why or why not?
 
-4. Finally, consider a combined system, consisting of the Naive Bayes sentiment
+4. Next, consider the case where you are not trying to classify based on your
+own understanding of sentiment, but instead are trying to reproduce the
+specific notion of sentiment as encoded in data set from the assignment. So you
+are not trying to label what you think of as having a positive sentiment, but
+are trying to get as close as possible to the labels of these 1.6 million
+sample tweets. Would you argue that you have understanding of the labeled
+sentiment of these tweets in this case? Why or why not?
+
+5. Finally, consider a combined system, consisting of the Naive Bayes sentiment
 analysis program and yourself, the programmer who wrote it. For this combined
 system, you are able to interact with and inspect any intermediate results and
 probabilities produced by the program when it makes a prediction for a new
