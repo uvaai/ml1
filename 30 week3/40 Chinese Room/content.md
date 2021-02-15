@@ -13,13 +13,14 @@ something, which is required to understand them. Simply put, he claims computer
 programs by themselves can never produce understanding. Intentionality can be a
 tricky concept, but Searle gives a lot of examples in his article of cases
 where he thinks there are or aren't sufficient conditions for understanding.
+Read the article and then answer the questions below.
 
 [J.R. Searle - Minds, brains, and programs](chinese_room.pdf)
 
 ## Understanding Sentiment
 
 Searle never really gives an explicit definition of "understanding", but he
-does give a lot of hypothetical examples using people and machines, where he
+does list a lot of hypothetical examples using people and machines, where he
 argues whether or not, in that specific example, these can be said to have
 clear understanding of the information they are processing. For this written
 assignment you'll be asked to make the same type of classification (i.e. does
@@ -38,25 +39,25 @@ understanding. Would you argue this program has understanding of the
 sentiment of the tweets it processes? Why or why not?
  
 3. Then, consider the case where you yourself are reading tweets and
-classifying the sentiment of each tweet. Would you argue that you have
-understanding of the sentiment of these tweets? Why or why not?
+classifying the sentiment of each tweet as positive or negative. Argue whether
+or not you think you have understanding of the sentiment of these tweets.
 
 4. Next, consider the case where you are not trying to classify based on your
 own understanding of sentiment, but instead are trying to reproduce the
-specific notion of sentiment as encoded in data set from the assignment. So you
-are not trying to label what you think of as having a positive sentiment, but
-are trying to get as close as possible to the labels of these 1.6 million
-sample tweets. Would you argue that you have understanding of the labeled
-sentiment of these tweets in this case? Why or why not?
+specific notion of sentiment from the labels of the data set used in the
+assignment. So, you are not trying to classify what you think of as having a
+positive sentiment, but are trying to get as close as possible to the labels of
+these 1.6 million sample tweets. Argue whether or not you think you have
+understanding of the labeled sentiment of tweets in this data set.
 
 5. Finally, consider a combined system, consisting of the Naive Bayes sentiment
 analysis program and yourself, the programmer who wrote it. For this combined
 system, you are able to interact with and inspect any intermediate results and
 probabilities produced by the program when it makes a prediction for a new
-tweet, i.e. you can access all of the data and not just the resulting
-prediction. Argue whether or not you think this combined system would be able
-to produce understanding when trying to reproduce specific notion of sentiment
-as encoded in labeled data set from the assignment.
+tweet, i.e. you can write code to access all of the data and not only just the
+resulting prediction. Argue whether or not you think this combined system would
+be able to produce understanding of the labeled sentiment of tweets in this
+data set. 
 
 *Note:* Some of these exampes might be hard to classify as having understanding
 or not, and there isn't an obvious right or wrong answer for these question.
