@@ -1,4 +1,4 @@
 name: prog_4
 files:
     required:
-        - gradient_descent.ipynb
+        - linear_regression.ipynb
