@@ -6,11 +6,11 @@ The deadline for both Python for Data Processing and Introduction to Machine Lea
 | Day                | Python for<br>Data Processing        | Introduction to<br>Machine Learning   | Seminars                                    |
 |--------------------|--------------------------------------|---------------------------------------|---------------------------------------------|
 | Wednesday<br>24/02 | Monopoly: Moving around the board    | SOWISO                                |                                             |
-| Thursday<br>25/02  | Monopoly: Moving around the board    | Theory videos +<br>Linear Regression: Assignment 2a |                               |
-| Friday<br>26/02    | Monopoly: Buying properties          | Linear Regression: Assignment 3       | Linear regression & Partial derivatives     |
+| Thursday<br>25/02  | Monopoly: Moving around the board    | Theory videos +<br>Linear Regression:<br>Assignment 2a |                               |
+| Friday<br>26/02    | Monopoly: Buying properties          | Linear Regression:<br>Assignment 3    | Linear regression &<br>Partial derivatives     |
 |                    |                                      |                                       |                                             |
-| Monday<br>01/03    | Monopoly: Buying properties          | Linear Regression: Assignment 5       | Cost function derivative & Gradient descent |
-| Tuesday<br>02/03   | Monopoly: Starting money             | Linear Regression: Assignment 7       | Organizing code, duplicate code prevention  |
+| Monday<br>01/03    | Monopoly: Buying properties          | Linear Regression:<br>Assignment 5    | Cost function derivative &<br>Gradient descent |
+| Tuesday<br>02/03   | Monopoly: Starting money             | Linear Regression:<br>Assignment 7    | Organizing code, duplicate code prevention  |
 | Wednesday<br>03/03 | Monopoly: Advantage of player 1      | Finish Linear Regression              |                                             |
 | Thursday<br>04/03  | Monopoly: Repairing the disadvantage | Written Assignment: AlphaGo           |                                             |
 
