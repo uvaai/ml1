@@ -50,7 +50,7 @@ assignment. So, you are not trying to classify what you think of as having a
 positive sentiment, but have read the data set and are trying to get your
 classifications as close as possible to the labels of these 1.6 million sample
 tweets. Argue whether or not you think you would have understanding of the
-labeled sentiment of tweets in this data set.
+labeled sentiment of tweets based on the examples in this data set.
 
 5. Finally, consider a combined system, consisting of the Naive Bayes sentiment
 analysis program and yourself, the programmer who wrote it. For this combined
