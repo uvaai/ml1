@@ -47,7 +47,7 @@ or not you think you have understanding of the sentiment of these tweets.
 own understanding of sentiment, but instead are trying to reproduce the
 specific notion of sentiment from the labels of the data set used in the
 assignment. So, you are not trying to classify what you think of as having a
-positive sentiment, but have read the data set and trying to get your
+positive sentiment, but have read the data set and are trying to get your
 classifications as close as possible to the labels of these 1.6 million sample
 tweets. Argue whether or not you think you would have understanding of the
 labeled sentiment of tweets in this data set.
