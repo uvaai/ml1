@@ -12,7 +12,7 @@ data set, which is what we'll use it for this week.
 To start with an introduction on some of these topics, watch the following
 videos from the Linear Algebra course on Khan Academy:
 
-### Vector introduction
+### Vector introduction for Linear Algebra
 
 ![embed](https://www.youtube.com/embed/br7tS1t2SFE)
 
@@ -20,36 +20,36 @@ videos from the Linear Algebra course on Khan Academy:
 
 ![embed](https://www.youtube.com/embed/lCsjJbZHhHU)
 
-### Multiplying vectors
+### Adding vectors
 
 ![embed](https://www.youtube.com/embed/8QihetGj3pg)
 
-### Multiplying vectors
+### Multiplying vectors by a scalar
 
 ![embed](https://www.youtube.com/embed/ZN7YaSbY3-w)
 
-### Vector dot product
+### Vector dot product and vector length
 
 ![embed](https://www.youtube.com/embed/WNuIhXo39_k)
 
+<!---
 ### Solving a system of linear equations (only first 5 minutes)
 
 ![embed](https://www.youtube.com/embed/L0CmbneYETs)
+-->
 
-### Matrix vector multiplication
+### Matrix vector products
 
 ![embed](https://www.youtube.com/embed/7Mo4S2wyMg4)
 
+
 ## SOWISO
 
-Complete chapters
+Complete the following chapters on [SOWISO](https://uva.sowiso.nl/):
 
 * 5.a Vectors
 * 5.b Systems of Linear Equations
 * 5.c Matrices
-    * **Note:** For the section *Multiplication of Matrices* you only need to complete 3 questions, not all 10. 
 * 5.d Measuring Variability
 * 5.e Gaussian Distribution
-
-on [SOWISO](https://uva.sowiso.nl/).
 
