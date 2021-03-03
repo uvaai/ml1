@@ -11,9 +11,7 @@ data set, which is what we'll use it for this week.
 
 To get an introduction on some of these topics, we'll start with some of the
 videos from the Linear Algebra course on Khan Academy. Then, you can complete
-the SOWISO chapters linked below.
-
-Start by watching the following videos:
+the SOWISO chapters linked below. Start by watching the following videos:
 
 ### Vector introduction for Linear Algebra
 
