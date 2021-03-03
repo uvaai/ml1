@@ -9,8 +9,11 @@ introduce a famous continuous probability distribution, called the Gaussian
 Distribution. It can used to model many things, including modelling the noise a
 data set, which is what we'll use it for this week.
 
-To start with an introduction on some of these topics, watch the following
-videos from the Linear Algebra course on Khan Academy:
+To get an introduction on some of these topics, we'll start with some of the
+videos from the Linear Algebra course on Khan Academy. Then, you can complete
+the SOWISO chapters linked below.
+
+Start by watching the following videos:
 
 ### Vector introduction for Linear Algebra
 
