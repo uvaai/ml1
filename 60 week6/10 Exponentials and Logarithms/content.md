@@ -1,5 +1,5 @@
 
-# Exponentionals and Logarithms
+# Exponentials and Logarithms
 
 This week's first topic is exponentials and logarithms. These functions are
 eachother's inverse and have some interesting properties, which will come to
