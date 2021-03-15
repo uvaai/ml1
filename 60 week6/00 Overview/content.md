@@ -5,10 +5,9 @@ This week we'll take a look at an unsupervised learning, specifically at a
 cluster method called k-means, and learn about different methods of calculating
 distance.
 
-This week's [SOWISO module](/week6/vector-distance) is comprised of two parts. The first
-part continues upon last week's vector chapter and introduces a method of
-calculating the angle between two vectors using the dot product. The second
-part covers the concepts of covariance and correlation.
+This week's [SOWISO module](/week6/exponentials-and-logarithms) is comprised of
+two parts. The first part introduces exponential functions and how to derive
+them. The second part covers the concepts of covariance and correlation.
 
 Next, we'll continue with some more [videos by Andrew Ng](/week6/unsupervised-learning)
 introducing unsupervised learning and the K-means algorithm. We will then
