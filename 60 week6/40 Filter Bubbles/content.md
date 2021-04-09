@@ -14,5 +14,5 @@ bubble differ from that of a person in a filter bubble?
 think it is likely that fringe bubbles do exist? Explain your answer.
 4. Möller lists several reasons why filter bubbles can't really exist in
 Holland. Why do or don't (depending on your answer for 3) you think that these
-applies to fringe bubbles too?
+apply to fringe bubbles too?
 
