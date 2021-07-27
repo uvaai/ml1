@@ -15,17 +15,17 @@ server:
     conda activate progLab
     jupyter notebook
 
-The assignment uses the `nltk` library, so without the enviroment this code
+The assignment uses the `nltk` library, so without the environment this code
 won't work!
 
 *Note:* If you close and reopen the assignment notebook, then the `nltk`
 imports and all the code you ran will no longer be in memory. You will have to
 rerun all cells so all the imports are included again. You can use
-`Cell > Run all` from the menubar (at the top) to do this.
+`Cell > Run all` from the menu bar (at the top) to do this.
 
-You can stop any active chats by typing `quit` in the chatbox. You can also
+You can stop any active chats by typing `quit` in the chat box. You can also
 comment out a chat by adding a `#` before, so the chatbot won't run. See the
-section *Quiting the program* for more details.
+section *Quitting the program* for more details.
 
 ## Completing your solution
 

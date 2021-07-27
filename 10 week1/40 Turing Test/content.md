@@ -15,16 +15,16 @@ interesting read.
 
 You may skip sections 4 and 5 while reading, as they are a bit technical and
 not entirely relevant for the argument made. They (briefly) state that a
-digital computer can be used be used to simulate any other machine or computer,
-and therefore considering only digital computers is actually sufficient to
-answer the question for machines in general. This is related to other famous
-computer science concepts such as *Turing Machines* and *Turing
-Completeness*, both obviously also invented by Turing. These are also very
-interesting topics, but might be hard to grasp with only a couple of paragraphs
-devoted to them, so perhaps are best studied another time. You may also skip
-section 7, as it is mostly speculation on how machines might be able to learn,
-which is a topic we'll cover extensively in the coming weeks (with slightly
-more current information).
+digital computer can be used to simulate any other machine or computer, and
+therefore considering only digital computers is actually sufficient to answer
+the question for machines in general. This is related to other famous computer
+science concepts such as *Turing Machines* and *Turing Completeness*, both
+obviously also invented by Turing. These are also very interesting topics, but
+might be hard to grasp with only a couple of paragraphs devoted to them, so
+perhaps are best studied another time. You may also skip section 7, as it is
+mostly speculation on how machines might be able to learn, which is a topic
+we'll cover extensively in the coming weeks (with slightly more current
+information).
 
 ### Assignment
 
@@ -39,7 +39,7 @@ can think.
 Your reply should be around 500 to 600 words, but does not have to fall exactly
 in this range. Most important is if you've used enough words to make a cohesive
 and clear argument for your point of view. As the limit, less than 400 words
-words will usually be considered too few and more than 800 to be too many.
+will usually be considered too few and more than 800 to be too many.
 
 ### Submission
 
