@@ -7,7 +7,7 @@ read Searle’s article describing the Chinese Room thought experiment, which is
 a classic text on the question. 
 
 The main claim Searle makes in this article is that instantiating a computer
-program is never by itself suffient to produce intentionality, where
+program is never by itself sufficient to produce intentionality, where
 *intentionality* is the ability of the mind to form representations about
 something, which is required to understand them. Simply put, he claims computer
 programs by themselves can never produce understanding. Intentionality can be a
@@ -20,7 +20,7 @@ Read the article and then answer the questions below.
 ## Understanding Sentiment
 
 Searle never really gives an explicit definition of "understanding" and even
-says in article he wants to avoid fancy footwork around this definition.
+says in the article he wants to avoid fancy footwork around this definition.
 Instead, he simply lists a lot of hypothetical examples using people and
 machines, where he argues whether or not, in that specific example, these can
 be said to have clear understanding of the information they are processing. For
@@ -35,7 +35,7 @@ understanding? Are there any examples Searle classifies as understanding / not
 understanding you disagree with?
 
 2. Consider the Naive Bayes sentiment analysis program you built in the
-programming notebook this week as new example potentially capable of
+programming notebook this week as a new example potentially capable of
 understanding. Would you argue this program has understanding of the
 sentiment of the tweets it processes? Why or why not?
  
@@ -61,9 +61,9 @@ not just the resulting prediction. Argue whether or not you think this combined
 system would be able to produce understanding of the labeled sentiment of
 tweets in the data set used in the assignment.
 
-*Note:* Some of these exampes might be hard to classify as having understanding
-or not, and there isn't an obvious right or wrong answer for these questions.
-What is most important, is that your answers show your understand the concepts
-from Searle's paper and how they might apply to different solutions for the
-problem of sentiment analysis.
+*Note:* Some of these examples might be hard to classify as having
+understanding or not, and there isn't an obvious right or wrong answer for
+these questions.  What is most important, is that your answers show you
+understand the concepts from Searle's paper and how they might apply to
+different solutions for the problem of sentiment analysis.
 

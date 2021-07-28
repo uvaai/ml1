@@ -37,11 +37,11 @@ by *ProPublica* in 2016 showed quite clearly:
 The reason this type of bias is so hard to correct for is because completely
 anonymizing data can be very hard. If you don't want the algorithm to include
 race as a factor, it is not enough to just remove the `race` feature from the
-data set. In quite a few cities, postal code can be be a perfectly good proxy
+data set. In quite a few cities, postal code can be a perfectly good proxy
 for race, and the algorithm can just learn to discriminate against certain
 postal codes instead. Many aspects of our personal data can be indicative of
 race or gender, some of which are not always immediately obvious. Removing all
-potenially discriminatory features from the data also means throwing away a
+potentially discriminatory features from the data also means throwing away a
 large part of the data that helps the algorithm to learn better, so there is an
 inherent trade-off.
 
@@ -56,7 +56,7 @@ material from this week.
 
 ## Uncovering Bias
 
-For the written assignment this week, you should seach online for articles
+For the written assignment this week, you should search online for articles
 describing other instances of algorithmic bias resulting in discrimination of
 race, gender, or any other type of discrimination. The text you write should:
 

@@ -1,11 +1,11 @@
 
 # Week 6
 
-This week we'll take a look at an unsupervised learning, specifically at a
+This week we'll take a look at unsupervised learning, specifically at a
 cluster method called k-means, and learn about different methods of calculating
 distance.
 
-This week's [SOWISO module](/week6/exponentials-and-logarithms) is comprised of
+This week's [SOWISO module](/week6/exponentials-and-logarithms) is composed of
 two parts. The first part introduces exponential functions and how to derive
 them. The second part covers the concepts of covariance and correlation.
 

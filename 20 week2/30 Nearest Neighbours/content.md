@@ -15,7 +15,7 @@ algebra*. The topic will not be needed for the programming this week, but will
 come up several times in the next couple of modules, so this quick introduction
 will be useful. We will go into much more detail on linear algebra in a few
 weeks, when we'll use some of the tools of linear algebra to implement
-other algorithms, but for now we'll just get familar with the basic concept.
+other algorithms, but for now we'll just get familiar with the basic concept.
 
 ![embed](https://youtube.com/embed/fNk_zzaMoSs)
 

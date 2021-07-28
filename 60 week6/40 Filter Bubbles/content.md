@@ -6,7 +6,7 @@ polarisation](https://soundcloud.com/stukroodvlees/aflevering-51-filterbubbels-e
 wherein communications scientist Judith Möller is interviewed on the topics of
 her research. Then, answer the following question about the podcast:
 
-1. Explain the difference between a filter bubble and fringe bubble (the new
+1. Explain the difference between a filter bubble and a fringe bubble (the new
 research topic Möller describes at the end of the podcast)
 2. How does the effect of a fringe bubble on the opinion of the person in the
 bubble differ from that of a person in a filter bubble?

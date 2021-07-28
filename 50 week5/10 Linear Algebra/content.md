@@ -4,10 +4,10 @@
 There will be a lot of different topics to introduce this week, but all of them
 will be directly useful in the programming notebook. Writing larger linear
 models actually becomes easier when you can use vectors and matrices, so they
-will be main topic of the SOWISO module for this week. In addition, we'll
+will be the main topic of the SOWISO module for this week. In addition, we'll
 introduce a famous continuous probability distribution, called the Gaussian
-Distribution. It can used to model many things, including modelling the noise a
-data set, which is what we'll use it for this week.
+Distribution. It can be used to model many things, including modelling the
+noise of a data set, which is what we'll use it for this week.
 
 To get an introduction on some of these topics, we'll start with some of the
 videos from the Linear Algebra course on Khan Academy. Then, you can complete

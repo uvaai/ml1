@@ -3,7 +3,7 @@
 
 This week's first topic is exponentials and logarithms. These functions are
 each other's inverse and have some interesting properties, which will come to
-light in the second topic if this week; differentiation. The final SOWISO
+light in the second topic of this week; differentiation. The final SOWISO
 topics will be correlation and covariance, which are essential for
 understanding dependencies between different variables.
 

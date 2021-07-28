@@ -12,5 +12,5 @@ Here we'll try to predict whether a tweet has a positive or a negative
 tone, i.e. the sentiment of the tweet, using labelled data from Twitter.
 
 Finally, we'll read Searle's paper describing the [Chinese room](/week3/chinese-room)
-though experiment, and try to apply its ideas to the *Naive Bayes* program from
+thought experiment, and try to apply its ideas to the *Naive Bayes* program from
 the notebook.

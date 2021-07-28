@@ -7,7 +7,7 @@ Read the material in these three chapters and complete the corresponding
 exercises.
 
 There are 4 open questions in these chapters, your answers to which you should
-submit as your written assignment for the week. Specifically, should submit
+submit as your written assignment for the week. Specifically, you should submit
 your answers for
 
 * Chapter 4-2 : Exercise 15

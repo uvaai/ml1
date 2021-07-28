@@ -13,11 +13,11 @@ definitions of intelligence next.
 
 Historically, AI researchers have taken intelligence to be a general
 problem-solving ability. A new research challenge would be defined by taking a
-tasks humans are good at, but we don’t know how to get computers to solve, and
+task humans are good at, but we don’t know how to get computers to solve, and
 then try and program computers to solve it. This might be a problem of
 translating a complete Dutch sentence to a sentence in English using proper
 grammar (which would be machine translation, natural language processing) or
-recognizing an individual person based on the just the pixel values of an image
+recognizing an individual person based on just the pixel values of an image
 of their face (which would be facial recognition, computer vision). Both are
 complex problems requiring very technical algorithms to solve, but some
 solutions to these problems are publicly available and you might even use them
@@ -38,12 +38,12 @@ programming the basic rules of a game is usually easy and the challenge has a
 very clear goal (win the game). However, finding a strategy with which you can
 win, is usually much harder. The classic example here is the game of chess,
 which was "solved" in 1997 when the computer *Deep Blue* beat Garry Kasparov,
-who was at that time was ranked the best player in the world. Most of the
+who at that time was ranked the best player in the world. Most of the
 victory of *Deep Blue* is usually attributed to the increases in computational
 power at the time, and not the algorithm that *Deep Blue* was running, which
-was relatively simple. This a recurring problem in AI of course; once a problem
-is solved, then we can understand the solution and say this solution wasn't
-actually intelligent.
+was relatively simple. This is a recurring problem in AI of course; once a
+problem is solved, then we can understand the solution and say this solution
+wasn't actually intelligent.
 
 In order to avoid this type of *computational horsepower* solution, the next
 big challenge became the game of Go. Go is a much harder game to solve in a
@@ -62,7 +62,7 @@ viewing material for this week:
 
 ## Creative AI
 
-First, lets try and link this complex algorithm back to the linear regression
+First, let's try and link this complex algorithm back to the linear regression
 algorithm we discussed this week, where we learn to predict a y-value based on
 some x-value, given a set of training examples. This algorithm instead tries to
 predict how likely the human player is to play a certain move, and how likely
@@ -90,7 +90,7 @@ positions, which it might not have specifically seen before, but perhaps it did
 see situations which were *similar*.
 
 Given this understanding of the algorithm, consider if move 37 is actually
-creative. It is a move is that extremely unlikely for humans to play, but did
+creative. It is a move that is extremely unlikely for humans to play, but did
 get a high probability of winning in AlphaGo when playing many games versus
 itself. Is an unlikely sequence of music notes that still sounds good (given a
 data set or metric for "sounding good") creative? Apparently, world experts
@@ -100,5 +100,5 @@ the highest bar we could possibly set for such a system.
 For your written assignment this week, argue whether or not you think move 37
 is creative. Search online for some definitions of creativity and cite at least
 one definition that matches your own. These may just be dictionary definitions
-and do not have to come from scientific papers, as long as you can compare whether
-move 37 is creative or not according to this / these definitions.
+and do not have to come from scientific papers, as long as you can compare
+whether move 37 is creative or not according to this / these definitions.
