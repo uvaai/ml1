@@ -5,7 +5,7 @@ The deadline for both Python for Data Processing and Introduction to Machine Lea
 
 | Day                | Python for<br>Data Processing      | Introduction to<br>Machine Learning | Seminars                                                       |
 |--------------------|------------------------------------|-------------------------------------|----------------------------------------------------------------|
-| Monday<br>20/09    | Dictionaries + Monte Carlo start   | SOWISO + Theory videos              | Where to start; creating your own functions, doing things once |
+| Monday<br>20/09    | Dictionaries +<br>Monte Carlo start | SOWISO +<br>Theory videos          | Where to start; creating your own functions, doing things once |
 | Tuesday<br>21/09   | Monte Carlo finish                 | Naive Bayes: Assignment 1 & 2       | Bayes' Rule & the Naive Bayes algorithm                        |
 | Wednesday<br>22/09 | Reading files +<br>Temperature data: Assignment 0 | Naive Bayes: Assignment 3 & 4 |                                                       |
 | Thursday<br>23/09  | Temperature data: Assignment 1, 2 & 3 | Naive Bayes: Finish              | Implementing Likelihood, Prior & Posterior                     |
