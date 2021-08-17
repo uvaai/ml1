@@ -17,7 +17,7 @@ There are two scheduled seminars for this module:
 
 * **Introduction, installation, terminal/editor basics and checkpy** on *Monday September 6th at 11:00* in room F2.04
 
-* **Where to start; how to decompose a problem** on *Wednesday September 8th at 11:00* in <https://uva-live.zoom.us/j/86348750456>
+* **Where to start; how to decompose a problem** on *Wednesday September 8th at 11:00*: <https://uva-live.zoom.us/j/86348750456>
 
 ### Daily sessions
 
