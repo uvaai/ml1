@@ -17,11 +17,11 @@ The deadline for both Python for Data Processing and Introduction to Machine Lea
 
 There are three scheduled seminars for this module:
 
-* **Linear regression & Partial derivatives** on *Wednesday September 29th at t:00* in <https://uva-live.zoom.us/j/85073960902>
+* **Linear regression & Partial derivatives** on *Wednesday September 29th at 11:00* in <https://uva-live.zoom.us/j/85073960902>
 
-* **Gradient checking & Gradient descent** on *Thursday September 30th at t:00* in room G2.10
+* **Gradient checking & Gradient descent** on *Thursday September 30th at 13:00* in room G2.10
 
-* **Organizing code, duplicate code prevention** on *Friday October 1st at t:00* in <https://uva-live.zoom.us/j/86348750456>
+* **Organizing code, duplicate code prevention** on *Friday October 1st at 11:00* in <https://uva-live.zoom.us/j/86348750456>
 
 ### Daily sessions
 

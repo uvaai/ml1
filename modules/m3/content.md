@@ -15,11 +15,11 @@ The deadline for both Python for Data Processing and Introduction to Machine Lea
 
 There are three scheduled seminars for this module:
 
-* **Where to start; creating your own functions, doing things once** on *Monday September 20th at t:00* in <https://uva-live.zoom.us/j/86348750456>
+* **Where to start; creating your own functions, doing things once** on *Monday September 20th at 11:00* in <https://uva-live.zoom.us/j/86348750456>
 
-* **Bayes' Rule & the Naive Bayes algorithm** on *Tuesday September 21st at t:00* in room F2.04
+* **Bayes' Rule & the Naive Bayes algorithm** on *Tuesday September 21st at 11:00* in room F2.04
 
-* **Implementing Likelihood, Prior & Posterior** on *Thursday September 23rd at t:00* in room G1.18
+* **Implementing Likelihood, Prior & Posterior** on *Thursday September 23rd at 13:00* in room G1.18
 
 ### Daily sessions
 
