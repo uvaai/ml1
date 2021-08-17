@@ -18,11 +18,11 @@ The deadline for both Python for Data Processing and Introduction to Machine Lea
 
 There are three scheduled seminars for this module:
 
-* **Pandas & Survival** on *Thursday October 14th at 13:00 in room SP G2.10
+* **Pandas & Survival** on *Thursday October 14th at t:00* in room G2.10
 
-* **k-Means & Numpy** on *Monday October 18th at 11:00 in room SP F2.04
+* **k-Means & Numpy** on *Monday October 18th at t:00* in room F2.04
 
-* **Distance metrics** on *Thursday October 21st at 13:00 in room SP G2.10
+* **Distance metrics** on *Thursday October 21st at t:00* in room G2.10
 
 ### Daily sessions
 
