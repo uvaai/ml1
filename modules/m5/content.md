@@ -19,11 +19,11 @@ The deadline for both Python for Data Processing and Introduction to Machine Lea
 There are three scheduled seminars for this module:
 
 
-* **Where to start: Reading someone else's code** on *Wednesday October 6th at 11:00*: <https://uva-live.zoom.us/j/86348750456>
+* **Where to start: Reading someone else's code** on *Wednesday October 6th at 11:00 in <https://uva-live.zoom.us/j/86348750456>
 
-* **Multivariate linear & Vectorizing code** on *Thursday October 7th at 11:00*: <https://uva-live.zoom.us/j/85073960902>
+* **Multivariate linear & Vectorizing code** on *Thursday October 7th at 13:00 in room SP G3.02
 
-* **Polynomial regression & Model selection** on *Monday October 11th at 11:00*: <https://uva-live.zoom.us/j/85073960902>
+* **Polynomial regression & Model selection** on *Monday October 11th at 11:00 in room SP F2.04
 
 ### Daily sessions
 
