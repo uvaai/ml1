@@ -188,7 +188,7 @@ to recieve a pass for this element.
 If all elements are completed satisfactorily, your final grade for the course
 is computed as:
 
-    30% programming average + 30% written average + 40% exam grade
+    40% programming average + 20% written average + 40% exam grade
 
 ### Programming Grades
 
