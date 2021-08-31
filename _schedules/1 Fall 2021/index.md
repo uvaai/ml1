@@ -2,9 +2,6 @@
 
 University of Amsterdam / Programming Lab / 50821ITM6Y
 
-**IMPORTANT: This course syllabus is not yet final, as some course components
-depend on the government measures that will be announced on August 13th.**
-
 ## Staff
 
 Tim Doolan (coordinator)
