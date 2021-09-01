@@ -41,6 +41,20 @@ in this range. Most important is if you've used enough words to make a cohesive
 and clear argument for your point of view. As the limit, less than 400 words
 will usually be considered too few and more than 800 to be too many.
 
+### Peer review
+
+You are encouraged to swap writing assignments with other students, read them
+and share feedback with each other, both on the contents of the arguments and
+the structure of the writing. Writing a good text can be difficult and,
+especially after you rewrote something a couple of times, other people will
+generally spot improvements that you can't see anymore. So, make use of that
+and help each other out by exchanging feedback.
+
+As part of next week's writing assignment you'll also need to read and compare
+several assignments other students wrote for this week, so if you already read
+some other response as part of sharing feedback, you'll be halfway done with
+that part of the assignment this week.
+
 ### Submission
 
 For the written portion this week, you should submit your answer to exercise 4
