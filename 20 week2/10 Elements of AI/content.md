@@ -28,19 +28,19 @@ assignments you submitted among yourselves. Read the other assignments and
 discuss anything that might be unclear, that you disagree on or maybe just
 arguments you found interesting. Then, answer the following questions.
 
-**Q1. Which students assignments did you read?**
+**Q1. Which students' assignments did you read?**
 
 **Q2. What were the Turing arguments they objected too?**
 
-**Q3. If there were any assignments that chose the same argument from Turing as
+**Q3. If there were any students that chose the same argument from Turing as
 you did, were any counter arguments mentioned that you did not include? If so,
 what were they?**
 
-**Q4. If there were any assignments that chose a different argument from Turing
+**Q4. If there were any students that chose a different argument from Turing
 than you did, were any of the counter arguments mentioned suprising or
 particularly insightful to you? If so, what were they?**
 
 **Q5. Did reading all these arguments and counter arguments change your opinion
 on whether or not the Turing test is an effective measure for intelligence? If
-so, why? If not, why not?
+so, why? If not, why not?**
 
