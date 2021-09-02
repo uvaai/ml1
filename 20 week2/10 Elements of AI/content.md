@@ -37,7 +37,7 @@ you did, were any counter arguments mentioned that you did not include? If so,
 what were they?**
 
 **Q4. If there were any students that chose a different argument from Turing
-than you did, were any of the counter arguments mentioned suprising or
+than you did, were any of the counter arguments mentioned surprising or
 particularly insightful to you? If so, what were they?**
 
 **Q5. Did reading all these arguments and counter arguments change your opinion
