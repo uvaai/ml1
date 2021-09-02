@@ -44,7 +44,7 @@ The deadlines for each module can also be found on the module schedule pages
 (the first item in the sidebar for each module).
 
 We've found that it can be difficult for students to plan when to work on what
-part of the material, especially with two complete new courses, that together
+part of the material, especially with two completely new courses, that together
 require a full-time time investment. Being unfamiliar with a subject makes it a
 lot harder to estimate how long something might take, and structuring your work
 can be more difficult, especially when working from home. To help with all of
@@ -96,7 +96,7 @@ your absence, so we can handle it accordingly.
 
 ## Asking questions
 
-If you have any question about the material, there are several ways to get
+If you have any questions about the material, there are several ways to get
 to ask them and get assistance. 
 
 ### Practical assistance
@@ -130,9 +130,9 @@ Most weeks there will be 2 lectures, which will either be about a programming
 or machine learning topic. The exact topic is listed as part of the schedule
 and usually consists of some extra theory not covered in the theory videos or
 reading material. In addition, they will often serve as the central place to
-any ask questions or discuss that theory together with your fellow students.
+ask any questions or discuss that theory together with your fellow students.
 
-Questions about the theory can therefore best be asked during the lectures, or
+Questions about the theory can, therefore best be asked during the lectures, or
 alternatively as public questions on the Ed forum, as described below. That
 way, any clarification on the theory will benefit your fellow students too.
 
@@ -142,11 +142,11 @@ In addition to the lectures and practicals, you can ask questions on
 the [Ed forum](https://edstem.org/us/courses/12022/discussion/). There the
 course staff or your fellow students will answer any specific questions you
 might have. Questions can be posted there any time, not just when there is
-practical, which makes it more versitle than waiting for the next practical or
-lecture.
+a practical, which makes it more versatile than waiting for the next practical
+or lecture.
 
-If you have general question about the material or the assignment, please make
-it a public question, so other students can also read the answer. Private
+If you have a general question about the material or the assignment, please
+make it a public question, so other students can also read the answer. Private
 questions are intended for questions that share specific portions of a
 solution, which you obviously shouldn't do publicly. Further details on using
 *Ed* can be found in the pinned "Welcome" post on the forum.
@@ -165,7 +165,7 @@ part of an assignment as other students, you can then decide to take a look at
 your approach for a problem together. We encourage you to discuss approaches to
 problems together, as this is an effective way to learn, but this can only
 occur if you know each other and what you are working on. Facilitating this is
-primary purpose of these meetings.
+the primary purpose of these meetings.
 
 *Note:* This means working together on analysis and approach of a problem, not
 directly sharing code with each other! For a complete description of what it
@@ -281,7 +281,7 @@ Below are rules of thumb that (inexhaustively) characterize acts that the course
 
 - Turning to the course's heads for help or receiving help from the course's heads during the quiz or test.
 
-- Turning to the web or elsewhere for instruction beyond the course's own, for references, and for solutions to technical difficulties, but not for outright solutions to problem set's problems or your own final project.
+- Turning to the web or elsewhere for instruction beyond the course's own, for references, and for solutions to technical difficulties, but not for outright solutions to assignment problems or your own final project.
 
 - Whiteboarding solutions to problem sets with others using diagrams or pseudocode but not actual code.
 
