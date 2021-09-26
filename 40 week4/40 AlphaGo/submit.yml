@@ -2,3 +2,4 @@ name: writ_4
 files:
     required:
         - alphago_creativity.txt
+        - review_chinese_room.txt
