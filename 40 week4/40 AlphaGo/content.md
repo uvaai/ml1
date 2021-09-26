@@ -118,12 +118,12 @@ arguments you found interesting. Then, answer the following questions.
 
 **Q1. Which students' assignments did you read?**
 
-**Q2. Where there any questions where all other students answered similarly to
+**Q2. Were there any questions where all other students answered similarly to
 your own answer when arguing an example having understanding or not?  If so,
 for which questions was this the case?**
 
 **Q3. For the other questions, i.e. those where not all answers were similar,
-list these questions and each of their alternative answers. Include the gist of
+list these questions and each of the alternative answers. Include the gist of
 the motivation that was given with these answers.**
 
 **Q4. Did reading these other opinions change your own opinion on any of the
