@@ -109,7 +109,7 @@ For this week, you should again swap writing assignments with other students,
 read them and share feedback with each other, both on the contents of the
 arguments and the structure of the writing.
 
-In addition to your argument for or against the creativity of move 37, you
+In addition to your argument for *or* against the creativity of move 37, you
 should read the written assignments from at least 3 other students from last
 week (the Chinese Room). You can form your own groups for this, sharing the
 assignments you submitted among yourselves. Read the other assignments and
@@ -119,12 +119,13 @@ arguments you found interesting. Then, answer the following questions.
 **Q1. Which students' assignments did you read?**
 
 **Q2. Where there any questions all other students answered similarly to your
-own answer when arguing for or against an example having understanding?
+own answer when arguing an example having understanding or not?
 If so, for which questions was this the case?**
 
 **Q3. For the other questions, i.e. those where not all answers were similar,
-list the question and the gist of the answers that differed from your own.**
+what weere the question and the gist of the answers that differed from your
+own?**
 
 **Q4. Did reading these other opinions change your own opinion on any of the
-questions you answered? If so, how did your opinion change?**
+questions you answered last week? If so, how did your opinion change?**
 
