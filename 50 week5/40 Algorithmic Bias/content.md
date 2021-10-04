@@ -68,3 +68,34 @@ this
 * Suggest a possible strategy the developers of the algorithm could have taken
 to try and reduce this bias
 
+### Peer review
+
+For this week, you should again swap writing assignments with other students,
+read them and share feedback with each other, both on the contents of the
+arguments and the structure of the writing.
+
+In addition to your analysis of a case of algorithmic bias, you
+should read the written assignments from at least 3 other students from last
+week (Alpha Go). You can form your own groups for this, sharing the
+assignments you submitted among yourselves. Read the other assignments and
+discuss anything that might be unclear, that you disagree on or maybe just
+arguments you found interesting. Then, answer the following questions.
+
+**Q1. Which students' assignments did you read?**
+
+**Q2. Were there any new definitions of creativity given in the other
+assignments that you did not include yourself? If so, what were they?**
+
+**Q3. Does the argument you made for or against the creativity of move 37 still
+hold, if you include all these new definitions of creativity? Motivate your
+answer.**
+
+**Q4. Which assignments answered the question of whether or not move 37 was
+creative differently than you did?**
+
+**Q5. Summerize what you think was the strongest argument given among those
+students who answered the question differently.**
+
+**Q6. Did reading these other arguments change your own opinion on the
+creativity of move 37? Why, or not?**
+
