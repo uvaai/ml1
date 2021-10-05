@@ -5,7 +5,7 @@ to train them. This means that constructing a good data set is as critical
 for any machine learning solution as writing a good algorithm. Problems that
 arise from using data that does not properly represent the relationship your
 model is intended to capture, are called *algorithmic biases*. There are two
-common sources of algorithmics bias:
+common sources of algorithmic bias:
 
 ### 1. Selection Bias
 
