@@ -3,7 +3,7 @@ templates:
         type: float
         subgrades:
             points: integer
-        calculation: points + 6
+        calculation: points 
     4: &test
         type: float
         subgrades:
