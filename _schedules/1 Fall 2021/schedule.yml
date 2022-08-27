@@ -61,6 +61,8 @@ Module 5:
 Module 6:
   Schedule: /modules/m6
   Overview: /week6/overview
+  Numpy:
+    Using Numpy effectively: /week6/Numpy
   SOWISO:
     Exponentials and Logarithms: /week6/exponentials-and-logarithms
   Theory Videos:

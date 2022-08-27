@@ -5,7 +5,7 @@ This week we'll take a look at unsupervised learning, specifically at a
 cluster method called k-means, and learn about different methods of calculating
 distance.
 
-We'l start this week with a [Numpy introduction](week6/numpy). You've already worked
+We'l start this week with a [Numpy introduction](/week6/numpy). You've already worked
 with Numpy in the previous module, but for this week we'll introduce more of the
 features and how to use them effectively.
 
