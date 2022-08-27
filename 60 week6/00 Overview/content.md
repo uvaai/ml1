@@ -5,6 +5,10 @@ This week we'll take a look at unsupervised learning, specifically at a
 cluster method called k-means, and learn about different methods of calculating
 distance.
 
+We'l start this week with a [Numpy introduction](week6/numpy). You've already worked
+with Numpy in the previous module, but for this week we'll introduce more of the
+features and how to use them effectively.
+
 This week's [SOWISO module](/week6/exponentials-and-logarithms) is composed of
 two parts. The first part introduces exponential functions and how to derive
 them. The second part covers the concepts of covariance and correlation.
