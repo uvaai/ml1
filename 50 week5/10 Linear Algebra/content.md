@@ -51,6 +51,10 @@ Complete the following chapters on [SOWISO](https://uva.sowiso.nl/):
 * 5.a Vectors
 * 5.b Systems of Linear Equations
 * 5.c Matrices
+
+These last 2 chapters can be done later in module, but should be completed before
+you start assignment 6 from the programming notebook:
+
 * 5.d Measuring Variability
 * 5.e Gaussian Distribution
 
