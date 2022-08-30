@@ -156,9 +156,9 @@ computed. The SOWISO exercises have automatic feedback, so they will only be
 graded on a *pass/fail* basis.
 
 Completing all the SOWISO chapters is required in order to recieve a pass for
-this element. The minimum satisfactory average grade from the assignments is a
+this part. The minimum satisfactory average grade from the assignments is a
 4.5 and the minimum grade for the exam is also a 4.5. If all elements are 
-completed  satisfactorily, your final grade for the course is computed as:
+completed satisfactorily, your final grade for the course is computed as:
 
     40% programming average + 20% written average + 40% exam grade
 
