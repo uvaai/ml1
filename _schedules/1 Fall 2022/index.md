@@ -136,9 +136,9 @@ questions about the theoretical parts of the course. The schedule for these
 lectures can be found as part of the daily schedule for the module. The lectures
 will always be in the main room L0.10 at 10:00 on the scheduled day.
 
-These Q & A sessions will generally be scheduled the day after should watch
+These Q & A sessions will generally be scheduled the day after you should watch
 the theory videos of the module. While watching the videos, you can write
-down any questions you might have and there will be a question form linked
+down any questions you might have. There will be a question form linked
 in the schedule, where you can submit your questions beforehand. Based on
 the submitted questions, we'll discuss any part of the theory the might
 need more clarification or context.
@@ -153,11 +153,12 @@ of the formats above, you can email the course staff at <minorai@mprog.nl>
 The programming and writing assignment will both be graded on a 1 to 10 scale.
 and at the end of the course an average for both these elements will be
 computed. The SOWISO exercises have automatic feedback, so they will only be
-graded on a *pass/fail* basis. Completing all the chapters is required in order
-to recieve a pass for this element.
+graded on a *pass/fail* basis.
 
-If all elements are completed satisfactorily, your final grade for the course
-is computed as:
+Completing all the SOWISO chapters is required in order to recieve a pass for
+this element. The minimum satisfactory average grade from the assignments is a
+4.5 and the minimum grade for the exam is also a 4.5. If all elements are 
+completed  satisfactorily, your final grade for the course is computed as:
 
     40% programming average + 20% written average + 40% exam grade
 
