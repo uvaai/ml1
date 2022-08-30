@@ -86,29 +86,30 @@ schedule a meeting and still have room in the module for an alternative planning
 Note that a meeting does not always guarantee an extension, as this might still
 depend on the details of your circumstances.
 
-In addition, for this course and Python for Data Processing you have 2
-late-days in total, which you can use to get a single 24 hour extension for
-the module deadline. To request a late-day extension, you should write to
+In addition, for this course and Python for Data Processing, you have a combined 
+total of 2 late days, each of which you can use to get a single 24 hour extension 
+for the module deadline. To request a late-day extension, you should write to
 your TA on Slack *before* the deadline expires and indicate you intend to
 use a late day. Any submissions received after the deadline without a requested
-late day, will not be graded.
+late day will not be graded, meaning your grade will default to a 1.
 
-You can use only 1 late day per module to get 24 hours extension on the
-deadline. This extension is for the whole module, so applies to both courses.
-If the deadline is on a Friday, using a single late day will instead grant a
-48 hour extension over the weekend. If you have used both late-days, or require
-more than 24 hours of extension, you may still try and request a staff extension.
+You can use only 1 late day per module to get a 24 hour extension on the deadline. 
+This extension is for the whole module, so applies to both courses. If the deadline
+is on a Friday, using  a single late day will instead grant a 48 hour extension 
+over the weekend, meaning your deadline will move to Sunday. If you have used both
+late-days, or require more than 24 hours of extension, you may still try and 
+request a staff extension.
 
 Any staff extension request needs to be agreed upon before the deadline expires,
 which means your request must be sent at least 2 hours before the actual deadline.
 If you do not receive a reply in time, you should *always* still submit your
 current version of the assignment before the deadline, so this part can still be
-graded.
+graded. Staff extension requests should be emailed to <minorai@mprog.nl>
 
 ## Asking questions
 
-If you have any questions about the material, there are several ways to get
-to ask them and get assistance. 
+If you have any questions about the material, there are several ways to ask them 
+and get assistance. 
 
 ### Practical assistance
 
@@ -131,7 +132,7 @@ The hours are scheduled as follows:
 ### Q & A Lectures
 
 Every module there will be at least one Q & A lecture, where you can ask
-questions about the theory part of the course. The schedule for these
+questions about the theoretical parts of the course. The schedule for these
 lectures can be found as part of the daily schedule for the module. The lectures
 will always be in the main room L0.10 at 10:00 on the scheduled day.
 
