@@ -78,7 +78,7 @@ working from home.
 There are two types of extension; staff extensions and late days.
 
 Staff extensions usually require meeting with staff and will generally also
-include making an alternative planning for the module. If any cicumstances
+include making an alternative planning for the module. If any circumstances
 arise that would make it hard for you to make the deadline, send us an
 email at <minorai@mprog.nl> so we can discuss your situation. Please do this as
 soon as the problem arises, rather than on the day of deadline, so we can
@@ -112,14 +112,15 @@ to ask them and get assistance.
 
 ### Practical assistance
 
-Every weekday during 3 hours, you can ask practical questions to the TA's of
-the minor. During these hours you can use the "Request assistance" feature on
-this website, using the question mark symbol at the top of the sidebar. Please
-use this feature instead of raising your hand in class, as it ensures that all
-questions get handled in the order that they are asked. Questions can of be
-about either the PDP or ML1 courses, just make sure to mention what assignment
-you're working on. For your location, please list the  table you are working at,
-so the TA handling your question knows where to find you when it is your turn.
+There are 3 hours scheduled every day where you can ask practical
+questions to the TA's of the minor. During these hours you can use the
+"Request assistance" feature on this website, using the question mark symbol
+at the top of the sidebar. Please use this feature instead of raising your hand
+in class, as it ensures that all questions get handled in the order that they 
+are asked. Questions can of be about either the PDP or ML1 courses, just make 
+sure to mention what assignment you're working on. For your location, please 
+list the  table you are working at, so the TA handling your question knows 
+where to find you when it is your turn.
 
 The hours are scheduled as follows:
 
