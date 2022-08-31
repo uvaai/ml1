@@ -22,3 +22,7 @@ concepts this week, so for now just watch the videos.
 ### Theoretical versus experimental probability simulation
 
 ![embed](https://www.youtube.com/embed/Nos-xOCpQqg)
+
+### Q & A
+
+You can ask any questions you have about the theory [here](https://forms.office.com/Pages/ResponsePage.aspx?id=zcrxoIxhA0S5RXb7PWh05ZTDc7biyulCvpu4U-tarWtUMlZYQUlYMFVMREdWRVVPWTNITlIxQlFUTC4u).
