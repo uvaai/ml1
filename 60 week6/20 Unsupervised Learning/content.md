@@ -31,3 +31,9 @@ Learning course on Coursera:
 
 ![embed](https://youtube.com/embed/lbR5br5yvrY)
 
+### Q & A
+
+Any questions you might have about this theory can be asked 
+[here](https://forms.office.com/Pages/ResponsePage.aspx?id=zcrxoIxhA0S5RXb7PWh05ZTDc7biyulCvpu4U-tarWtUMlZYQUlYMFVMREdWRVVPWTNITlIxQlFUTC4u).
+These questions will be answered during the Q&A lecture of this module.
+

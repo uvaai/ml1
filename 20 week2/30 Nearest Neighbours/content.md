@@ -19,3 +19,9 @@ other algorithms, but for now we'll just get familiar with the basic concept.
 
 ![embed](https://youtube.com/embed/fNk_zzaMoSs)
 
+### Q & A
+
+Any questions you might have about this theory can be asked 
+[here](https://forms.office.com/Pages/ResponsePage.aspx?id=zcrxoIxhA0S5RXb7PWh05ZTDc7biyulCvpu4U-tarWtUMlZYQUlYMFVMREdWRVVPWTNITlIxQlFUTC4u).
+These questions will be answered during the Q&A lecture of this module.
+
