@@ -25,4 +25,6 @@ concepts this week, so for now just watch the videos.
 
 ### Q & A
 
-You can ask any questions you have about the theory [here](https://forms.office.com/Pages/ResponsePage.aspx?id=zcrxoIxhA0S5RXb7PWh05ZTDc7biyulCvpu4U-tarWtUMlZYQUlYMFVMREdWRVVPWTNITlIxQlFUTC4u).
+You can ask any questions you have about the theory 
+[here](https://forms.office.com/Pages/ResponsePage.aspx?id=zcrxoIxhA0S5RXb7PWh05ZTDc7biyulCvpu4U-tarWtUMlZYQUlYMFVMREdWRVVPWTNITlIxQlFUTC4u).
+These questions will be answered during the Q&A lecture of this module.
