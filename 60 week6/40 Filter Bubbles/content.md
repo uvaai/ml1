@@ -16,47 +16,16 @@ think it is likely that fringe bubbles do exist? Explain your answer.
 Holland. Why do or don't (depending on your answer for 3) you think that these
 apply to fringe bubbles too?
 
-### Peer review
+Your assignment should be long enough to make a clear and cohesive argument for
+your point of view. In general, this tends to correspond with around 500 words. 
+The minimum requirement for the assignment is 350 words.
 
-For this week, you should again swap writing assignments with other students,
-read them and share feedback with each other, both on the contents of the
-arguments and the structure of the writing.
+#### Peer review
 
-In addition to your answers on filter bubbles, you should read the written
-assignments from at least 3 other students from last week (algorithmic bias).
-You can form your own groups for this, sharing the assignments you submitted
-among yourselves. Read the other assignments and discuss anything that might be
-unclear, that you disagree on or maybe just arguments you found interesting.
-Then, answer the following questions:
-
-**Q1. Which students' assignments did you read?**
-
-**Q2. Choose one assignment that covered a selection bias. Describe that
-instance of selection bias very briefly.**
-
-For any case of selection bias, the solution would almost always be to
-get a more representative data set. Discuss the following question with the
-student whose selection bias assignment you chose: How hard would it be to
-collect a large volume of data that would be completely representative for the
-problem covered in the article?
-
-**Q3. Describe the data collection process you both came up with, which part of
-the process ensures that this data will be representative, and any potential
-difficulties or limitations.**
-
-**Q4. Choose one assignment that covered a historic bias. Describe that
-instance of historic bias very briefly.**
-
-For any case of historic bias, a possible solution might be to simply
-remove features on which you do not want your algorithm to distinguish, and
-crucially, also remove other features that might contain indirect information
-about those same features you want to remove, so the algorithm doesn't learn to
-distinguish based on those proxy feature instead. Discuss with the student
-whose historic bias assignment you chose: Which features would you expect to
-have to remove from the data set? If you don't know which features are in the
-data set, you can guess at what would reasonably be collected for that type of
-problem.
-
-**Q5. Describe the set of features you would remove and selection process you
-came up with.**
+You are encouraged to swap writing assignments with other students, read them
+and share feedback with each other, both on the contents of the arguments and
+the structure of the writing. Writing a good text can be difficult and,
+especially after you rewrote something a couple of times, other people will
+generally see improvements that you can't spot anymore. So, make use of that
+and help each other out by exchanging feedback.
 

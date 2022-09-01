@@ -36,24 +36,18 @@ and/or counterargument. Argue why you think this objection could in fact be a
 valid objection to using the Imitation Game as a test to determine if a machine
 can think.
 
-Your reply should be around 500 to 600 words, but does not have to fall exactly
-in this range. Most important is if you've used enough words to make a cohesive
-and clear argument for your point of view. As the limit, less than 400 words
-will usually be considered too few and more than 800 to be too many.
+Your assignment should be long enough to make a clear and cohesive argument for
+your point of view. In general, this tends to correspond with around 500 words. 
+The minimum requirement for the assignment is 350 words.
 
-### Peer review
+#### Peer review
 
 You are encouraged to swap writing assignments with other students, read them
 and share feedback with each other, both on the contents of the arguments and
 the structure of the writing. Writing a good text can be difficult and,
 especially after you rewrote something a couple of times, other people will
-generally spot improvements that you can't see anymore. So, make use of that
+generally see improvements that you can't spot anymore. So, make use of that
 and help each other out by exchanging feedback.
-
-As part of next week's writing assignment you'll also need to read and compare
-several assignments other students wrote for this week, so if you already read
-some other response as part of sharing feedback, you'll be halfway done with
-that part of the assignment this week.
 
 ### Submission
 

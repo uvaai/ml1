@@ -2,4 +2,3 @@ name: writ_5
 files:
     required:
         - uncovering_bias.txt
-        - review_alphago.txt

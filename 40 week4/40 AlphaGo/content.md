@@ -103,29 +103,16 @@ one definition that matches your own. These may just be dictionary definitions
 and do not have to come from scientific papers, as long as you can compare
 whether move 37 is creative or not according to this / these definitions.
 
-### Peer review
+Your assignment should be long enough to make a clear and cohesive argument for
+your point of view. In general, this tends to correspond with around 500 words. 
+The minimum requirement for the assignment is 350 words.
 
-For this week, you should again swap writing assignments with other students,
-read them and share feedback with each other, both on the contents of the
-arguments and the structure of the writing.
+#### Peer review
 
-In addition to your argument for *or* against the creativity of move 37, you
-should read the written assignments from at least 3 other students from last
-week (the Chinese Room). You can form your own groups for this, sharing the
-assignments you submitted among yourselves. Read the other assignments and
-discuss anything that might be unclear, that you disagree on or maybe just
-arguments you found interesting. Then, answer the following questions.
-
-**Q1. Which students' assignments did you read?**
-
-**Q2. Were there any questions where all other students answered similarly to
-your own answer when arguing an example having understanding or not?  If so,
-for which questions was this the case?**
-
-**Q3. For the other questions, i.e. those where not all answers were similar,
-list these questions and each of the alternative answers. Include the gist of
-the motivation that was given with these answers.**
-
-**Q4. Did reading these other opinions change your own opinion on any of the
-questions you answered last week? If so, how did your opinion change?**
+You are encouraged to swap writing assignments with other students, read them
+and share feedback with each other, both on the contents of the arguments and
+the structure of the writing. Writing a good text can be difficult and,
+especially after you rewrote something a couple of times, other people will
+generally see improvements that you can't spot anymore. So, make use of that
+and help each other out by exchanging feedback.
 

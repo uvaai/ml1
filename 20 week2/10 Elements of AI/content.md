@@ -15,32 +15,15 @@ your answers for
 * Chapter 6-2 : Exercise 24
 * Chapter 6-3 : Exercise 25
 
-### Peer review
+#### Peer review
 
-For this week, you should again swap writing assignments with other students,
-read them and share feedback with each other, both on the contents of the
-arguments and the structure of the writing.
+You are encouraged to swap writing assignments with other students, read them
+and share feedback with each other, both on the contents of the arguments and
+the structure of the writing. Writing a good text can be difficult and,
+especially after you rewrote something a couple of times, other people will
+generally see improvements that you can't spot anymore. So, make use of that
+and help each other out by exchanging feedback.
 
-In addition to the Elements of AI answers you wrote for this week, you should
-read the written assignments from at least 3 other students from last week
-(Turing's article). You can form your own groups for this, sharing the
-assignments you submitted among yourselves. Read the other assignments and
-discuss anything that might be unclear, that you disagree on or maybe just
-arguments you found interesting. Then, answer the following questions.
-
-**Q1. Which students' assignments did you read?**
-
-**Q2. What were the Turing arguments they objected too?**
-
-**Q3. If there were any students that chose the same argument from Turing as
-you did, were any counter arguments mentioned that you did not include? If so,
-what were they?**
-
-**Q4. If there were any students that chose a different argument from Turing
-than you did, were any of the counter arguments mentioned surprising or
-particularly insightful to you? If so, what were they?**
-
-**Q5. Did reading all these arguments and counter arguments change your opinion
-on whether or not the Turing test is an effective measure for intelligence? If
-so, why? If not, why not?**
+*Note:* This means swapping assignments with a student from the class, not
+the peer review feature on the *Elements of AI* website.
 

@@ -2,4 +2,3 @@ name: writ_6
 files:
     required:
         - fringe_bubbles.txt
-        - review_bias.txt
