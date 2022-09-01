@@ -49,6 +49,9 @@ especially after you rewrote something a couple of times, other people will
 generally see improvements that you can't spot anymore. So, make use of that
 and help each other out by exchanging feedback.
 
+*Note:* This means swapping assignments with a student from the class, not 
+the peer review feature on the *Elements of AI* website.
+
 ### Submission
 
 For the written portion this week, you should submit your answer to exercise 4
