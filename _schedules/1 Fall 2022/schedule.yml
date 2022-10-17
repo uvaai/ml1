@@ -74,8 +74,8 @@ Module 6:
 Exam:
   Final Exam:
     Exam Material: /week8/exam-material
-  Feedback:
-    Course Evaluation: /week8/course-evaluation
+#   Feedback:
+#     Course Evaluation: /week8/course-evaluation
 #   Optional Theory:
 #     Neural Networks: /week8/neural-networks
 #   Optional Notebook:

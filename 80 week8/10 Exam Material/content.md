@@ -5,7 +5,7 @@ The material for the exam consists of everything covered in the theory videos
 and programming notebooks for this course. The focus for the exam will be on
 understanding of the material, not memorization of equations. This means you
 will not be asked to the reproduce equations for some algorithm, but you might
-be shown an equation and asked to explain what all the terms are and how they
+be given an equation and asked to explain what all the terms are and how they
 relate to some piece of machine learning theory. 
 
 This means the theory pages from the SOWISO and the articles from the writing
@@ -27,29 +27,6 @@ optimize the cost function of some model.
     * Univariate Polynomial
 * Unsupervised Learning - Clustering
     * k-Means
-
-## Outline of the exam
-
-For the first 5 to 10 minutes of the exam, you're expected to explain one of
-these covered algorithms, as listed above. You can choose this algorithm
-yourself beforehand and should prepare some visuals to go along with your
-explanation. Some visual aspect to your presentation is required, as it really
-hard to talk about equations or graphs without some sort of visual, but you
-won't be judged on the "production quality" of these visuals at all. So
-writing/drawing on a piece of paper, taking a photo and using that photo as
-your one slide, is a perfectly valid approach.
-
-Afterward, we'll ask some follow-up questions about your selected algorithm. If
-you selected an easy algorithm, like univariate linear or k-NN, these questions
-might be harder than if you selected a more difficult to explain algorithm.
-Finally, there will also be some open questions on general machine learning
-theory and one or two other algorithms.
-
-Please make sure you have everything set up and ready for the exam, and that
-your explanation of the algorithm does not exceed 10 minutes, so there is
-enough time for questions afterwards. We'll immediately let you know if you've
-passed, but won't publish the grades until after everyone has completed (and
-passed) their exams.
 
 ## Additional material
 
