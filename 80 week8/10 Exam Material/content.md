@@ -44,6 +44,8 @@ version of the book can be found below:
 
 [The hundred-page machine learning book (sample)](theMLbook-sample.pdf)
 
+**This book is an optional additonal reference, and not part of the exam material.**
+
 If you like the way the material is presented in this book and would like to
 read the remaining 66 pages, you can buy the book
 [here](http://themlbook.com/).
