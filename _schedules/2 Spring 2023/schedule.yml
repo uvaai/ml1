@@ -1,0 +1,82 @@
+Welcome:
+    Read the syllabus to get started: /syllabus
+Module 1:
+  Schedule: /modules/m1
+  Overview: /week1/overview
+  Introduction to AI:
+    Elements of AI: /week1/elements-of-ai
+  SOWISO:
+    Theoretical Probability: /week1/theoretical-probability
+  Theory Videos:
+    Experimental Probability: /week1/experimental-probability
+  Written Assignment:
+    Turing's paper: /week1/turing-test
+  Programming Notebook:
+    Notebook introduction: /week1/notebooks
+    Chatting with ELIZA: /week1/eliza
+Module 2:
+  Schedule: /modules/m2
+  Overview: /week2/overview
+  Written Assignment:
+    Elements of AI: /week2/elements-of-ai
+  SOWISO:
+    Types of Data: /week2/types-of-data
+  Theory Videos:
+    Nearest Neighbours: /week2/nearest-neighbours
+  Programming Notebook:
+    k-NN classification: /week2/k-nn-classification
+Module 3:
+  Schedule: /modules/m3
+  Overview: /week3/overview
+  SOWISO:
+    Probability Distributions: /week3/probability-distributions
+  Theory Videos:
+    Bayes' Rule: /week3/bayes-rule
+  Programming Notebook:
+    Naive Bayes: /week3/naive-bayes
+  Written Assignment:
+    Chinese Room: /week3/chinese-room
+Module 4:
+  Schedule: /modules/m4
+  Overview: /week4/overview
+  SOWISO:
+    Gradients: /week4/gradients
+  Theory Videos:
+    Linear Regression: /week4/linear-regression
+  Programming Notebook:
+    Gradient Descent: /week4/gradient-descent
+  Written Assignment:
+    AlphaGo: /week4/alphago
+Module 5:
+  Schedule: /modules/m5
+  Overview: /week5/overview
+  SOWISO:
+    Linear Algebra: /week5/linear-algebra
+  Theory Videos:
+    Multivariate Regression: /week5/multivariate-regression
+  Programming Notebook:
+    Polynomial Regression: /week5/polynomial-regression
+  Written Assignment:
+    Algorithmic Bias: /week5/algorithmic-bias
+Module 6:
+  Schedule: /modules/m6
+  Overview: /week6/overview
+  Numpy:
+    Using Numpy effectively: /week6/numpy
+  Theory Videos:
+    Unsupervised Learning: /week6/unsupervised-learning
+  Programming Notebook:
+    K-means: /week6/k-means
+  SOWISO:
+    Exponentials and Logarithms: /week6/exponentials-and-logarithms
+  Written Assignment:
+    Filter bubbles: /week6/filter-bubbles
+Exam:
+  Final Exam:
+    Exam Material: /week8/exam-material
+#   Feedback:
+#     Course Evaluation: /week8/course-evaluation
+#   Optional Theory:
+#     Neural Networks: /week8/neural-networks
+#   Optional Notebook:
+#     Digit Recognition: /week8/digit-recognition
