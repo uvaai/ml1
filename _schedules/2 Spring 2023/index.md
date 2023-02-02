@@ -222,31 +222,17 @@ not every statement you make necessarily requires a reference or citation.
 However, if you do look up other sources as part of formulating your answers,
 you can of course use and cite them. 
 
+Your grade for each writing assignment is determined as the sum of your points for each of the three aspects listed in the rubric below.
+
 |                   | *Unsatisfactory*                                                     | *Satisfactory*                                                       | *Good/Exceptional*                                                   |
 |-------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
-| **Instructions**  | **1** Significant parts of the assignment are missing and/or the writing contains too few words. | **3** The student has almost completed the assignment, but minor aspects of the assignment are missing. Usually this has some incomplete answers, or is missing a question. | **5** The writing contains a sufficient number of words, refers back to the concepts covered the reading material, and contains answers to all of the questions from the assignment. |
+| **Instructions**  | **1:** Significant parts of the assignment are missing and/or the writing contains too few words. | **3:** The student has almost completed the assignment, but minor aspects of the assignment are missing, like incomplete answers, or a missing question. | **5:** The writing contains a sufficient number of words, refers back to the concepts covered the reading material, and contains answers to all of the questions from the assignment. |
 |-------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
-| **Structure & style** | **0** The writing contains (almost) no structure, and/or the style is (at some points) unclear, thereby making the answers more difficult to understand. | **1** Overall the answers are well structured and the style is clear, making the answers in general easy to understand. | **2** The answers are very well structured and the style is very clear and accessible, beyond what is expected for the course. |
+| **Structure<br>& style** | **0:** The writing contains (almost) no structure, and/or the style is (at some points) unclear, thereby making the answers more difficult to understand. | **1:** Overall the answers are well structured and the style is clear, making the answers in general easy to understand. | **2:** The answers are very well structured and the style is very clear and accessible, beyond what is expected for the course. |
 |-------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
-| **Argumentation** | **0** A concept from the reading material is misrepresented and/or some motivations could have gone more in depth. | **1.5** The writing shows clear understanding of the reading material and the corresponding concepts. All answers are well motivated using these concepts. | **3** In addition to showing a clear understanding and well-motivated answers, the writing contains other sources or examples from the author’s field of study, thereby providing relevant novel perspectives. |
+| **Argumentation** | **0:** A concept from the reading material is misrepresented and/or some motivations could have gone more in depth. | **1.5:** The writing shows clear understanding of the reading material and the corresponding concepts. All answers are well motivated using these concepts. | **3:** In addition to showing a clear understanding and well-motivated answers, the writing contains other sources or examples from the author’s field of study, thereby providing relevant novel perspectives. |
 |-------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
 
-
-
-If your writing contains a sufficient number of words answering each of the
-questions from the assignment, while referencing the concepts from the reading
-material, your grade starts at a 6. The remainder of your grade is then
-determined as follows:
-
-* 0 - A concept from the reading material may be misrepresented or missing. Arguments are not structured clearly or fail to motivate some part of the answer.
-
-* 1 - The writing shows understanding of the concepts of the reading material, but there might be small inaccuracies. Answers are motivated, but some motivations could have gone more in depth. 
-
-* 2 - The writing shows clear understanding of the reading material and how the concepts therein relate to the questions asked. All answers are well motivated using these same concepts. 
-
-* 3 - Above, and in addition: The writing may use other sources or examples from the author's own field of study to provide relevant novel perspectives. All arguments are well structured and combine into a single cohesive answer to the questions asked.
-
-* 4 - Above, and in addition: The writing as a whole is beyond what is expected for the course.
 
 ### Attendance
 
