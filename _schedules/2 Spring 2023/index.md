@@ -24,7 +24,7 @@ learning.  In general, there will be 4 components to each module:
 
 Log in with your UvAnetID and create an account to get access to the modules.
 
-## Schedule 
+## Schedule
 
 The core schedule for this course, combined with Python for Data Processing, is
 built around working with the material each weekday from 9 to 5.  For this we
@@ -34,7 +34,7 @@ on campus full-time.
 
 Most on-campus activities, including practical assistance, will generally be
 held in this room. There are some exceptions with activities that do not fit
-in the room, like the group seminars and the exam. The schedule for these 
+in the room, like the group seminars and the exam. The schedule for these
 group seminars can be found on Datanose [here](https://datanose.nl/#course[111293])
 
 The schedule for the practical assistance hours and lectures that will be held
@@ -68,7 +68,7 @@ with your own schedule.
 
 ### Absences and calling in sick
 
-If you are sick or are otherwise unable to come to campus, you should inform 
+If you are sick or are otherwise unable to come to campus, you should inform
 your group TA you will be absent by sending them a message on Slack. When you
 are feeling better, inform your TA again, so your period of absence can be
 registered.
@@ -108,11 +108,11 @@ request *before* the deadline expires. Any submissions received after the
 deadline without a requested late day will not be graded, meaning your grade
 will default to a 1.
 
-You can use only 1 late day per module to get a 24 hour extension on the deadline. 
+You can use only 1 late day per module to get a 24 hour extension on the deadline.
 This extension is for the whole module, so applies to both courses. If the deadline
-is on a Friday, using  a single late day will instead grant a 48 hour extension 
+is on a Friday, using  a single late day will instead grant a 48 hour extension
 over the weekend, meaning your deadline will move to Sunday. If you have used both
-late days, or require more than 24 hours of extension, you may still try and 
+late days, or require more than 24 hours of extension, you may still try and
 request a staff extension.
 
 Any staff extension request needs to be agreed upon before the deadline expires,
@@ -123,8 +123,8 @@ graded. Staff extension requests should be emailed to <minorai@mprog.nl>
 
 ## Asking questions
 
-If you have any questions about the material, there are several ways to ask them 
-and get assistance. 
+If you have any questions about the material, there are several ways to ask them
+and get assistance.
 
 ### Practical assistance
 
@@ -132,10 +132,10 @@ There are 3 hours scheduled every day where you can ask practical
 questions to the TA's of the minor. During these hours you can use the
 "Request assistance" feature on this website, using the question mark symbol
 at the top of the sidebar. Please use this feature instead of raising your hand
-in class, as it ensures that all questions get handled in the order that they 
-are asked. Questions can of be about either the PDP or ML1 courses, just make 
-sure to mention what assignment you're working on. For your location, please 
-list the  table you are working at, so the TA handling your question knows 
+in class, as it ensures that all questions get handled in the order that they
+are asked. Questions can of be about either the PDP or ML1 courses, just make
+sure to mention what assignment you're working on. For your location, please
+list the  table you are working at, so the TA handling your question knows
 where to find you when it is your turn.
 
 The hours are scheduled as follows:
@@ -170,9 +170,9 @@ and at the end of the course an average for both these elements will be
 computed. The SOWISO exercises have automatic feedback, so they will only be
 graded on a *pass/fail* basis.
 
-Completing all the SOWISO chapters is required in order to recieve a pass for
+Completing all the SOWISO chapters is required in order to receive a pass for
 this part. The minimum satisfactory average grade from the assignments is a
-4.5 and the minimum grade for the exam is also a 4.5. If all elements are 
+4.5 and the minimum grade for the exam is also a 4.5. If all elements are
 completed satisfactorily, your final grade for the course is computed as:
 
     40% programming average + 20% written average + 40% exam grade
@@ -220,7 +220,7 @@ that is required is that you've thought about the topic enough to clearly argue
 *why* you think it is one way or the other. Specifically, this also means that
 not every statement you make necessarily requires a reference or citation.
 However, if you do look up other sources as part of formulating your answers,
-you can of course use and cite them. 
+you can of course use and cite them.
 
 Your grade for each writing assignment is determined as the sum of your points for each of the three aspects listed in the rubric below.
 
@@ -244,18 +244,18 @@ master these different skills. This is why we offer a lot practical assistance,
 so there is a chance for you to ask the questions you have about the
 scheduled material *every day*.
 
-In spite of this, we maintain a soft attendance requirement. This means that 
+In spite of this, we maintain a soft attendance requirement. This means that
 there is no hard rule stating that if you miss a certain percentage of days,
 you will fail the course, i.e. attendance does not directly affect your final
 grade.
 
-However, indirectly attendance definitely will affect your grade. The material 
+However, indirectly attendance definitely will affect your grade. The material
 requires you to work regularly on the assignments and ask questions along the
 way so you don't get stuck. This means if you are not on campus, you are much
 more likely to get stuck longer and thus end up with too little time before the
 deadline.
 
-In addition, we will still take attendence samples regularly in the room. This
+In addition, we will still take attendance samples regularly in the room. This
 does not affect whether you pass or fail the course, but is used as metric to
 give us an indication of the effort you are putting into following the courses
 as intended. If you request an extension or exception, or ask for extra
