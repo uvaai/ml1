@@ -66,6 +66,12 @@ writing:
         writ_6: 1
         # writ_7: 1
 
+late_days:
+    show_progress: true
+    submits:
+        late_day1: 0
+        late_day2: 0
+
 exam:
     show_progress: true
     submits:
