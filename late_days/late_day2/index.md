@@ -1,4 +1,4 @@
-## Late day 1
+## Late day 2
 
 Use this page to request a late day. For this course and Python for Data Processing, you have a combined total of 2 late days, each of which you can use to get a single 24 hour extension for the module deadline.
 
