@@ -3,6 +3,8 @@ templates:
         type: pass
         subgrades:
             done: boolean
+        automatic:
+            done: -1
         calculation: done
         auto_publish: true
         hide_calculated: true
