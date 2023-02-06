@@ -1,9 +1,18 @@
 templates:
+    1: &automatic
+        type: pass
+        subgrades:
+            done: boolean
+        automatic:
+            done: -1
+        calculation: done
+        auto_publish: true
+        hide_calculated: true
     3: &manual
         type: float
         subgrades:
             points: integer
-        calculation: points 
+        calculation: points
     4: &test
         type: float
         subgrades:
@@ -27,6 +36,8 @@ grades:
     writ_6: *manual
     prog_7: *manual
     writ_7: *manual
+    late_day1: *automatic
+    late_day2: *automatic
     exam: *test
 
 calculation:
@@ -56,6 +67,12 @@ writing:
         writ_5: 1
         writ_6: 1
         # writ_7: 1
+
+late_days:
+    show_progress: true
+    submits:
+        late_day1: 0
+        late_day2: 0
 
 exam:
     show_progress: true
