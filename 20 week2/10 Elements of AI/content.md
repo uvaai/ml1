@@ -5,8 +5,8 @@ course, completing the introduction to AI.
 
 Read the material in these three chapters and complete the corresponding
 exercises. For the last exercise (exercise 25 in chapter 6.3), you'll also need
-to submit your answer as part of your writing assignment this week, so should
-save that answer separately in a text file.
+to submit your answer as part of your writing assignment this week, so you
+should save that answer separately in a text file.
 
 ### Assignment
 
