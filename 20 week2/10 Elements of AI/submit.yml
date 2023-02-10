@@ -1,7 +1,5 @@
 name: writ_2
 files:
     required:
-        - elements_15.txt
-        - elements_23.txt
-        - elements_24.txt
+        - techniques.txt
         - elements_25.txt
