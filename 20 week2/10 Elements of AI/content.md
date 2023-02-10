@@ -28,7 +28,7 @@ two techniques.
 (iii) Finally, chapter 6 of the Elements of AI course describes four societal
 implications of AI. Choose one of these implications and, for each technique
 you described in (i), discuss whether you think the technique is likely to
-strengthen this implication or not. You can also include your answers to (ii)
+strengthen this implication or not. You may also include your answers to (ii)
 in this discussion, if relevant.
 
 Your answers to these questions should be combined in a single text of around
