@@ -1,0 +1,3 @@
+numpy_practice:
+    remote: https://github.com/uvaai/numpy_practice.git
+    branch: main
