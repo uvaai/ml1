@@ -21,6 +21,11 @@ templates:
         calculation: points
         is_test: true
         hide_subgrades: true
+    5: &manual_float
+        type: float
+        subgrades:
+            points: float
+        calculation: points
 
 grades:
     prog_1: *manual
@@ -30,11 +35,11 @@ grades:
     prog_3: *manual
     writ_3: *manual
     prog_4: *manual
-    writ_4: *manual
+    writ_4: *manual_float
     prog_5: *manual
-    writ_5: *manual
+    writ_5: *manual_float
     prog_6: *manual
-    writ_6: *manual
+    writ_6: *manual_float
     prog_7: *manual
     writ_7: *manual
     late_day1: *automatic
