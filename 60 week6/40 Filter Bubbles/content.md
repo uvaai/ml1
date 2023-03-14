@@ -20,6 +20,25 @@ Your assignment should be long enough to make a clear and cohesive argument for
 your point of view. In general, this tends to correspond with around 500 words. 
 The minimum requirement for the assignment is 350 words.
 
+
+#### Alternate sources for English language students
+
+As the podcast for this assignment is in Dutch, students who only speak English
+should base their writing assignment on these alternate sources:
+
+* In this short interview for the UvA newsletter Judith Möller outlines her 
+new research topic, following a very similar line as in the conclusion of the
+podcast: [Do algorithms make us even more radical?](https://www.uva.nl/en/shared-content/faculteiten/en/faculteit-der-maatschappij-en-gedragswetenschappen/news/2020/01/algorithms-radical.html)
+
+* This chapter from the book *The Routledge Companion to Media Disinformation
+and Populism* covers a lot of the terminology and research on these topics in
+more detail: [Filter bubbles and digital echo chambers.](data/chapter8.pdf)
+
+* This report is about the degree to which filter bubbles are likely to exist
+in the Netherlands. The section starting from *page 7* goes into the different
+factors that might make filter bubbles more or less likely: [Filter bubbles in the Netherlands?](data/Filter-bubbles-in-the-Netherlands.pdf)
+
+
 #### Peer review
 
 You are encouraged to swap writing assignments with other students, read them
