@@ -1,3 +1,4 @@
+
 # Filter Bubbles
 
 For the written assignment this week, listen to the
@@ -33,7 +34,7 @@ generally see improvements that you can't spot anymore. So, make use of that
 and help each other out by exchanging feedback.
 
 
-### Alternate sources for English language students
+### Alternative sources in English
 
 As the podcast for this assignment is in Dutch, students who only speak English
 should base their writing assignment on these alternate sources:
