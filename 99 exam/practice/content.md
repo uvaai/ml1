@@ -6,7 +6,7 @@
 * Explain the difference between supervised and unsupervised learning.
 * Explain the difference between classification and regression.
 
-For each of the problem descriptions below, indicate what \emph{type} of machine learning algorithm would be most suited to solving it. So, would you use a supervised or unsupervised approach for the problem, and specifically, would you use regression, classification or clustering. Motivate your answers.
+For each of the problem descriptions below, indicate what *type* of machine learning algorithm would be most suited to solving it. So, would you use a supervised or unsupervised approach for the problem, and specifically, would you use regression, classification or clustering. Motivate your answers.
 
 * Predict the number of millimeters of rain that will fall tomorrow, based on attributes like humidity and atmospheric pressure, using meteorological records of these attributes and the measured rainfall from previous days.
 * Using patient data from earlier studies, where several patient were monitored for 6 months for blood values such as glucose and cholesterol levels, and whether they had a heart attack in that time period, predict if a new patient is likely to have have a heart attack based on their current blood values.
@@ -24,8 +24,8 @@ For each of the problem descriptions below, indicate what \emph{type} of machine
 
 ## 4. Naive Bayes
 
-* Naive Bayes uses Bayes rule to rewrite the posterior probability in terms of the prior and likelihood. Explain why this rewrite is done, instead of just estimating the posterior directly.
-* The estimations of the likelihood in algorithm are considered *naive*, at least, that is where the algorithm gets the other half of its name. Explain why this computation is considered a naive.
+* Naive Bayes uses Bayes' rule to rewrite the posterior probability in terms of the prior and likelihood. Explain why this rewrite is done, instead of just estimating the posterior probability directly.
+* The estimations of the likelihood in this algorithm are considered *naive*, at least, that is where the algorithm gets the other half of its name. Explain why this computation is considered a naive.
 
 ## 5. Linear Regression
 
