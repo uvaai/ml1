@@ -33,7 +33,7 @@ For each of the problem descriptions below, indicate what \emph{type} of machine
 The figure above shows 3 different linear regression models, for the same 5 data points. 
 
 * Order these 3 linear models from lowest to highest cost for the 5 plotted data points. No need to compute the cost exactly, but motivate your answer for each graph.
-* Explain why the point where the gradient of the cost is exactly 0 in both directions, is the best possible value of $a$ for the data.
+* Explain why the point where the gradient of the cost is exactly 0 in both directions, is the also best possible value of $a$ and $b$ for the data set.
 * Explain what the learning rate is and what it does in gradient descent.
 
 ## 6. Polynomial Regression

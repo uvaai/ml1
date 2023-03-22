@@ -33,9 +33,9 @@ optimize the cost function of some model.
 For the exam you are allowed to use a pen, pencils, eraser and ruler, which
 will be useful for questions where you are asked to draw a graph or some part
 of a data set. In addition, you are allowed to use a basic calculator (so not a
-graphical one) for any computations yyou might need to do. However, the any
-calculations you'll need to by hand will be quite simple, so in principle a
-calculator should not be needed for these.
+graphical one) for any computations you might need to do. However, the any
+calculations you'll need to by hand will be small, so in principle a
+calculator should not be necessary for these.
 
 ## Additional material
 
