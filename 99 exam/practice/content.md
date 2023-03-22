@@ -29,7 +29,7 @@ For each of the problem descriptions below, indicate what \emph{type} of machine
 
 ## 5. Linear Regression
 
-![](linear_cost)
+![](data/linear_cost.png)
 The figure above shows 3 different linear regression models, for the same 5 data points. 
 
 * Order these 3 linear models from lowest to highest cost for the 5 plotted data points. No need to compute the cost exactly, but motivate your answer for each graph.
@@ -38,7 +38,7 @@ The figure above shows 3 different linear regression models, for the same 5 data
 
 ## 6. Polynomial Regression
 
-![](poly_v2.png)
+![](data/poly_v2.png)
 Consider the univariate regression data above. The green dots are the training samples, the red triangles are the validation samples and the blue line represents the learned hypothesis. The each model is learned using polynomial regression, using a different polynomial degree, which is indicated above the each plot by the $k$ parameter.
 
 * Which of these plots (k= 1, 3 and 7) results in the lowest training cost? And which plot results in the lowest validation cost? Explain your answers.
@@ -47,7 +47,7 @@ Consider the univariate regression data above. The green dots are the training s
 
 ## 7. k-Means
 
-![](mickey_data_v3.png)
+![](data/mickey_data_v3.png)
 The figure above shows a data set that is being clustered using the k-means algorithm. The data is indicated by dots, and the current means are indicated by red triangles.
 
 * Run a single iteration of the k-means algorithm on this data set, doing both steps (no need to write out all results here). Does the algorithm converge after this iteration? Explain your answer.
