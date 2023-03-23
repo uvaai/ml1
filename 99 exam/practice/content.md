@@ -9,7 +9,7 @@
 For each of the problem descriptions below, indicate what *type* of machine learning algorithm would be most suited to solving it. So, would you use a supervised or unsupervised approach for the problem, and specifically, would you use regression, classification or clustering. Motivate your answers.
 
 * Predict the number of millimeters of rain that will fall tomorrow, based on attributes like humidity and atmospheric pressure, using meteorological records of these attributes and the measured rainfall from previous days.
-* Using patient data from earlier studies, where several patient were monitored for 6 months for blood values such as glucose and cholesterol levels, and whether they had a heart attack in that time period, predict if a new patient is likely to have have a heart attack based on their current blood values.
+* Using patient data from earlier studies, where several patient were monitored for 6 months for blood values such as glucose and cholesterol levels, and whether they had a heart attack in that time period, predict if a new patient is likely to have a heart attack based on their current blood values.
 
 ## 2. Data sets
 
