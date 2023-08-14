@@ -37,7 +37,7 @@ to work on campus for 4 hours each day, in divided morning and afternoon slots.
 ### Room scheduling
 
 The division of morning and afternoon slots in **L0.11** depends on your seminar
-group as follows:
+group, as follows:
 
 |               | Monday    | Tuesday   | Wednesday | Thursday  | Friday    |
 |---------------|-----------|-----------|-----------|-----------|-----------|
@@ -50,16 +50,16 @@ every day for both slots. For the morning slot, there is practical assistance
 from **10:00 to 12:00** and for the afternoon slot there is practical
 assistance from **13:00 to 15:00**.
 
+In addition, there are the actual **group seminars on Monday** with your own TA.
+For groups A, B and C these are scheduled in the afternoon, and for groups D,
+E, F and G these are scheduled in the morning. The exact times and rooms for
+your group seminars can be found on Datanose [here](https://datanose.nl/#course[119433]).
+
 Note that we have full group this semester, and so it will only be possible to
 work in L0.11 during your scheduled slots. For the other half of your day,
 you can work in one of the study spaces spread throughout Lab42. These are
 indicated as *Library Learning Space* on the signs and can be found in rooms
 **L0.05, L1.09 L1.15, L1.16 and L2.08**.
-
-In addition, there are the actual **group seminars on Monday** with your own TA.
-For groups A, B and C these are scheduled in the afternoon, and for groups D,
-E, F and G these are scheduled in the morning. The exact times and rooms for
-your group seminars can be found on Datanose [here](https://datanose.nl/#course[119433]).
 
 ### Deadlines and daily schedules
 
