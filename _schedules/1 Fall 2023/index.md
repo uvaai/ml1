@@ -45,7 +45,7 @@ group as follows:
 | 13:00 - 17:00 | DEFG      | ABC       | ABC       | DEFG      | DEFG      |
 
 Most on-campus activities, including the practical assistance, will generally
-be in this room during these slots. There is two hours of practical assistance
+be in this room during these slots. There are two hours of practical assistance
 every day for both slots. For the morning slot, there is practical assistance
 from **10:00 to 12:00** and for the afternoon slot there is practical
 assistance from **13:00 to 15:00**.
@@ -56,9 +56,7 @@ you can work in one of the study spaces spread throughout Lab42. These are
 indicated as *Library Learning Space* on the signs and can be found in rooms
 **L0.05, L1.09 L1.15, L1.16 and L2.08**.
 
-#### Group seminars
-
-In addition, there are the actual group seminars on Monday with your own TA.
+In addition, there are the actual **group seminars on Monday** with your own TA.
 For groups A, B and C these are scheduled in the afternoon, and for groups D,
 E, F and G these are scheduled in the morning. The exact times and rooms for
 your group seminars can be found on Datanose [here](https://datanose.nl/#course[119433]).
