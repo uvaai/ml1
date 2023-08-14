@@ -2,6 +2,21 @@
 
 University of Amsterdam / Programming Lab / 50821ITM6Y
 
+## Syllabus<br><small>Fall 2023</small>
+
+This course serves as an introduction to the basics of machine learning and
+artificial intelligence. It consists of 6 modules, where each of these modules
+is expected to take about one week, and will focus on exploring one or more
+techniques from machine learning. In general, there will be 4 components to
+each module:
+
+* **Theory videos:** These will mostly introduce the required machine learning concepts for the topics that week.
+* **SOWISO:** An online platform we'll use to cover foundational mathematical concepts that are the driving force behind a lot of the algorithms we'll explore.
+* **Programming Notebook:** Here you will implement some of the machine learning algorithms yourself in *Python*.
+* **Written Assignment:** Here you'll read articles or blog posts related to the philosophical and societal implication of ML, and answer questions about them.
+
+Log in with your UvAnetID and create an account to get access to the modules.
+
 ## Staff
 
 Tim Doolan (coordinator)
@@ -11,27 +26,29 @@ Wouter Vrielink (teacher)
 You can reach us at <minorai@mprog.nl> for any practical matters or other
 questions.
 
-## Course content
-
-This course consists of 6 modules. Each of these modules is expected to take
-about one week and will focus on exploring one or more techniques from machine
-learning.  In general, there will be 4 components to each module:
-
-* **Theory videos:** These will mostly introduce the required machine learning concepts for the topics that week.
-* **SOWISO:** An online platform we'll use to cover foundational mathematical concepts that are the driving force behind a lot of the algorithms we'll explore.
-* **Programming Notebook:** Here you will implement some of the machine learning algorithms yourself in *Python*.
-* **Written Assignment:** Here you'll read articles or blog posts related to the philosophical and societal implication of ML, and answer questions about them.
-
-Log in with your UvAnetID and create an account to get access to the modules.
-
 ## Schedule
 
 The core schedule for this course, combined with Python for Data Processing, is
-built around working with the material each weekday from 9 to 5.  For this we
+built around working with the material each weekday from 9 to 5. For this we
 have one room on the Science Park campus permanently reserved for minor AI
 students, namely **L0.11**. This room provides enough space for every student
-to work on campus for 4 hours each day in divided morning and afternoon slots.
-The other 4 hours can either be done in the on-campus study spaces or at home.
+to work on campus for 4 hours each day, in divided morning and afternoon slots.
+
+### Room scheduling
+
+The division of morning and afternoon slots in **L0.11** depends on your seminar
+group as follows:
+
+|               | Monday     | Tuesday    | Wednesday  | Thursday   | Friday     |
+|---------------|------------|------------|------------|------------|------------|
+| 09:00 - 13:00 | A, B, C    | D, E, F, G | D, E, F, G | A, B, C    | A, B, C    |
+| 13:00 - 17:00 | D, E, F, G | A, B, C    | A, B, C    | D, E, F, G | D, E, F, H |
+
+Study spaces in Lab42 are spread in rooms throughout the building. They are
+indicated as "Library Learning Spaces" and can be found in L0.05, L1.09 L1.15,
+L1.16 en L2.08.
+
+### Other scheduling
 
 Most on-campus activities, including practical assistance, will generally be
 held in this room. There are some exceptions with activities that do not fit
