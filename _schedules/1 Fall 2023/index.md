@@ -39,24 +39,29 @@ to work on campus for 4 hours each day, in divided morning and afternoon slots.
 The division of morning and afternoon slots in **L0.11** depends on your seminar
 group as follows:
 
-|               | Monday     | Tuesday    | Wednesday  | Thursday   | Friday     |
-|---------------|------------|------------|------------|------------|------------|
-| 09:00 - 13:00 | A, B, C    | D, E, F, G | D, E, F, G | A, B, C    | A, B, C    |
-| 13:00 - 17:00 | D, E, F, G | A, B, C    | A, B, C    | D, E, F, G | D, E, F, H |
+|               | Monday    | Tuesday   | Wednesday | Thursday  | Friday    |
+|---------------|-----------|-----------|-----------|-----------|-----------|
+| 09:00 - 13:00 | ABC       | DEFG      | DEFG      | ABC       | ABC       |
+| 13:00 - 17:00 | DEFG      | ABC       | ABC       | DEFG      | DEFG      |
 
-Study spaces in Lab42 are spread in rooms throughout the building. They are
-indicated as "Library Learning Spaces" and can be found in L0.05, L1.09 L1.15,
-L1.16 en L2.08.
+Most on-campus activities, including the practical assistance, will generally
+be in this room during these slots. There is two hours of practical assistance
+every day for both slots. For the morning slot, there is practical assistance
+from **10:00 to 12:00** and for the afternoon slot there is practical
+assistance from **13:00 to 15:00**.
 
-### Other scheduling
+Note that we have full group this semester, and so it will only be possible to
+work in L0.11 during your scheduled slots. For the other half of your day,
+you can work in one of the study spaces spread throughout Lab42. These are
+indicated as *Library Learning Space* on the signs and can be found in rooms
+**L0.05, L1.09 L1.15, L1.16 and L2.08**.
 
-Most on-campus activities, including practical assistance, will generally be
-held in this room. There are some exceptions with activities that do not fit
-in the room, like the group seminars and the exam. The schedule for these
-group seminars can be found on Datanose [here](https://datanose.nl/#course[119433])
+#### Group seminars
 
-The schedule for the practical assistance and office hours that will be held in
-L0.11 can be found in the "Asking Questions" section below.
+In addition, there are the actual group seminars on Monday with your own TA.
+For groups A, B and C these are scheduled in the afternoon, and for groups D,
+E, F and G these are scheduled in the morning. The exact times and rooms for
+your group seminars can be found on Datanose [here](https://datanose.nl/#course[119433]).
 
 ### Deadlines and daily schedules
 
@@ -81,8 +86,8 @@ situation and the difficulties you're having, so will require sending an email.
 
 #### Part-time students
 
-If you are a part-time student, you can just follow the *Introduction to Machine
-Learning* half of the daily schedule. You should still attend the group
+If you are a part-time student, you can just follow the *Introduction to
+Machine Learning* half of the daily schedule. You should still attend the group
 seminars with the other students, as scheduled [here](https://datanose.nl/#course[119433]),
 but can otherwise choose which days of practical assistance combine best with
 your own schedule.
