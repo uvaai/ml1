@@ -353,7 +353,7 @@ so instead of learning and considering all the possibilities, you just end up
 trying to recreate the solution you already saw. As there usually quite a few
 different ways to solve programming problems, this can even end up with code
 that is similar enough in structure that it is caught by our automated
-plagarism detector.
+plagiarism detector.
 
 ### Helping other students
 
@@ -370,7 +370,7 @@ teacher instead.
 The general principle here is that you can look at anothers code to help fix a
 bug, but they cannot look at your code for ideas on how to solve it. Note that
 sharing a solution with someone who has not yet completed that part of the
-assignment is considered plagarism just as much as handing in another students
+assignment is considered plagiarism just as much as handing in another students
 solution. Doing this deprives the other student from learning what they need
 to learn in that assignment, which will only make it more difficult for them to
 solve subsequent assignments on their own.
@@ -379,7 +379,7 @@ solve subsequent assignments on their own.
 
 Searching for solutions to (parts of) the assigments online is obviously not
 permitted. This explicitly also includes asking ChatGPT or other large language
-models to write the code for you, which is consider plagarism just as much as
+models to write the code for you, which is consider plagiarism just as much as
 copying a solution written by another human.
 
 What is permitted though, is searching for explanations on how to use certain
