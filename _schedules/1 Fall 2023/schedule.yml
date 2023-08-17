@@ -1,6 +1,6 @@
 Welcome:
     Read the syllabus to get started: /syllabus
-Module 1:
+Module 1 [4/9/23]:
   Schedule: /modules/m1
   Overview: /week1/overview
   Introduction to AI:
@@ -14,7 +14,7 @@ Module 1:
   Programming Notebook:
     Notebook introduction: /week1/notebooks
     Chatting with ELIZA: /week1/eliza
-Module 2:
+Module 2 [11/9/23]:
   Schedule: /modules/m2
   Overview: /week2/overview
   Written Assignment:
@@ -26,7 +26,7 @@ Module 2:
   Programming Notebook:
     Working on the notebooks: /week2/notebooks
     k-NN classification: /week2/k-nn-classification
-Module 3:
+Module 3 [18/9/23]:
   Schedule: /modules/m3
   Overview: /week3/overview
   SOWISO:
@@ -37,7 +37,7 @@ Module 3:
     Naive Bayes: /week3/naive-bayes
   Written Assignment:
     Chinese Room: /week3/chinese-room
-Module 4:
+Module 4 [25/9/23]:
   Schedule: /modules/m4
   Overview: /week4/overview
   SOWISO:
@@ -48,7 +48,7 @@ Module 4:
     Gradient Descent: /week4/gradient-descent
   Written Assignment:
     AlphaGo: /week4/alphago
-Module 5:
+Module 5 [3/10/23]:
   Schedule: /modules/m5
   Overview: /week5/overview
   SOWISO:
@@ -59,7 +59,7 @@ Module 5:
     Polynomial Regression: /week5/polynomial-regression
   Written Assignment:
     Algorithmic Bias: /week5/algorithmic-bias
-Module 6:
+Module 6 [11/10/23]:
   Schedule: /modules/m6
   Overview: /week6/overview
   Numpy:
@@ -75,9 +75,3 @@ Module 6:
 Exam:
   Exam material: /exam/material
   Practice exam: /exam/practice
-#   Feedback:
-#     Course Evaluation: /week8/course-evaluation
-#   Optional Theory:
-#     Neural Networks: /week8/neural-networks
-#   Optional Notebook:
-#     Digit Recognition: /week8/digit-recognition
