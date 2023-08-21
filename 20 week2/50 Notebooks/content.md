@@ -41,9 +41,9 @@ deadlines, instead of one big deadline at the end of the module.
 
 5. If you’re having trouble keeping up with the schedule, please contact us and
 let us know. If you didn’t manage to finish one part of the daily schedule
-and you want to ask a question about that the next day at 10:00, then this
-isn’t an issue, but if you didn’t manage to do a large part of the material for
-the day, or are more than one day behind, please send us an email at
-minorai@mprog.nl. We can take a look at what you still need to do together, and
-see if we can offer you any addition resources to help with this.
+and you want to ask a question about that the next day, then this isn’t an
+issue, but if you didn’t manage to do a large part of the material for the day,
+or are more than one day behind, please send us an email at minorai@mprog.nl.
+We can take a look at what you still need to do together, and see if we can
+offer you any addition resources to help with this.
 

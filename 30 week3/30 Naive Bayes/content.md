@@ -5,7 +5,7 @@ theory you've been studying to the problem of sentiment analysis, using a lot
 of real data harvested from Twitter.
 
 Download the data set [here](data/sentiment_data.zip) and programming notebook
-[here](data/naive_bayes.ipynb).
+[here](data/naive_bayes.ipynb). (Right-click >> Save Link As >> Type: All Files)
 
 *Note:* The data set for this assignment is very large, which means some
 computations can take a long time. Therefore, there are some precautions you
