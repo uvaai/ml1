@@ -53,7 +53,8 @@ calculation:
         exam: 40
 
 programming:
-    show_progress: true
+    show_progress: false
+    show_overview: false
     submits:
         prog_1: 1
         prog_2: 1
@@ -61,10 +62,10 @@ programming:
         prog_4: 1
         prog_5: 1
         prog_6: 1
-        # prog_7: 1
 
 writing:
-    show_progress: true
+    show_progress: false
+    show_overview: false
     submits:
         writ_1: 1
         writ_2: 1
@@ -72,15 +73,58 @@ writing:
         writ_4: 1
         writ_5: 1
         writ_6: 1
-        # writ_7: 1
+
+module_1:
+    show_progress: false
+    show_overview: true
+    submits:
+        prog_1: 1
+        writ_1: 1
+
+module_2:
+    show_progress: false
+    show_overview: true
+    submits:
+        prog_2: 1
+        writ_2: 1
+
+module_3:
+    show_progress: false
+    show_overview: true
+    submits:
+        prog_3: 1
+        writ_3: 1
+
+module_4:
+    show_progress: false
+    show_overview: true
+    submits:
+        prog_4: 1
+        writ_4: 1
+
+module_5:
+    show_progress: false
+    show_overview: true
+    submits:
+        prog_5: 1
+        writ_5: 1
+
+module_6:
+    show_progress: false
+    show_overview: true
+    submits:
+        prog_6: 1
+        writ_6: 1
 
 late_days:
     show_progress: true
+    show_overview: true
     submits:
         late_day1: 0
         late_day2: 0
 
 exam:
     show_progress: true
+    show_overview: true
     submits:
         exam: 1

@@ -379,7 +379,7 @@ solve subsequent assignments on their own.
 
 Searching for solutions to (parts of) the assignments online is obviously not
 permitted. This explicitly also includes asking ChatGPT or other large language
-models to write the code for you, which is consider plagiarism just as much as
+models to write the code for you, which is considered plagiarism just as much as
 copying a solution written by another human.
 
 What is permitted though, is searching for explanations on how to use certain
