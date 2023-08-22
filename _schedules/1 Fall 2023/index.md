@@ -357,7 +357,7 @@ plagiarism detector.
 
 ### Helping other students
 
-Once you've completed a part of an assignment, viewing other student soluting
+Once you've completed a part of an assignment, viewing another student's solution
 is fine and can even be very helpful. At this point you can help other students
 to find bugs in their code, or even do a code review together when you're both
 done. Helping other students to find bugs in their code is something that is
@@ -367,7 +367,7 @@ fix, but cannot do so without sharing your own code (which is common enough
 when you are still learning!), then you should refer the problem to a TA or
 teacher instead.
 
-The general principle here is that you can look at anothers code to help fix a
+The general principle here is that you can look at another's code to help fix a
 bug, but they cannot look at your code for ideas on how to solve it. Note that
 sharing a solution with someone who has not yet completed that part of the
 assignment is considered plagiarism just as much as handing in another students
@@ -377,7 +377,7 @@ solve subsequent assignments on their own.
 
 ### Using online tools
 
-Searching for solutions to (parts of) the assigments online is obviously not
+Searching for solutions to (parts of) the assignments online is obviously not
 permitted. This explicitly also includes asking ChatGPT or other large language
 models to write the code for you, which is consider plagiarism just as much as
 copying a solution written by another human.
@@ -393,7 +393,7 @@ clearly indicate which parts you did not write yourself, but came from the
 online example.
 
 As a student it can sometimes be hard to estimate what is and isn't ok to
-search for online, which is logical while you are still learning. We stongly
+search for online, which is logical while you are still learning. We strongly
 recommend that you err on the side of caution with this, and ask staff
 permission beforehand for a specific search when in doubt. As this is an
 introductory course, you should actually be able to find all the relevant
@@ -454,4 +454,3 @@ Find them here in [English] and [Dutch].
 - Splitting an assignment's workload with another individual and combining your work.
 
 - Submitting (after possibly modifying) the work of another individual.
-
