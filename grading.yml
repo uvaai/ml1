@@ -75,42 +75,42 @@ writing:
         writ_6: 1
 
 module_1:
-    show_progress: false
+    show_progress: true
     show_overview: true
     submits:
         prog_1: 1
         writ_1: 1
 
 module_2:
-    show_progress: false
+    show_progress: true
     show_overview: true
     submits:
         prog_2: 1
         writ_2: 1
 
 module_3:
-    show_progress: false
+    show_progress: true
     show_overview: true
     submits:
         prog_3: 1
         writ_3: 1
 
 module_4:
-    show_progress: false
+    show_progress: true
     show_overview: true
     submits:
         prog_4: 1
         writ_4: 1
 
 module_5:
-    show_progress: false
+    show_progress: true
     show_overview: true
     submits:
         prog_5: 1
         writ_5: 1
 
 module_6:
-    show_progress: false
+    show_progress: true
     show_overview: true
     submits:
         prog_6: 1
