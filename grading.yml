@@ -28,20 +28,42 @@ templates:
         calculation: points
 
 grades:
-    prog_1: *manual
-    writ_1: *manual
-    prog_2: *manual
-    writ_2: *manual
-    prog_3: *manual
-    writ_3: *manual
-    prog_4: *manual
-    writ_4: *manual_float
-    prog_5: *manual
-    writ_5: *manual_float
-    prog_6: *manual
-    writ_6: *manual_float
-    prog_7: *manual
-    writ_7: *manual
+    prog_1:
+        <<: *manual
+        deadline: 08/09/23 17:59
+    writ_1:
+        <<: *manual_float
+        deadline: 08/09/23 17:59
+    prog_2:
+        <<: *manual
+        deadline: 15/09/23 17:59
+    writ_2:
+        <<: *manual_float
+        deadline: 15/09/23 17:59
+    prog_3:
+        <<: *manual
+        deadline: 22/09/23 17:59
+    writ_3:
+        <<: *manual_float
+        deadline: 22/09/23 17:59
+    prog_4:
+        <<: *manual
+        deadline: 02/10/23 17:59
+    writ_4:
+        <<: *manual_float
+        deadline: 02/10/23 17:59
+    prog_5:
+        <<: *manual
+        deadline: 10/10/23 17:59
+    writ_5:
+        <<: *manual_float
+        deadline: 10/10/23 17:59
+    prog_6:
+        <<: *manual
+        deadline: 18/10/23 17:59
+    writ_6:
+        <<: *manual_float
+        deadline: 18/10/23 17:59
     late_day1: *automatic
     late_day2: *automatic
     exam: *test
