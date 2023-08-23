@@ -19,8 +19,8 @@ For each of the problem descriptions below, indicate what *type* of machine lear
 
 ## 3. k-Nearest Neighbours
 
-* For which value of $k$ is k-NN equal to the nearest neighbour algorithm?
-* Explain why you would always use an uneven value for $k$ specifically when doing binary classification.
+* For which value of $$k$$ is k-NN equal to the nearest neighbour algorithm?
+* Explain why you would always use an uneven value for $$k$$ specifically when doing binary classification.
 
 ## 4. Naive Bayes
 
@@ -30,16 +30,16 @@ For each of the problem descriptions below, indicate what *type* of machine lear
 ## 5. Linear Regression
 
 ![](data/linear_cost.png)
-The figure above shows 3 different linear regression models, for the same 5 data points. 
+The figure above shows 3 different linear regression models, for the same 5 data points.
 
 * Order these 3 linear models from lowest to highest cost for the 5 plotted data points. No need to compute the cost exactly, but motivate your answer for each graph.
-* Explain why the point where the gradient of the cost is exactly 0 in both directions, is the also best possible value of $a$ and $b$ for the data set.
+* Explain why the point where the gradient of the cost is exactly 0 in both directions, is the also best possible value of $$a$$ and $$b$$ for the data set.
 * Explain what the learning rate is and what it does in gradient descent.
 
 ## 6. Polynomial Regression
 
 ![](data/poly_v2.png)
-Consider the univariate regression data above. The green dots are the training samples, the red triangles are the validation samples and the blue line represents the learned hypothesis. The each model is learned using polynomial regression, using a different polynomial degree, which is indicated above the each plot by the $k$ parameter.
+Consider the univariate regression data above. The green dots are the training samples, the red triangles are the validation samples and the blue line represents the learned hypothesis. The each model is learned using polynomial regression, using a different polynomial degree, which is indicated above the each plot by the $$k$$ parameter.
 
 * Which of these plots (k= 1, 3 and 7) results in the lowest training cost? And which plot results in the lowest validation cost? Explain your answers.
 * For each of the three plots, indicate whether the model underfits, overfits or fits well. For each of your three answers, explain what parts of the plot indicate that type of fit.
@@ -51,5 +51,4 @@ Consider the univariate regression data above. The green dots are the training s
 The figure above shows a data set that is being clustered using the k-means algorithm. The data is indicated by dots, and the current means are indicated by red triangles.
 
 * Run a single iteration of the k-means algorithm on this data set, doing both steps (no need to write out all results here). Does the algorithm converge after this iteration? Explain your answer.
-* Name two methods you could use to determine what value of $k$ you should use for k-means.
-
+* Name two methods you could use to determine what value of $$k$$ you should use for k-means.
