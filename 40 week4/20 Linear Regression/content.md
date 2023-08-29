@@ -6,7 +6,7 @@ on Coursera:
 
 ### Supervised Learning
 
-![embed](https://www.youtube.com/embed/ls7Ke48jCt8)
+![embed](https://www.youtube.com/embed/6QRpDLj8huE?start=847&end=1467)
 
 ### Linear Regression: Model Representation
 
