@@ -3,31 +3,15 @@
 This week we'll continue with more videos from Andrew Ng's Machine
 Learning course on Coursera:
 
-### What is machine learning?
+### What is machine learning? (00:00 - 14:08)
 
-![embed](https://www.youtube.com/embed/PPLop4L2eGk)
+![embed](https://www.youtube.com/embed/6QRpDLj8huE?end=848)
 
-### Unsupervised Learning
+### Unsupervised Learning (26:37 - 40:50)
 
-![embed](https://youtube.com/embed/jAA2g9ItoAc)
+![embed](https://youtube.com/embed/6QRpDLj8huE?start=1597)
 
-### Clustering: Introduction
+### Clustering
 
-![embed](https://youtube.com/embed/Ev8YbxPu_bQ)
-
-### Clustering: K-means algorithm
-
-![embed](https://youtube.com/embed/hDmNF9JG3lo)
-
-### Clustering: Optimization objective
-
-![embed](https://youtube.com/embed/LvgcfMOyREE)
-
-### Clustering: Random initialization
-
-![embed](https://youtube.com/embed/PpH_hv55GNQ)
-
-### Clustering: Choosing the number of clusters
-
-![embed](https://youtube.com/embed/lbR5br5yvrY)
+![embed](https://youtube.com/embed/0D4LnsJr85Y)
 
