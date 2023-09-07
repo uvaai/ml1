@@ -13,7 +13,7 @@ To open the notebook, activate the `progLab` environment and start the notebook
 server:
 
     conda activate progLab
-    jupyter notebook
+    jupyter nbclassic
 
 The assignment uses the `nltk` library, so without the environment this code
 won't work!

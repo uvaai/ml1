@@ -1,6 +1,6 @@
 # Jupyter notebooks
 
-Before we get with the programming assignment this week, we'll do a very brief 
+Before we get with the programming assignment this week, we'll do a very brief
 introduction on [Jupyter notebook](http://jupyter.org/),
 which you will need for the assignment this week. These
 notebooks allow a mixture of nicely formatted text and *Python* code.
@@ -14,7 +14,7 @@ Download the introduction file below.
 Open your terminal in the directory where you downloaded the file, make sure
 your `progLab` environment is active, and run the command
 
-    jupyter notebook
+    jupyter nbclassic
 
 This will print some information about the *Notebook* server in the terminal,
 and open a web browser to the URL of the web application. By default this is
