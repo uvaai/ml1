@@ -37,7 +37,7 @@ valid objection to using the Imitation Game as a test to determine if a machine
 can think.
 
 Your assignment should be long enough to make a clear and cohesive argument for
-your point of view. In general, this tends to correspond with around 500 words. 
+your point of view. In general, this tends to correspond with around 500 words.
 The minimum requirement for the assignment is 350 words.
 
 #### Peer review
@@ -49,7 +49,7 @@ especially after you rewrote something a couple of times, other people will
 generally see improvements that you can't spot anymore. So, make use of that
 and help each other out by exchanging feedback.
 
-*Note:* This means swapping assignments with a student from the class, not 
+*Note:* This means swapping assignments with a student from the class, not
 the peer review feature on the *Elements of AI* website.
 
 ### Submission
@@ -58,3 +58,4 @@ For the written portion this week, you should submit your answer to exercise 4
 from *Elements of AI* and your reply to Turing defending one of the objections
 he mentions.
 
+**You can submit your files through the "Submit" tab at the top of this page.**

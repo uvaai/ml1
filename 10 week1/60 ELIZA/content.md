@@ -33,4 +33,4 @@ Write the answers to the open questions directly in each of the *Markdown* cells
 
 Make sure any code you write has clear variable names and comments where needed.
 
-*You can submit your completed notebook using the submit tab on this page.*
+**You can submit your files through the "Submit" tab at the top of this page.**

@@ -21,3 +21,4 @@ definition of AI. Make sure to *save your answer* to this question in a
 separate file somewhere, as you will need to hand it in as part of your written
 assignment for this week.
 
+**You can submit your file using the submit tab on the "Turing's paper" page.**
