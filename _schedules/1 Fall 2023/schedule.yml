@@ -10,22 +10,22 @@ Module 1 [4/9/23]:
   Theory Videos:
     Experimental Probability: /week1/experimental-probability
   Written Assignment:
-    Turing's paper: /week1/turing-test
+    Turing's paper [submit]: /week1/turing-test
   Programming Notebook:
     Notebook introduction: /week1/notebooks
-    Chatting with ELIZA: /week1/eliza
+    Chatting with ELIZA [submit]: /week1/eliza
 Module 2 [11/9/23]:
   Schedule: /modules/m2
   Overview: /week2/overview
   Written Assignment:
-    Elements of AI: /week2/elements-of-ai
+    Elements of AI [submit]: /week2/elements-of-ai
   SOWISO:
     Types of Data: /week2/types-of-data
   Theory Videos:
     Nearest Neighbours: /week2/nearest-neighbours
   Programming Notebook:
     Working on the notebooks: /week2/notebooks
-    k-NN classification: /week2/k-nn-classification
+    k-NN classification [submit]: /week2/k-nn-classification
 Module 3 [18/9/23]:
   Schedule: /modules/m3
   Overview: /week3/overview
@@ -34,9 +34,9 @@ Module 3 [18/9/23]:
   Theory Videos:
     Bayes' Rule: /week3/bayes-rule
   Programming Notebook:
-    Naive Bayes: /week3/naive-bayes
+    Naive Bayes [submit]: /week3/naive-bayes
   Written Assignment:
-    Chinese Room: /week3/chinese-room
+    Chinese Room [submit]: /week3/chinese-room
 Module 4 [25/9/23]:
   Schedule: /modules/m4
   Overview: /week4/overview
@@ -45,9 +45,9 @@ Module 4 [25/9/23]:
   Theory Videos:
     Linear Regression: /week4/linear-regression
   Programming Notebook:
-    Gradient Descent: /week4/gradient-descent
+    Gradient Descent [submit]: /week4/gradient-descent
   Written Assignment:
-    AlphaGo: /week4/alphago
+    AlphaGo [submit]: /week4/alphago
 Module 5 [3/10/23]:
   Schedule: /modules/m5
   Overview: /week5/overview
@@ -56,20 +56,20 @@ Module 5 [3/10/23]:
   Theory Videos:
     Multivariate Regression: /week5/multivariate-regression
   Programming Notebook:
-    Polynomial Regression: /week5/polynomial-regression
+    Polynomial Regression [submit]: /week5/polynomial-regression
   Written Assignment:
-    Algorithmic Bias: /week5/algorithmic-bias
+    Algorithmic Bias [submit]: /week5/algorithmic-bias
 Module 6 [11/10/23]:
   Schedule: /modules/m6
   Overview: /week6/overview
   Theory Videos:
     Unsupervised Learning: /week6/unsupervised-learning
   Programming Notebook:
-    K-means: /week6/k-means
+    K-means [submit]: /week6/k-means
   SOWISO:
     Exponentials and Logarithms: /week6/exponentials-and-logarithms
   Written Assignment:
-    Filter bubbles: /week6/filter-bubbles
+    Filter bubbles [submit]: /week6/filter-bubbles
 Exam [16/10/23]:
   Exam material: /exam/material
   Practice exam: /exam/practice
