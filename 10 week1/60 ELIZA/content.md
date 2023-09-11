@@ -12,11 +12,12 @@ Navigate the terminal to the folder where you downloaded the assignment file.
 To open the notebook, activate the `progLab` environment and start the notebook
 server:
 
-    conda activate progLab
     jupyter nbclassic
 
 The assignment uses the `nltk` library, so without the environment this code
 won't work!
+
+> When this command fails with an error similar to `jupyter: 'nbclassic' is not a Jupyter command`, you can run `conda install nbclassic` to fix the problem!
 
 *Note:* If you close and reopen the assignment notebook, then the `nltk`
 imports and all the code you ran will no longer be in memory. You will have to

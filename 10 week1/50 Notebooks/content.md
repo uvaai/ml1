@@ -21,6 +21,8 @@ and open a web browser to the URL of the web application. By default this is
 [http://127.0.0.1:8888](http://127.0.0.1:8888). Note that *127.0.0.1* is the
 home ip-address, so this is now a webpage running on your own computer!
 
+> When this command fails with an error similar to `jupyter: 'nbclassic' is not a Jupyter command`, you can run `conda install nbclassic` to fix the problem!
+
 This first page shows the dashboard, which lists the notebooks available in the
 current directory. You can create new notebooks from the dashboard with the
 `New` button (select *Python 3* notebook), or open existing ones. Creating a
