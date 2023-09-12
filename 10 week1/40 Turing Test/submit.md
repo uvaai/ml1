@@ -57,5 +57,3 @@ the peer review feature on the *Elements of AI* website.
 For the written portion this week, you should submit your answer to exercise 4
 from *Elements of AI* and your reply to Turing defending one of the objections
 he mentions.
-
-**You can submit your files through the "Submit" tab at the top of this page.**
