@@ -1,5 +1,4 @@
 name: prog_6
 files:
     required:
-        - numpy.ipynb
         - k_means.ipynb
