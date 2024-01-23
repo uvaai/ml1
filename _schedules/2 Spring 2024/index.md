@@ -169,7 +169,8 @@ to improve the style and design of your code, discussing the some of the
 written assignment topics, or some small programming exercises to practice
 with the group. In addition, you can always use these seminars to ask you TA any
 questions you might have about the feedback they gave you as part of the grading for
-the previous module.
+the previous module. The schedule for the group seminars can be found on Datanose
+[here](https://datanose.nl/#course[119434])
 
 ### Email the staff
 
@@ -179,59 +180,48 @@ of the formats above, you can email the course staff at <ai@proglab.nl>
 
 ## Passing the course
 
-**TODO**
-
 The programming and writing assignment will both be graded on a 1 to 10 scale.
 and at the end of the course an average for both these elements will be
 computed. The SOWISO exercises have automatic feedback, so they will only be
-graded on a *pass/fail* basis.
+graded on a *pass/fail* basis. Attendance each week will also be graded
+pass/fail, as described in the *Attendance* section below.
 
-Completing all the SOWISO chapters is required in order to receive a pass for
-this part. The minimum satisfactory average grade from the assignments is a
-4.5 and the minimum grade for the exam is also a 4.5. If all elements are
-completed satisfactorily, your final grade for the course is computed as:
+Passing the attendace requirement each week is required to pass the course.
+Completing each of the SOWISO chapters is also required in order to receive a
+pass for that part. The minimum satisfactory average grade from the
+assignments is a 4.5 and the minimum grade for the exam is also a 4.5. If all
+elements are completed satisfactorily, your final grade for the course is
+computed as:
 
     40% programming average + 20% written average + 40% exam grade
 
 
 ### Attendance
 
-**TODO**
-
 As a full-time student, we expect you to be present and working on campus every
 weekday from 9 to 5. The material of these course covers a lot of practical
 skills, which cannot just be learned from reading a book or watching a video.
 This means we expect you'll need to ask plenty questions while working on
-assignments, as you try and master these different skills. This is why we offer
-a lot practical assistance, so there is a chance for you to ask the questions
-you have about the scheduled material *every day*.
+assignments, as you try and master these different skills. This is also why we
+offer practical assistance every day of the week.
 
-In spite of this, we maintain a soft attendance requirement. This means that
-there is no hard rule stating that if you miss a certain percentage of days,
-you will fail the course, i.e. attendance does not directly affect your final
-grade.
+As asking questions is such a fundamental part of the way we expect you to
+learn, attendance for some of the practical assistance is mandatory. This is
+not required for every single practical session, but you should attend the
+majority of the practicals offered. Each week there are 6 lessons you can
+attend: practical assistance every day of the week, and a seminar with your own
+TA once per week. Of these you should attend at minimum 4 per week to receive a
+pass for the attendance that week. Note that for parttime students the
+requirement is only to attend 2 lessons each week.
 
-However, indirectly attendance definitely will affect your grade. The material
-requires you to work regularly on the assignments and ask questions along the
-way so you don't get stuck. This means if you are not on campus, you are much
-more likely to get stuck longer and thus end up with too little time before the
-deadline.
+#### Rules regarding attendance
 
-In addition, we will still take attendance samples regularly in the room. This
-does not affect whether you pass or fail the course, but is used as metric to
-give us an indication of the effort you are putting into following the courses
-as intended. If you request an extension or exception, or ask for extra
-help or resources for the material, we'll always take your attendance into
-account when considering your request. Requests from students who miss attendance
-are generally much less likely to be granted.
-
-If you are done with all the material for the module before the day of the
-deadline, you should show your assignments to a TA by asking a question *during
-practical assistance*. The TA will check if they agree every element has been
-properly completed, and if so you'll be granted exemption from the attendance
-checks for the rest of the module.
-
-**TODO**
+* You need to attend 4 out of 6 lessons each week as a fulltime student, or 2 out of 6 as a parttime student
+* Attendance will be taken during the practical assistance each day at 10:15 and students entering after 10:30 will not be registered present
+* If you are registered sick (see the section *Absenses* above), you are also exempted from attendance on those days
+* If you need an exception for the attendance of a week for whatever reason, this should be arranged *before* the start of that week with course staff (this is a type of staff exception, as described above)
+* If you are done with all the material for the module before the day of the deadline, you can show your assignments to a TA *during practical assistance*. The TA will check if they agree every element has been properly completed, and if so you'll be granted exemption from the attendance checks for the rest of the module.
+* If you receive a fail for the attendance of one week, you should make arrangements with the staff to compensate this *the following week*. If an attendance fail is not corrected the week after, it is no longer possible to pass the course.
 
 
 ### Programming Grades

@@ -11,7 +11,7 @@ techniques from machine learning. In general, there will be 4 components to
 each module:
 
 * **Theory videos:** These will mostly introduce the required machine learning concepts for the topics that week.
-* **SOWISO:** An online platform we'll use to cover foundational mathematical concepts that are the driving force behind a lot of the algorithms we'll explore.
+* **SOWISO:** An online platform we'll use to cover foundational mathematical concepts that are the driving force behind a lot of the algorithms we'll explore. These modules are optional if you already have prior experience with the mathematics covered that week.
 * **Programming Notebook:** Here you will implement some of the machine learning algorithms yourself in *Python*.
 * **Written Assignment:** Here you'll read articles or blog posts related to the philosophical and societal implication of ML, and answer questions about them.
 
@@ -23,46 +23,17 @@ Tim Doolan (coordinator)
 
 Wouter Vrielink (teacher)
 
-You can reach us at <minorai@mprog.nl> for any practical matters or other
+You can reach us at <ai@proglab.nl> for any practical matters or other
 questions.
+
 
 ## Schedule
 
-The core schedule for this course, together with Python for Data Processing, is
-built around working on the combined material each weekday from 9 to 5. For
-this we have one room on the Science Park campus permanently reserved for minor
-AI students, namely **L0.11**. This room provides enough space for every
-student to work on campus for 4 hours each day, in divided morning and
-afternoon slots.
-
-### Room scheduling
-
-On *Monday* there are group seminars with your own TA. For groups A, B and C
-these are scheduled in the afternoon, and for groups D, E, F and G these are
-scheduled in the morning. The exact times and rooms for your group seminars, as
-well as which group you are in, can be found on Datanose [here](https://datanose.nl/#course[119433]).
-
-The spaces in the main room **L0.11** are divided into morning and afternoon
-slots. The division of these slots for each day depends on which seminar group
-you are in:
-
-|               | Monday    | Tuesday   | Wednesday | Thursday  | Friday    |
-|---------------|-----------|-----------|-----------|-----------|-----------|
-| 09:00 - 13:00 | ABC       | DEFG      | DEFG      | ABC       | ABC       |
-| 13:00 - 17:00 | DEFG      | ABC       | ABC       | DEFG      | DEFG      |
-
-Most on-campus activities, including the practical assistance, will generally
-be in this room during these slots. There are two hours of practical assistance
-every day for both slots. For the morning slot, there is practical assistance
-each day from **10:00 to 12:00**, except on Monday, when it is from **11:00
-to 13:00** instead.  For the afternoon slot, the practical assistance is always
-from **13:00 to 15:00**.
-
-Note that we have full group this semester, and so it will only be possible to
-work in L0.11 during your scheduled slots. For the other half of your day,
-you can work in one of the study spaces spread throughout Lab42. These are
-indicated as *Library Learning Space* on the signs and can be found in rooms
-**L0.05, L1.09 L1.15, L1.16 and L2.08**.
+We have one room on the Science Park campus permanently reserved for minor AI
+students, namely **L0.10**, which provides enough space for all of you to work
+on campus. Most on-campus activities, including the practical assistance, will
+generally be The schedule for the practical assistance hours that will be held
+in L0.10 can be found in the "Asking Questions" section below.
 
 ### Deadlines and daily schedules
 
@@ -70,80 +41,22 @@ The deadlines for each module can be found on the module schedule pages
 (the first item in the sidebar for each module).
 
 We've found that it can be difficult for students to plan when to work on what
-part of the material, especially with two completely new courses, that together
-require a full-time time investment. Being unfamiliar with a subject makes it a
-lot harder to estimate how long something might take, and structuring your work
-can be more difficult. To help with all of this, we've made a day-to-day schedule
-for each module, which indicates what elements should be completed each day.
+part of the material, especially with two completely new courses (for fulltime
+minor AI students), that together require a fulltime time investment. Being
+unfamiliar with a subject makes it a lot harder to estimate how long something
+might take, and structuring your work can be more difficult. To help with all
+of this, we've made a day-to-day schedule for each module, which indicates what
+elements should be completed each day.
+
+As an ML elective student, you'll only need to follow the *Introduction to
+Machine Learning* half of the daily schedule, and can choose which of the daily
+practical assistance slots combine best with your own schedule.
 
 If you're finding it hard to keep on track with the daily schedule, you can
-contact the staff at <minorai@mprog.nl>. We can discuss possible approaches or
+contact the staff at <ai@proglab.nl>. We can discuss possible approaches or
 even offer extra help or resources, if needed. In general, it is a good idea to
 already contact us if are more than 1 day behind on the schedule, so we can
-look at possible solutions early. One of the possible solution would be to
-request access to extra assistance hours, as described in the "Requesting extra
-assistance" section below. Other solutions will depend on the specifics of your
-situation and the difficulties you're having, so will require sending an email.
-
-#### Part-time students
-
-If you are a part-time student, you can just follow the *Introduction to
-Machine Learning* half of the daily schedule. You should still attend the group
-seminars with the other students, as scheduled [here](https://datanose.nl/#course[119433]),
-but can otherwise choose which of your daily practical assistance slots combine
-best with your own schedule.
-
-## Asking questions
-
-If you have any questions about the material, there are several ways to ask them
-and get assistance.
-
-### Practical assistance
-
-There are 2 hours scheduled *every day* where you can ask practical questions
-to the TA's of the minor. Depending on your seminar group and the day of the
-week, this is either in morning starting from 10:00 or in the afternoon
-starting from 13:00 (see the "Room Scheduling" section above for more details).
-
-During these hours you can use the "Assistance" feature on this website, using
-the question mark symbol on the right side of the topbar. Please use this
-feature instead of raising your hand in class, as it ensures that all questions
-get handled in the order that they are asked. Questions can of be about either
-the PDP or ML1 courses, just make sure to mention what assignment you're
-working on. For your location, please list the  table you are working at, so
-the TA handling your question knows where to find you when it is your turn.
-
-### Office hours
-
-Students in the minor AI, as with any minor, tend to come from very diverse
-backgrounds, which makes a traditional centralized lecture aimed at all
-students difficult. So, instead the course content is mainly presented using
-theory videos and reading material, while the staff is also frequently
-available for questions.
-
-Every module there will be at least one planned set of office hours, where you
-can ask the staff any questions you might have about theoretical parts of the
-course. The schedule for these office hours can be found as part of the daily
-schedule for the module. The office hours will always be together with the
-practical assistance hours in the main room L0.11.
-
-During the office hours, you can use the same "Assistance" feature to ask any
-further explanations on the theory of that module. Simply start your question
-description with "[00]" to indicate it is for staff. If these explanations are
-relevant relevant for a larger number of students, they might be covered on the
-board, but in general, questions will be answered individually or in smaller
-groups. The office hours can also be used for any other matters you might want
-to discuss with staff, such as personal matters or an alternate planning.
-
-### Email the staff
-
-If you have personal matters to discuss or other questions that do not fit any
-of the formats above, you can email the course staff at <minorai@mprog.nl>
-
-## Exceptions
-
-Below you can kind the policies for the different kinds of possible exceptions
-and circumstances.
+look at possible solutions early.
 
 ### Absences and calling in sick
 
@@ -159,32 +72,6 @@ TA at the start of your absense. Any exceptions or extensions required for this
 will need to be discussed with course staff (so not your TA). See the extension
 policy below for more details.
 
-### Requesting extra assistance
-
-If you're having difficulty with the material and would like more opportunities
-to ask your questions, it is possible to request attending *both* daily
-practical assistance timeslots for the remainder of a module. Given the groups
-are quite full this semester, we will not be able to grant this to many
-students, but we'll still use these requests to make use of those extra spaces
-that are available.
-
-Note that this policy is only intended as *additional* assistance for students
-already attending all their regular practical assistance slots. This means that
-we'll only try to grant these requests in the following cases:
-
-* You are are a full-time student and have attended all your practical
-assistance slots and group seminars for the module up to that point.
-
-* You are are a part-time student and have attended half your practical
-assistance slots and the group seminars for the module up to that point.
-
-* You do not meet one of the critera above, but have been sick and registered
-this absense with your TA as described above in "Absenses and calling in sick"
-
-You can use the "Extra assist" button in the topbar of this course to request
-extra assistance for a module. Once you've submitted the form there, the details
-of your request will be reviewed and you'll get a reply from the staff via email.
-
 ### Extension policy and late days
 
 There are two types of extension; staff extensions and late days.
@@ -192,42 +79,86 @@ There are two types of extension; staff extensions and late days.
 Staff extensions usually require meeting with staff and will generally also
 include making an alternative planning for the module. If any circumstances
 arise that would make it hard for you to make the deadline, send us an
-email at <minorai@mprog.nl> so we can discuss your situation. Please do this as
+email at <ai@proglab.nl> so we can discuss your situation. Please do this as
 soon as the problem arises, rather than on the day of deadline, so we can
 schedule a meeting and still have room in the module for an alternative planning.
 Note that a meeting does not always guarantee an extension, as this might still
 depend on the details of your circumstances.
 
-In addition, for this course and Python for Data Processing, you have a
-combined total of 2 late days, each of which you can use to get a single 24
-hour extension for the module deadline. You can request a late day using the
-submit forms linked in the topbar of this course. You must always submit your
-request *before* the deadline expires. Any submissions received after the
-deadline without a requested late day will not be graded, meaning your grade
-will default to a 1.
+For this course you have a total of 2 late days, each of which you can use to
+get a single 24 hour extension for the module deadline. You can request a late
+day using the submit forms linked in the topbar of this course. You must always
+submit your request *before* the deadline expires. Any submissions received
+after the deadline without a requested late day will not be graded, meaning
+your grade will default to a 1.
 
-You can use only 1 late day per module to get a 24 hour extension on the deadline.
-This extension is for the whole module, so applies to both courses. If the deadline
-is on a Friday, using  a single late day will instead grant a 48 hour extension
-over the weekend, meaning your deadline will move to Sunday. If you have used both
-late days, or require more than 24 hours of extension, you may still try and
-request a staff extension.
+You can use only 1 late day per module to get a 24 hour extension on the
+deadline.  If the deadline is on a Friday, using  a single late day will
+instead grant a 48 hour extension over the weekend, meaning your deadline will
+move to Sunday. If you have used both late days, or require more than 24 hours
+of extension, you may still try and request a staff extension.
 
 Any staff extension request needs to be agreed upon before the deadline expires,
 which means your request must be sent at least 2 hours before the actual deadline.
 If you do not receive a reply in time, you should *always* still submit your
 current version of the assignment before the deadline, so this part can still be
-graded. Staff extension requests should be emailed to <minorai@mprog.nl>
+graded. Staff extension requests should be emailed to <ai@proglab.nl>
+
+## Asking questions
+
+If you have any questions about the material, there are several ways to ask them
+and get assistance.
+
+### Practical assistance
+
+There are 2.5 hours scheduled every day where you can ask practical questions to
+the TA's of the minor. During these hours you can use the "Assistance" feature
+on this website, using the question mark symbol on the right side of the
+topbar. Please use this feature instead of raising your hand in class, as it
+ensures that all questions get handled in the order that they are asked.
+Questions can of be about either the PDP or ML1 courses, just make sure to
+mention what assignment you're working on. For your location, please list the
+table you are working at, so the TA handling your question knows where to find
+you when it is your turn.
+
+The hours are scheduled as follows:
+
+* Monday: 13:30 to 16:00.
+* Tuesday - Friday: 10:00 to 12:30
+
+### Office hours
+
+Students in the minor AI, as with any minor, tend to come from very diverse
+backgrounds, which makes a traditional centralized lecture aimed at all
+students difficult. So, instead the course content is mainly presented using
+theory videos and reading material, while the staff is also frequently
+available for questions.
+
+Every module there will be at least one planned set of office hours, where you
+can ask the staff any questions you might have about theoretical parts of the
+course. The schedule for these office hours can be found as part of the daily
+schedule for the module. The office hours will always be together with the
+practical assistance hours in the main room L0.10.
+
+During the office hours, you can use the same "Assistance" feature to ask any
+further explanations on the theory of that module. Simply start your question
+description with "[00]" to indicate it is for staff. If these explanations are
+relevant relevant for a larger number of students, they might be covered on the
+board, but in general, questions will be answered individually or in smaller
+groups. The office hours can also be used for any other matters you might want
+to discuss with staff, such as personal matters or an alternate planning.
+
+### Email the staff
+
+If you have personal matters to discuss or other questions that do not fit any
+of the formats above, you can email the course staff at <ai@proglab.nl>
+
 
 ## Passing the course
 
 The programming and writing assignment will both be graded on a 1 to 10 scale.
 and at the end of the course an average for both these elements will be
-computed. The SOWISO exercises have automatic feedback, so they will only be
-graded on a *pass/fail* basis.
-
-Completing all the SOWISO chapters is required in order to receive a pass for
-this part. The minimum satisfactory average grade from the assignments is a
+computed. The minimum satisfactory average grade from the assignments is a
 4.5 and the minimum grade for the exam is also a 4.5. If all elements are
 completed satisfactorily, your final grade for the course is computed as:
 
@@ -289,18 +220,9 @@ Your grade for each writing assignment is determined as the sum of your points f
 | **Argumentation** | **0:** A concept from the reading material is misrepresented and/or some motivations could have gone more in depth. | **1.5:** The writing shows clear understanding of the reading material and the corresponding concepts. All answers are well motivated using these concepts. | **3:** In addition to showing a clear understanding and well-motivated answers, the writing contains other sources or examples from the author’s field of study, thereby providing relevant novel perspectives. |
 |-------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
 
-
 ### Attendance
 
-As a full-time student, we expect you to be present and working on campus every
-weekday from 9 to 5. The material of these course covers a lot of practical
-skills, which cannot just be learned from reading a book or watching a video.
-This means we expect you'll need to ask plenty questions while working on
-assignments, as you try and master these different skills. This is why we offer
-a lot practical assistance, so there is a chance for you to ask the questions
-you have about the scheduled material *every day*.
-
-In spite of this, we maintain a soft attendance requirement. This means that
+For elective students we maintain a soft attendance requirement. This means that
 there is no hard rule stating that if you miss a certain percentage of days,
 you will fail the course, i.e. attendance does not directly affect your final
 grade.
@@ -319,11 +241,10 @@ help or resources for the material, we'll always take your attendance into
 account when considering your request. Requests from students who miss attendance
 are generally much less likely to be granted.
 
-If you are done with all the material for the module before the day of the
-deadline, you should show your assignments to a TA by asking a question *during
-practical assistance*. The TA will check if they agree every element has been
-properly completed, and if so you'll be granted exemption from the attendance
-checks for the rest of the module.
+If you are done with all the material for the module before the day of the deadline,
+you should show your assignments to a TA *during practical assistance*. The TA
+will check if they agree every element has been properly completed, and if so
+ you'll be granted exemption from the attendance checks for the rest of the module.
 
 ### Exam
 
