@@ -66,7 +66,7 @@ look at possible solutions early.
 If you are a part-time student, you can just follow the *Introduction to
 Machine Learning* half of the daily schedule. You should still attend the group
 seminars with the other students, as scheduled [here](https://datanose.nl/#course[119434]),
-but can otherwise choose which of your daily practical assistance slots combine
+but can otherwise choose which of the daily practical assistance slots combine
 best with your own schedule.
 
 ### Absences and calling in sick
