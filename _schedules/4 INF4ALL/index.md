@@ -1,14 +1,14 @@
 # Introduction to Machine Learning 1
 
-University of Amsterdam / Programming Lab / 50821ITM6Y
+University of Amsterdam / Programming Lab
 
-## Syllabus<br><small>Fall 2023</small>
+## Syllabus<br><small>INF4ALL</small>
 
 This course serves as an introduction to the basics of machine learning and
 artificial intelligence. It consists of 6 modules, where each of these modules
-is expected to take about one week, and will focus on exploring one or more
-techniques from machine learning. In general, there will be 4 components to
-each module:
+is expected to take about 3 fulltime days of work, and will focus on exploring
+one or more techniques from machine learning. In general, there will be 4
+components to each module:
 
 * **Theory videos:** These will mostly introduce the required machine learning concepts for the topics that week.
 * **SOWISO:** An online platform we'll use to cover foundational mathematical concepts that are the driving force behind a lot of the algorithms we'll explore.
@@ -17,32 +17,43 @@ each module:
 
 ## Staff
 
-Wouter Vrielink (teacher)
-Melanie Messih (TA)
+- Wouter Vrielink (teacher)
+- Melanie Messih (TA)
 
 You can reach us at <ai@proglab.nl> or through Slack for any practical matters
 or other questions. Please pre-fix the subject of your email with "inf4all".
 
 ## Schedule
 
-### Deadlines and daily schedules
+| **datum**          	| **tijd**              	| **activiteit**                      	| **deadline** 	|
+|--------------------	|-----------------------	|-------------------------------------	|--------------	|
+| 02 februari        	| 10:00                 	| Introductie en installatie          	|              	|
+| 16 februari        	| 10:00                 	| Formules naar code + Turing's paper 	| Module 1     	|
+| 01 maart           	| 10:00                 	| k-NN + Style & Design + Code review 	| Module 2     	|
+| 15 maart           	| 10:00                 	| Naive Bayes + Chinese room          	| Module 3     	|
+| 29 maart           	| **GEEN LES**          	| Goede vrijdag                       	|              	|
+| 5 april            	| 10:00                 	| Regression + AlphaGo                	| Module 4     	|
+| 19 april           	| 10:00                 	| Multivariate/Polynomial Regression  	|              	|
+| 3 mei              	| **GEEN LES**          	| Onderwijsvrije week UvA             	| Module 5     	|
+| 24 mei             	| 10:00                 	| K-means + Distance Functions        	|              	|
+| 7 juni             	| 10:00                 	| Voorbespreking tentamen             	| Module 6     	|
+| 28 juni            	| 10:00                 	| Tentamen                            	|              	|
 
-<!-- TODO deadlines -->
-<!-- The deadlines for each module can be found on the module schedule pages
-(the first item in the sidebar for each module). -->
+### Deadlines
+
+Deadlines can be found in the table above.
 
 We've found that it can be difficult for students to plan when to work on what
 part of the material. Being unfamiliar with a subject makes it a
 lot harder to estimate how long something might take, and structuring your work
-can be more difficult. To help with all of this, which indicates how much time
-each element takes to complete.
+can be more difficult.
 
-If you're finding it hard to keep on track with the daily schedule, you can
-contact the staff through Slack. We can discuss possible approaches or even
-offer extra help or resources, if needed.
+If you're finding it hard to keep on track, you can contact the staff through
+Slack. We can discuss possible approaches or even offer extra help or resources,
+if needed.
 
 Work that is submitted late can not be graded. If you can not finish the entire
-module, always make sure to submit what you do have.
+module, **always make sure to submit what you do have.**
 
 > During the course it can happen that you are unable to finish a module in time.
 Most modules build up knowledge for the next one, so it very important to finish
