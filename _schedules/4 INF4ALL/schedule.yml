@@ -1,5 +1,55 @@
 Welcome:
     Read the syllabus to get started: /syllabus
+Python refresher:
+    Basic elements:
+        Basic elements of Python [theory]: /python/en/basics
+        Basic elements of Python [practice]: /python/en/basics/practice
+    Algorithms:
+        Learn about algorithms [theory]: /python/en/algorithms
+        Practice with algorithms [practice]: /python/en/algorithms/practice
+    Loops:
+        Learn about for-loops [theory]: /python/en/loops/for
+        Practice with for-loops [practice]: /python/en/loops/for/practice
+        Learn about while-loops [theory]: /python/en/loops/while
+        Practice with while-loops [practice]: /python/en/loops/while/practice
+        Some typical uses of loops [theory]: /python/en/loops/practical-uses
+        Practice more with loops [practice]: /python/en/loops/practical-uses/practice
+        For loop design [theory]: /python/en/loops/element-vs-index
+    Plotting graphs:
+        Learn about lists [theory]: /python/en/lists
+        Practice with lists [practice]: /python/en/lists/practice
+        For loop strategies [theory]: /python/en/loops/element-vs-index
+        Learn how to use modules [theory]: /python/en/modules
+        Learn about plotting in Python [theory]: /python/en/plotting
+    Functions:
+        Learn about functions in Python [theory]: /python/en/functions
+        Practice with functions on paper [practice]: /python/en/functions-book
+        Practice with functions in Python [practice]: /python/en/functions/practice
+        Learn about functions as arguments of other functions [theory]: /python/en/functions2
+        Learn about functions with multiple return values [theory]: /python/en/functions3
+    Function arguments:
+        Default arguments [theory]: /python/en/default-arguments
+        Keyword arguments [theory]: /python/en/keyword-arguments/kwargs
+    Random:
+        Learn more about random numbers [theory]: /python/en/random
+    Data structures and their efficiency:
+        Complexity [theory]: /python/en/efficiency
+        Dictionaries [theory]: /python/en/dictionaries/use
+        Dictionaries [practice]: /python/en/dictionaries/use/practice
+        Efficiency of dictionaries [theory]: /python/en/dictionaries/complexity
+        Efficiency of dictionaries [practice]: /python/en/dictionaries/complexity/practice
+        Practical uses of dictionaries [practice]: /python/en/dictionaries/more_practice
+        Tuples [theory]: /python/en/tuples
+        Sets [theory]: /python/en/sets
+        Sets [practice]: /python/en/sets/practice
+        List slicing and indexing [theory]: /python/en/slicing
+    How to write efficient code:
+        Applying big O in your code [theory]: /python/en/big-o
+        Improving count_occurrence [theory]: /python/en/big-o-example
+    Files:
+        Learn about file I/O [theory]: /python/en/file-io
+        Learn to analyse and process a data set [practice]: /python/en/files
+
 Module 1:
   Overview: /week1/overview
   Introduction to AI:
@@ -13,6 +63,7 @@ Module 1:
   Programming Notebook:
     Notebook introduction: /week1/notebooks
     Chatting with ELIZA [submit]: /week1/eliza
+
 Module 2:
   Overview: /week2/overview
   Written Assignment:
@@ -24,6 +75,7 @@ Module 2:
   Programming Notebook:
     Working on the notebooks: /week2/notebooks
     k-NN classification [submit]: /week2/k-nn-classification
+
 Module 3:
   Overview: /week3/overview
   SOWISO:
@@ -31,9 +83,11 @@ Module 3:
   Theory Videos:
     Bayes' Rule: /week3/bayes-rule
   Programming Notebook:
+    Learn about design [theory]: /python/en/design
     Naive Bayes [submit]: /week3/naive-bayes
   Written Assignment:
     Chinese Room [submit]: /week3/chinese-room
+
 Module 4:
   Overview: /week4/overview
   SOWISO:
