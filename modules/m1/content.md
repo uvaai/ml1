@@ -8,12 +8,12 @@ The deadline for both Python for Data Processing and Introduction to Machine Lea
 | Monday<br>05/02    | Installation +<br>Getting started | Elements of AI: Ch. 1 & 2            | Group seminar                                                      |
 | Tuesday<br>06/02   | Algorithms +<br>Loops         | Elements of AI: Ch. 3<br>+ SOWISO        |                                                                    |
 | Wednesday<br>07/02 | Pyramid                       | Theory videos<br>+ Written Assignment    |                                                                    |
-| Thursday<br>08/02  | Change                        | Notebook intro + ELIZA                   | Quiz/lecture                                                       |
+| Thursday<br>08/02  | Change                        | Notebook intro + ELIZA                   | Office hours                                                       |
 | Friday<br>09/02    | Plotting graphs               | Finish ELIZA                             |                                                                    |
 
 
 
-#### Quiz/lecture
+#### Office hours
 
-The quiz/lecture will be held in room **L0.11 at 14:00** on the scheduled day.
+The office hours will be held in room **L0.10 at 10:00** on the scheduled day. During office hours you can use the question queue to ask the staff any further explanations on the theory of that module, or discuss any personal matters.
 
