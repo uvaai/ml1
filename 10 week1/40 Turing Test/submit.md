@@ -29,12 +29,19 @@ information).
 ### Assignment
 
 Once you've read the article, choose one of the 9 objections listed in section
-6, whichever you think provides the most convincing argument. Turing gives a
-description and a counterargument for each of these objections. Write your own
-reply to Turing for the objection you chose, responding to his description
-and/or counterargument. Argue why you think this objection could in fact be a
-valid objection to using the Imitation Game as a test to determine if a machine
-can think.
+6, whichever you think provides the most convincing argument. For this written
+assignment, you'll need to argue whether or not you ended up agreeing with
+Turing's main question "Can machines think?", by either further countering or
+agreeing with your chosen objection.
+
+Turing gives a description and a counterargument for each of these objections.
+Write your own reply to Turing for the objection you chose, responding to his
+description and/or counterargument for that objection. If you disagree with
+Turing, then argue why you think this objection could in fact still be a valid
+objection to the question "Can machines think?" and reply to Turing's provided
+counterargument. If you agree with Turing, then explain why you think this most
+convincing argument still does not prevent machines from thinking and expand
+upon Turing's provided counterargument.
 
 Your assignment should be long enough to make a clear and cohesive argument for
 your point of view. In general, this tends to correspond with around 500 words.
@@ -55,5 +62,5 @@ the peer review feature on the *Elements of AI* website.
 ### Submission
 
 For the written portion this week, you should submit your answer to exercise 4
-from *Elements of AI* and your reply to Turing defending one of the objections
-he mentions.
+from *Elements of AI* and your reply to Turing on the objections he mentions
+to the question "Can machines think?".
