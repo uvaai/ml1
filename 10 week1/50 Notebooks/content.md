@@ -12,7 +12,7 @@ Download the introduction file below.
 ## Starting a Notebook server
 
 Open your terminal in the directory where you downloaded the file, make sure
-your `progLab` environment is active, and run the command
+your `minai` (or `ml1`) environment is active, and run the command
 
     jupyter nbclassic
 
