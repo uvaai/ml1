@@ -64,8 +64,6 @@ grades:
     writ_6:
         <<: *manual_float
         deadline: 20/03/24 18:00
-    late_day1: *automatic
-    late_day2: *automatic
     exam: *test
 
 calculation:
@@ -137,13 +135,6 @@ module_6:
     submits:
         prog_6: 1
         writ_6: 1
-
-late_days:
-    show_progress: true
-    show_overview: true
-    submits:
-        late_day1: 0
-        late_day2: 0
 
 exam:
     show_progress: true
