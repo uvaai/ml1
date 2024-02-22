@@ -7,69 +7,69 @@ on Coursera:
 
 ## Machine Learning Overview
 
-### Machine Learning Overview: What is Machine Learning
+### What is Machine Learning
 
 ![embed](https://www.youtube.com/embed/XtlwSmJfUs4)
 
-### Machine Learning Overview: Supervised Learning Part 1
+### Supervised Learning Part 1
 
 ![embed](https://www.youtube.com/embed/sca5rQ9x1cA)
 
-### Machine Learning Overview: Supervised Learning Part 2
+### Supervised Learning Part 2
 
 ![embed](https://www.youtube.com/embed/hh6gE0LxfO8)
 
 
 ## Linear Regression with One Variable
 
-### Linear Regression with One Variable: Linear Regression Model Part 1
+### Linear Regression Model Part 1
 
 ![embed](https://www.youtube.com/embed/dLc-lfEEYss)
 
-### Linear Regression with One Variable: Linear Regression Model Part 2
+### Linear Regression Model Part 2
 
 ![embed](https://www.youtube.com/embed/KWULpBYzIYk)
 
-### Linear Regression with One Variable: Cost Function
+### Cost Function
 
 ![embed](https://www.youtube.com/embed/CFN5zHzEuGY)
 
-### Linear Regression with One Variable: Cost Function Intuition
+### Cost Function Intuition
 
 ![embed](https://www.youtube.com/embed/peNRqkfukYY)
 
-### Linear Regression with One Variable: Visualizing the Cost Function
+### Visualizing the Cost Function
 
 ![embed](https://www.youtube.com/embed/bFNz2u0hl9E)
 
-### Linear Regression with One Variable: Visualization examples
+### Visualization examples
 
 ![embed](https://www.youtube.com/embed/L5INhX5cbWU)
 
 
 ## Training Linear Regression
 
-### Training Linear Regression: Gradient Descent
+### Gradient Descent
 
 ![embed](https://www.youtube.com/embed/WtlvKq_zxPI)
 
-### Training Linear Regression: Implementing Gradient Descent
+### Implementing Gradient Descent
 
 ![embed](https://www.youtube.com/embed/w_2vCijLiiM)
 
-### Training Linear Regression: Gradient Descent Intuition
+### Gradient Descent Intuition
 
 ![embed](https://www.youtube.com/embed/PKm61nrqpCA)
 
-### Training Linear Regression: Learning Rate
+### Learning Rate
 
 ![embed](https://www.youtube.com/embed/k0h8emRAAHE)
 
-### Training Linear Regression: Gradient Descent for Linear Regression
+### Gradient Descent for Linear Regression
 
 ![embed](https://www.youtube.com/embed/RGL_XUjPkGo)
 
-### Training Linear Regression: Running Gradient Descent
+### Running Gradient Descent
 
 ![embed](https://www.youtube.com/embed/tHDDbqYfflM)
 
