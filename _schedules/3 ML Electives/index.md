@@ -87,10 +87,11 @@ depend on the details of your circumstances.
 
 For this course you have a total of 2 late days, each of which you can use to
 get a single 24 hour extension for the module deadline. You can request a late
-day using the submit forms linked in the topbar of this course. You must always
-submit your request *before* the deadline expires. Any submissions received
-after the deadline without a requested late day will not be graded, meaning
-your grade will default to a 1.
+day using the submit forms linked in the sidebar of the main
+[minor AI website](https://minai.proglab.nl/). You must always submit your
+request *before* the deadline expires. Any submissions received after the
+deadline without a requested late day will not be graded, meaning your grade
+will default to a 1.
 
 You can use only 1 late day per module to get a 24 hour extension on the
 deadline.  If the deadline is on a Friday, using  a single late day will
@@ -111,15 +112,15 @@ and get assistance.
 
 ### Practical assistance
 
-There are 2.5 hours scheduled every day where you can ask practical questions to
-the TA's of the minor. During these hours you can use the "Assistance" feature
-on this website, using the question mark symbol on the right side of the
-topbar. Please use this feature instead of raising your hand in class, as it
-ensures that all questions get handled in the order that they are asked.
-Questions can of be about either the PDP or ML1 courses, just make sure to
-mention what assignment you're working on. For your location, please list the
-table you are working at, so the TA handling your question knows where to find
-you when it is your turn.
+There are 2.5 hours scheduled every day where you can ask practical questions
+to the TA's of the minor. During these hours you can use the "Assistance"
+feature on the main [minor AI website](https://minai.proglab.nl/), using the
+question mark symbol in the top right corner of that page. Please use this
+feature instead of raising your hand in class, as it ensures that all questions
+get handled in the order that they are asked.  Questions can of be about either
+the PDP or ML1 courses, just make sure to mention what assignment you're
+working on. For your location, please list the table you are working at, so the
+TA handling your question knows where to find you when it is your turn.
 
 The hours are scheduled as follows:
 
