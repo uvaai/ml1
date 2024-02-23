@@ -52,19 +52,19 @@ grades:
         <<: *manual
         deadline: 23/02/24 18:00
     writ_3:
-        <<: *manual_float
+        <<: *written
         deadline: 23/02/24 18:00
     prog_4:
         <<: *manual
         deadline: 04/03/24 18:00
     writ_4:
-        <<: *manual_float
+        <<: *written
         deadline: 04/03/24 18:00
     prog_5:
         <<: *manual
         deadline: 12/03/24 18:00
     writ_5:
-        <<: *manual_float
+        <<: *written
         deadline: 12/03/24 18:00
     prog_6:
         <<: *manual
