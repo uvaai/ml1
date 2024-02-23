@@ -26,6 +26,14 @@ templates:
         subgrades:
             points: float
         calculation: points
+    6: &written
+        type: float
+        subgrades:
+            instructions: float
+            structure_and_style: float
+            argumentation: float
+        calculation: "instructions + structure_and_style + argumentation"
+
 
 grades:
     prog_1:
@@ -62,7 +70,7 @@ grades:
         <<: *manual
         deadline: 20/03/24 18:00
     writ_6:
-        <<: *manual_float
+        <<: *written
         deadline: 20/03/24 18:00
     exam: *test
 
