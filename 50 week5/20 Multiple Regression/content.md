@@ -30,7 +30,7 @@ Learning course on Coursera:
 
 ![embed](https://www.youtube.com/embed/gmJqLGrUscg)
 
-## Checking Gradient Descent for Convergence
+### Checking Gradient Descent for Convergence
 
 ![embed](https://www.youtube.com/embed/5g4H5_gsTpU)
 
