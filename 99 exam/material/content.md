@@ -23,7 +23,7 @@ optimize the cost function of some model.
     * Naive Bayes
 * Supervised Learning - Regression
     * Univariate Linear
-    * Multiple Variable Linear
+    * Multiple Linear
     * Univariate Polynomial
 * Unsupervised Learning - Clustering
     * k-Means
