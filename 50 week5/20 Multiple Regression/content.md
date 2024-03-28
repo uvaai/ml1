@@ -50,9 +50,9 @@ Learning course on Coursera:
 
 This last video will come back later in the course, but covers
 a topic that will already be very relevant to the assignment
-this week, namely *overfitting*. You can skip the last part
-about classification, as we have not covered logistic
-regression yet.
+this week, namely *overfitting*. You can skip the last 3
+minutes of the video (the part about classification), as we
+have not covered logistic regression yet.
 
 ![embed](https://www.youtube.com/embed/NIiZZY7nlfU)
 
