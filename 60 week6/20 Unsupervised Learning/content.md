@@ -3,13 +3,17 @@
 This week we'll continue with more videos from Andrew Ng's Machine
 Learning course on Coursera:
 
-### What is machine learning? (00:00 - 14:07)
+### What is Machine Learning?
 
-![embed](https://www.youtube.com/embed/6QRpDLj8huE?end=847)
+![embed](https://youtube.com/embed/XtlwSmJfUs4)
 
-### Unsupervised Learning (26:38 - 40:50)
+### Unsupervised Learning Part 1
 
-![embed](https://youtube.com/embed/6QRpDLj8huE?start=1598)
+![embed](https://youtube.com/embed/gG_wI_uGfIE)
+
+### Unsupervised Learning Part 2
+
+![embed](https://youtube.com/embed/_0bhZBqtCCs)
 
 ### Clustering
 
