@@ -1,4 +1,4 @@
-# Introduction to Machine Learning 1
+# Inleiding Machine Learning 1
 
 University of Amsterdam / Programming Lab / 50821ITM6Y
 
