@@ -2,18 +2,21 @@
 
 University of Amsterdam / Programming Lab / 50821ITM6Y
 
-## Syllabus<br><small>ML Electives</small>
+## Syllabus<br><small>Fall 2024</small>
 
 This course serves as an introduction to the basics of machine learning and
 artificial intelligence. It consists of 6 modules, where each of these modules
 is expected to take about one week, and will focus on exploring one or more
-techniques from machine learning. In general, there will be 4 components to
+techniques from machine learning. In general, there will be 3 components to
 each module:
 
 * **Theory videos:** These will mostly introduce the required machine learning concepts for the topics that week.
-* **SOWISO:** An online platform we'll use to cover foundational mathematical concepts that are the driving force behind a lot of the algorithms we'll explore. These modules are optional if you already have prior experience with the mathematics covered that week.
 * **Programming Notebook:** Here you will implement some of the machine learning algorithms yourself in *Python*.
 * **Written Assignment:** Here you'll read articles or blog posts related to the philosophical and societal implication of ML, and answer questions about them.
+
+In addition, there will be optional foundational material for each module, which you can of course skip, if you're already familiar with the concepts:
+
+* **SOWISO:** An online platform we'll use to introduct foundational mathematical concepts that are the driving force behind a lot of the algorithms we'll explore.
 
 Log in with your UvAnetID and create an account to get access to the modules.
 
@@ -27,36 +30,18 @@ You can reach us at <ai@proglab.nl> for any practical matters or other
 questions.
 
 
-## Schedule
+## Deadlines
 
-We have one room on the Science Park campus permanently reserved for minor AI
-students, namely **L0.10**, which provides enough space for all of you to work
-on campus. Most on-campus activities, including the practical assistance, will
-generally be The schedule for the practical assistance hours that will be held
-in L0.10 can be found in the "Asking Questions" section below.
+The deadlines for each of the 6 modules is listed below. Note that first 3
+modules are a bit smaller, so should take one week, while the last 3 modules
+each take 8 days:
 
-### Deadlines and daily schedules
-
-The deadlines for each module can be found on the module schedule pages
-(the first item in the sidebar for each module).
-
-We've found that it can be difficult for students to plan when to work on what
-part of the material, especially with two completely new courses (for fulltime
-minor AI students), that together require a fulltime time investment. Being
-unfamiliar with a subject makes it a lot harder to estimate how long something
-might take, and structuring your work can be more difficult. To help with all
-of this, we've made a day-to-day schedule for each module, which indicates what
-elements should be completed each day.
-
-As an ML elective student, you'll only need to follow the *Introduction to
-Machine Learning* half of the daily schedule, and can choose which of the daily
-practical assistance slots combine best with your own schedule.
-
-If you're finding it hard to keep on track with the daily schedule, you can
-contact the staff at <ai@proglab.nl>. We can discuss possible approaches or
-even offer extra help or resources, if needed. In general, it is a good idea to
-already contact us if are more than 1 day behind on the schedule, so we can
-look at possible solutions early.
+* **Module 1:** *Friday September 6th at 17:59*
+* **Module 2:** *Friday September 13th at 17:59*
+* **Module 3:** *Friday September 20th at 17:59*
+* **Module 4:** *Monday September 30th at 17:59*
+* **Module 5:** *Tuesday October 8thth at 17:59*
+* **Module 6:** *Wednesday October 16th at 17:59*
 
 ### Absences and calling in sick
 
@@ -85,16 +70,17 @@ schedule a meeting and still have room in the module for an alternative planning
 Note that a meeting does not always guarantee an extension, as this might still
 depend on the details of your circumstances.
 
-For this course you have a total of 2 late days, each of which you can use to
-get a single 24 hour extension for the module deadline. You can request a late
-day using the submit forms linked in the sidebar of the main
+In addition, you have a total of 2 late days, each of which you can use to get
+a single 24 hour extension for the module deadline. You can request a late day
+using the submit forms linked in the sidebar of the main
 [minor AI website](https://minai.proglab.nl/). You must always submit your
 request *before* the deadline expires. Any submissions received after the
 deadline without a requested late day will not be graded, meaning your grade
 will default to a 1.
 
 You can use only 1 late day per module to get a 24 hour extension on the
-deadline.  If the deadline is on a Friday, using  a single late day will
+deadline.  This extension is for the whole module, so applies to all submits
+for the course. If the deadline is on a Friday, using a single late day will
 instead grant a 48 hour extension over the weekend, meaning your deadline will
 move to Sunday. If you have used both late days, or require more than 24 hours
 of extension, you may still try and request a staff extension.
@@ -117,51 +103,24 @@ to the TA's of the minor. During these hours you can use the "Assistance"
 feature on the main [minor AI website](https://minai.proglab.nl/), using the
 question mark symbol in the top right corner of that page. Please use this
 feature instead of raising your hand in class, as it ensures that all questions
-get handled in the order that they are asked.  Questions can of be about either
+get handled in the order that they are asked. Questions can of be about either
 the PDP or ML1 courses, just make sure to mention what assignment you're
 working on. For your location, please list the table you are working at, so the
 TA handling your question knows where to find you when it is your turn.
 
 The hours are scheduled as follows:
 
-* Monday: 13:30 to 16:00.
-* Tuesday - Friday: 10:00 to 12:30
-
-### Office hours
-
-Students in the minor AI, as with any minor, tend to come from very diverse
-backgrounds, which makes a traditional centralized lecture aimed at all
-students difficult. So, instead the course content is mainly presented using
-theory videos and reading material, while the staff is also frequently
-available for questions.
-
-Every module there will be at least one planned set of office hours, where you
-can ask the staff any questions you might have about theoretical parts of the
-course. The schedule for these office hours can be found as part of the daily
-schedule for the module. The office hours will always be together with the
-practical assistance hours in the main room L0.10.
-
-During the office hours, you can use the same "Assistance" feature to ask any
-further explanations on the theory of that module. Simply start your question
-description with "[00]" to indicate it is for staff. If these explanations are
-relevant relevant for a larger number of students, they might be covered on the
-board, but in general, questions will be answered individually or in smaller
-groups. The office hours can also be used for any other matters you might want
-to discuss with staff, such as personal matters or an alternate planning.
-
-### Email the staff
-
-If you have personal matters to discuss or other questions that do not fit any
-of the formats above, you can email the course staff at <ai@proglab.nl>
-
+* In general, assistance hours are from 10:00 to 12:30
+* On Mondays there are group seminars in the morning, so the assistance hours are from 13:30 to 16:00 instead.
 
 ## Passing the course
 
 The programming and writing assignment will both be graded on a 1 to 10 scale.
 and at the end of the course an average for both these elements will be
-computed. The minimum satisfactory average grade from the assignments is a
-4.5 and the minimum grade for the exam is also a 4.5. If all elements are
-completed satisfactorily, your final grade for the course is computed as:
+computed. The minimum satisfactory average grade from the
+assignments is a 4.5 and the minimum grade for the exam is also a 4.5. If all
+elements are completed satisfactorily, your final grade for the course is
+computed as:
 
     40% programming average + 20% written average + 40% exam grade
 
@@ -212,40 +171,14 @@ you can of course use and cite them.
 
 Your grade for each writing assignment is determined as the sum of your points for each of the three aspects listed in the rubric below.
 
-|                   | *Unsatisfactory*                                                     | *Satisfactory*                                                       | *Good/Exceptional*                                                   |
-|-------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
-| **Instructions**  | **1:** Significant parts of the assignment are missing and/or the writing contains too few words. | **3:** The student has almost completed the assignment, but minor aspects of the assignment are missing, like incomplete answers, or a missing question. | **5:** The writing contains a sufficient number of words, refers back to the concepts covered the reading material, and contains answers to all of the questions from the assignment. |
-|-------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
-| **Structure<br>& style** | **0:** The writing contains (almost) no structure, and/or the style is (at some points) unclear, thereby making the answers more difficult to understand. | **1:** Overall the answers are well structured and the style is clear, making the answers in general easy to understand. | **2:** The answers are very well structured and the style is very clear and accessible, beyond what is expected for the course. |
-|-------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
-| **Argumentation** | **0:** A concept from the reading material is misrepresented and/or some motivations could have gone more in depth. | **1.5:** The writing shows clear understanding of the reading material and the corresponding concepts. All answers are well motivated using these concepts. | **3:** In addition to showing a clear understanding and well-motivated answers, the writing contains other sources or examples from the author’s field of study, thereby providing relevant novel perspectives. |
-|-------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
-
-### Attendance
-
-For elective students we maintain a soft attendance requirement. This means that
-there is no hard rule stating that if you miss a certain percentage of days,
-you will fail the course, i.e. attendance does not directly affect your final
-grade.
-
-However, indirectly attendance definitely will affect your grade. The material
-requires you to work regularly on the assignments and ask questions along the
-way so you don't get stuck. This means if you are not on campus, you are much
-more likely to get stuck longer and thus end up with too little time before the
-deadline.
-
-In addition, we will still take attendance samples regularly in the room. This
-does not affect whether you pass or fail the course, but is used as metric to
-give us an indication of the effort you are putting into following the courses
-as intended. If you request an extension or exception, or ask for extra
-help or resources for the material, we'll always take your attendance into
-account when considering your request. Requests from students who miss attendance
-are generally much less likely to be granted.
-
-If you are done with all the material for the module before the day of the deadline,
-you should show your assignments to a TA *during practical assistance*. The TA
-will check if they agree every element has been properly completed, and if so
- you'll be granted exemption from the attendance checks for the rest of the module.
+|                   | *Unsatisfactory*               | *Satisfactory*                  | *Good*                          | *Exceptional*                      |
+|-------------------|--------------------------------|---------------------------------|---------------------------------|------------------------------------|
+| **Instructions**  | **1:** Significant parts of the assignment are missing and/or the writing contains too few words. | **3:** The student has almost completed the assignment, but minor aspects of the assignment are missing, like incomplete answers, or a missing question. | **5:** The writing contains a sufficient number of words, refers back to the concepts covered the reading material, and contains answers to all of the questions from the assignment. | - |
+|-------------------|--------------------------------|---------------------------------|---------------------------------|------------------------------------|
+| **Structure<br>& style** | **0:** The writing contains (almost) no structure, and/or the style is (at some points) unclear, thereby making the answers more difficult to understand. | **1:** Overall the answers are well structured and the style is clear, making the answers in general easy to understand. | - | **2:** The answers are very well structured and the style is very clear and accessible, beyond what is expected for the course. |
+|-------------------|--------------------------------|---------------------------------|---------------------------------|------------------------------------|
+| **Argumentation** | **0:** A concept from the reading material is misrepresented and/or some motivations are missing. | **1:** The writing shows a general understanding of the reading material and the corresponding concepts. All answers are motivated, but one or two motivations might be incomplete or inconsistent. | **2:** The writing shows clear understanding of the reading material and the corresponding concepts. All answers are well motivated using these concepts. | **3:** In addition to showing a clear understanding and well-motivated answers, the writing contains other sources or examples from the author’s field of study, thereby providing relevant novel perspectives. |
+|-------------------|--------------------------------|---------------------------------|---------------------------------|------------------------------------|
 
 ### Exam
 
@@ -276,7 +209,7 @@ so instead of learning and considering all the possibilities, you just end up
 trying to recreate the solution you already saw. As there usually quite a few
 different ways to solve programming problems, this can even end up with code
 that is similar enough in structure that it is caught by our automated
-plagiarism detector.
+plagiarism detection.
 
 ### Helping other students
 

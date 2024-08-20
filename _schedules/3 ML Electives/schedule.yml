@@ -1,11 +1,9 @@
 Welcome:
     Read the syllabus to get started: /syllabus
-Module 1 [5/2/24]:
-  Schedule: /modules/m1
-  Overview: /week1/overview
+Module 1 [2/9/24]:
   Introduction to AI:
     Elements of AI: /week1/elements-of-ai
-  SOWISO:
+  SOWISO [Optional]:
     Theoretical Probability: /week1/theoretical-probability
   Theory Videos:
     Experimental Probability: /week1/experimental-probability
@@ -14,22 +12,18 @@ Module 1 [5/2/24]:
   Programming Notebook:
     Notebook introduction: /week1/notebooks
     Chatting with ELIZA [submit]: /week1/eliza
-Module 2 [12/2/24]:
-  Schedule: /modules/m2
-  Overview: /week2/overview
+Module 2 [9/9/24]:
   Written Assignment:
     Elements of AI [submit]: /week2/elements-of-ai
-  SOWISO:
+  SOWISO [Optional]:
     Types of Data: /week2/types-of-data
   Theory Videos:
     Nearest Neighbours: /week2/nearest-neighbours
   Programming Notebook:
     Working on the notebooks: /week2/notebooks
     k-NN classification [submit]: /week2/k-nn-classification
-Module 3 [19/2/24]:
-  Schedule: /modules/m3
-  Overview: /week3/overview
-  SOWISO:
+Module 3 [16/9/24]:
+  SOWISO [Optional]:
     Probability Distributions: /week3/probability-distributions
   Theory Videos:
     Bayes' Rule: /week3/bayes-rule
@@ -37,10 +31,8 @@ Module 3 [19/2/24]:
     Naive Bayes [submit]: /week3/naive-bayes
   Written Assignment:
     Chinese Room [submit]: /week3/chinese-room
-Module 4 [26/2/24]:
-  Schedule: /modules/m4
-  Overview: /week4/overview
-  SOWISO:
+Module 4 [23/9/24]:
+  SOWISO [Optional]:
     Gradients: /week4/gradients
   Theory Videos:
     Linear Regression: /week4/linear-regression
@@ -48,28 +40,24 @@ Module 4 [26/2/24]:
     Gradient Descent [submit]: /week4/gradient-descent
   Written Assignment:
     AlphaGo [submit]: /week4/alphago
-Module 5 [5/3/24]:
-  Schedule: /modules/m5
-  Overview: /week5/overview
-  SOWISO:
+Module 5 [1/10/24]:
+  SOWISO [Optional]:
     Linear Algebra: /week5/linear-algebra
   Theory Videos:
-    Multiple Regression: /week5/multiple-regression
+    Multivariate Regression: /week5/multivariate-regression
   Programming Notebook:
     Polynomial Regression [submit]: /week5/polynomial-regression
   Written Assignment:
     Algorithmic Bias [submit]: /week5/algorithmic-bias
-Module 6 [13/3/24]:
-  Schedule: /modules/m6
-  Overview: /week6/overview
+Module 6 [9/10/24]:
   Theory Videos:
     Unsupervised Learning: /week6/unsupervised-learning
   Programming Notebook:
     K-means [submit]: /week6/k-means
-  SOWISO:
+  SOWISO [Optional]:
     Exponentials and Logarithms: /week6/exponentials-and-logarithms
   Written Assignment:
     Filter bubbles [submit]: /week6/filter-bubbles
-Exam [18/3/24]:
+Exam [14/10/24]:
   Exam material: /exam/material
   Practice exam: /exam/practice
