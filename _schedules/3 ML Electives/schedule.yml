@@ -1,6 +1,7 @@
 Welcome:
     Read the syllabus to get started: /syllabus
 Module 1 [2/9/24]:
+  Assistance hours: /modules/m1/elective
   Introduction to AI:
     Elements of AI: /week1/elements-of-ai
   SOWISO:
@@ -13,6 +14,7 @@ Module 1 [2/9/24]:
     Notebook introduction: /week1/notebooks
     Chatting with ELIZA [submit]: /week1/eliza
 Module 2 [9/9/24]:
+  Assistance hours: /modules/m2/elective
   Written Assignment:
     Elements of AI [submit]: /week2/elements-of-ai
   SOWISO:
@@ -22,6 +24,7 @@ Module 2 [9/9/24]:
   Programming Notebook:
     k-NN classification [submit]: /week2/k-nn-classification
 Module 3 [16/9/24]:
+  Assistance hours: /modules/m3/elective
   SOWISO:
     Probability Distributions [optional]: /week3/probability-distributions
   Theory Videos:
@@ -31,6 +34,7 @@ Module 3 [16/9/24]:
   Written Assignment:
     Chinese Room [submit]: /week3/chinese-room
 Module 4 [23/9/24]:
+  Assistance hours: /modules/m4/elective
   SOWISO:
     Gradients [optional]: /week4/gradients
   Theory Videos:
@@ -40,6 +44,7 @@ Module 4 [23/9/24]:
   Written Assignment:
     AlphaGo [submit]: /week4/alphago
 Module 5 [1/10/24]:
+  Assistance hours: /modules/m5/elective
   SOWISO:
     Linear Algebra [optional]: /week5/linear-algebra
   Theory Videos:
@@ -49,6 +54,7 @@ Module 5 [1/10/24]:
   Written Assignment:
     Algorithmic Bias [submit]: /week5/algorithmic-bias
 Module 6 [9/10/24]:
+  Assistance hours: /modules/m6/elective
   Theory Videos:
     Unsupervised Learning: /week6/unsupervised-learning
   Programming Notebook:

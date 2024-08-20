@@ -40,7 +40,7 @@ each take 8 days:
 * **Module 2:** *Friday September 13th at 17:59*
 * **Module 3:** *Friday September 20th at 17:59*
 * **Module 4:** *Monday September 30th at 17:59*
-* **Module 5:** *Tuesday October 8thth at 17:59*
+* **Module 5:** *Tuesday October 8th at 17:59*
 * **Module 6:** *Wednesday October 16th at 17:59*
 
 ### Absences and calling in sick
@@ -96,7 +96,7 @@ graded. Staff extension requests should be emailed to <ai@proglab.nl>
 If you have any questions about the material, there are several ways to ask them
 and get assistance.
 
-### Practical assistance
+## Practical assistance
 
 There are 2.5 hours scheduled every day where you can ask practical questions
 to the TA's of the minor. During these hours you can use the "Assistance"
