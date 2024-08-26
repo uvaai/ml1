@@ -93,9 +93,9 @@ graded. Staff extension requests should be emailed to <ai@proglab.nl>
 
 ## Practical assistance
 
-There are 4 slots of 2.5 hours each, scheduled every week, where you can ask
-practical questions to the TA's of the minor. During these hours you can use
-the "Assistance" feature on the main [minor AI website](https://minai.proglab.nl/),
+There are 4 slots of 2.5 hours scheduled every week for practical assistance,
+where you can ask any questions to the TA's of the minor. During these hours
+you can use the "Assistance" feature on the main [minor AI website](https://minai.proglab.nl/),
 using the question mark symbol in the top right corner of that page. Please use
 this feature instead of raising your hand in class, as it ensures that all
 questions get handled in the order that they are asked. Questions can of be
