@@ -91,27 +91,40 @@ If you do not receive a reply in time, you should *always* still submit your
 current version of the assignment before the deadline, so this part can still be
 graded. Staff extension requests should be emailed to <ai@proglab.nl>
 
-## Asking questions
-
-If you have any questions about the material, there are several ways to ask them
-and get assistance.
-
 ## Practical assistance
 
-There are 2.5 hours scheduled every day where you can ask practical questions
-to the TA's of the minor. During these hours you can use the "Assistance"
-feature on the main [minor AI website](https://minai.proglab.nl/), using the
-question mark symbol in the top right corner of that page. Please use this
-feature instead of raising your hand in class, as it ensures that all questions
-get handled in the order that they are asked. Questions can of be about either
-the PDP or ML1 courses, just make sure to mention what assignment you're
-working on. For your location, please list the table you are working at, so the
-TA handling your question knows where to find you when it is your turn.
+There are 4 slots of 2.5 hours each, scheduled every week, where you can ask
+practical questions to the TA's of the minor. During these hours you can use
+the "Assistance" feature on the main [minor AI website](https://minai.proglab.nl/),
+using the question mark symbol in the top right corner of that page. Please use
+this feature instead of raising your hand in class, as it ensures that all
+questions get handled in the order that they are asked. Questions can of be
+about any part of the course, just make sure to mention what assignment
+you're working on. For your location, please list the table you are working at,
+so the TA handling your question knows where to find you when it is your turn.
 
-The hours are scheduled as follows:
+### Scheduling practical assistance
 
-* In general, assistance hours are from 10:00 to 12:30
-* On Mondays there are group seminars in the morning, so the assistance hours are from 13:30 to 16:00 instead.
+All practical assistance will be in the main room of the minor AI, **L0.11** in
+the Lab42 building of Science Park, and will be scheduled as follows:
+
+* On Mondays from 13:30 to 16:00
+* On Tuesdays, Wednesdays, and Thursdays from 10:00 to 12:30
+
+Each module will have a form were you can select up to 2 days where you plan to
+attend the practical assistance for that module. Note that if you did not select
+a day, there might not be space in the room for you to ask questions, so make sure
+to fill in the form at the start of each module.
+
+### TA Slack
+
+There will also be a Slack you can use to contact your own TA, the link for which
+will be shared once the course starts. This Slack can be used to ask clarification
+on some of the feedback you got for your assignments, or to call in sick as
+described in the section on absences above. Note that this Slack is only intended
+for quick clarifying questions, and *not* for help with the assignments. Help
+with the assignments, or longer explanations on how to write better code, are
+only given in person as part of the practical assistance.
 
 ## Passing the course
 
