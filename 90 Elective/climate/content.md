@@ -6,7 +6,7 @@ However, in recent years some rough estimate have been made for larger models. F
 
 As a result, according to Dhar (2020) the role of AI in the climate crisis seems destined to be a ‘dual’ one: “On the one hand, it can help reduce the effects of the climate crisis, such as in smart grid design, developing low-emission infrastructure, and modelling climate change predictions. On the other hand, AI is itself a significant emitter of carbon”. Given the impact of even training a single large model, this assignment focuses on possible regulations to mitigate the climate cost of AI-models, including options of weighing these costs against their proposed benefits.
 
-Read the following paper by Philip Hacker on “Sustainable AI regulation”, where he puts forward several suggestions on how to deal, at a regulatory level, with the dual role of AI in combatting climate change: [https://arxiv.org/abs/2306.00292](https://arxiv.org/abs/2306.00292)
+Read the following paper by Philip Hacker on *“Sustainable AI regulation”*, where he puts forward several suggestions on how to deal, at a regulatory level, with the dual role of AI in combatting climate change: [https://arxiv.org/abs/2306.00292](https://arxiv.org/abs/2306.00292)
 
 This paper contains the following proposals for regulation:
 
@@ -24,10 +24,10 @@ Integrate your answer into a coherent text, containing around 500 words. The min
 
 ### Literature:
 
-*Patterson, David et al., 2021, ‘Carbon Emissions and Large Neural Network Training’, arXiv preprint arXiv:2104.10350
+*Patterson, David et al., 2021, ‘Carbon Emissions and Large Neural Network Training’, arXiv preprint arXiv:2104.10350*
 
-Lacoste, Alexandre, et al., 2019, ‘Quantifying the carbon emissions of machine learning.’ arXiv preprint arXiv:1910.09700.
+*Lacoste, Alexandre, et al., 2019, ‘Quantifying the carbon emissions of machine learning.’ arXiv preprint arXiv:1910.09700.*
 
-Dhar, P., 2020, ‘The carbon impact of artificial intelligence.’, Nature Machine Intelligence, 2: 434-425.
+*Dhar, P., 2020, ‘The carbon impact of artificial intelligence.’, Nature Machine Intelligence, 2: 434-425.*
 
-Hacker, P., 2023, ‘Sustainable AI Regulation’, arXiv preprint arXiv:2306.00292.*
+*Hacker, P., 2023, ‘Sustainable AI Regulation’, arXiv preprint arXiv:2306.00292.*

@@ -12,6 +12,6 @@ Integrate your answers into a coherent text, containing around 500 words. The mi
 
 #### Literature
 
-*Halperin, S. (2014), ‘Neocolonialism’, Encyclopedia Britannica. Accessed 23 October 2023: https://www.britannica.com/topic/neocolonialism
+*Halperin, S. (2014), ‘Neocolonialism’, Encyclopedia Britannica. Accessed 23 October 2023: https://www.britannica.com/topic/neocolonialism*
 
-Perrigo, B. (2023), ‘Exclusive: OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic’, TIME Magazine, 18 January 2023.*
+*Perrigo, B. (2023), ‘Exclusive: OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic’, TIME Magazine, 18 January 2023.*
