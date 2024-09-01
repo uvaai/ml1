@@ -32,14 +32,14 @@ questions.
 
 ## Deadlines
 
-The deadlines for each of the 6 modules is listed below. Note that first 3
-modules are a bit smaller, so should take one week, while the last 3 modules
+The deadlines for each of the 6 modules is listed below. Note that 3 of the
+modules are a bit smaller, so should take one week, while the other 3 modules
 each take 8 days:
 
 * **Module 1:** *Friday September 6th at 17:59*
 * **Module 2:** *Friday September 13th at 17:59*
-* **Module 3:** *Friday September 20th at 17:59*
-* **Module 4:** *Monday September 30th at 17:59*
+* **Module 3:** *Monday September 23th at 17:59*
+* **Module 4:** *Tuesday October 1st at 17:59*
 * **Module 5:** *Tuesday October 8th at 17:59*
 * **Module 6:** *Wednesday October 16th at 17:59*
 
