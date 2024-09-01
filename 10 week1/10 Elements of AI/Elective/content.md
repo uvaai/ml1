@@ -9,10 +9,9 @@ how AI might affect your life, and how it will develop in the coming years.
 ### Getting Started
 
 Register as a student on [the Elements of AI
-website](https://course.elementsofai.com/). Read the first three chapters and
-complete all of the corresponding exercises.
+website](https://course.elementsofai.com/) and read the following three chapters:
 
-1. What is AI?
-4. Machine Learning
-6. Implications
+* 1. What is AI?
+* 4. Machine Learning
+* 6. Implications
 
