@@ -2,6 +2,7 @@ Welcome:
     Read the syllabus to get started: /syllabus
 Module 1 [2/9/24]:
   Assistance hours: /modules/m1/elective
+  Background survey: /elective/background
   Introduction to AI:
     Elements of AI: /week1/elements-of-ai/elective
   SOWISO:
@@ -45,7 +46,7 @@ Module 4 [24/9/24]:
     Algorithmic Bias [submit]: /week5/algorithmic-bias
 Module 5 [2/10/24]:
   Assistance hours: /modules/m5/elective
-  Content of this module: /elective/m5-overview
+  Content of this module: /elective/module5
   Programming Notebooks:
     Numpy [submit]: /numpy/numpy
     Pandas [submit]: /numpy/pandas
