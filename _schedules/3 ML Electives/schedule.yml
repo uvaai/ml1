@@ -3,28 +3,18 @@ Welcome:
 Module 1 [2/9/24]:
   Assistance hours: /modules/m1/elective
   Introduction to AI:
-    Elements of AI: /week1/elements-of-ai
-  SOWISO:
-    Theoretical Probability [optional]: /week1/theoretical-probability
-  Theory Videos:
-    Experimental Probability: /week1/experimental-probability
-  Written Assignment:
-    Turing's paper [submit]: /week1/turing-test
-  Programming Notebook:
-    Notebook introduction: /week1/notebooks
-    Chatting with ELIZA [submit]: /week1/eliza
-Module 2 [9/9/24]:
-  Assistance hours: /modules/m2/elective
-  Written Assignment:
-    Elements of AI [submit]: /week2/elements-of-ai
+    Elements of AI: /week1/elements-of-ai/elective
   SOWISO:
     Types of Data [optional]: /week2/types-of-data
   Theory Videos:
     Nearest Neighbours: /week2/nearest-neighbours
   Programming Notebook:
+    Notebook introduction: /week1/notebooks
     k-NN classification [submit]: /week2/k-nn-classification
-Module 3 [16/9/24]:
-  Assistance hours: /modules/m3/elective
+  Written Assignment:
+    Turing's paper [submit]: /week1/turing-test
+Module 2 [9/9/24]:
+  Assistance hours: /modules/m2/elective
   SOWISO:
     Probability Distributions [optional]: /week3/probability-distributions
   Theory Videos:
@@ -33,8 +23,8 @@ Module 3 [16/9/24]:
     Naive Bayes [submit]: /week3/naive-bayes
   Written Assignment:
     Chinese Room [submit]: /week3/chinese-room
-Module 4 [23/9/24]:
-  Assistance hours: /modules/m4/elective
+Module 3 [16/9/24]:
+  Assistance hours: /modules/m3/elective
   SOWISO:
     Gradients [optional]: /week4/gradients
   Theory Videos:
@@ -43,8 +33,8 @@ Module 4 [23/9/24]:
     Gradient Descent [submit]: /week4/gradient-descent
   Written Assignment:
     AlphaGo [submit]: /week4/alphago
-Module 5 [1/10/24]:
-  Assistance hours: /modules/m5/elective
+Module 4 [24/9/24]:
+  Assistance hours: /modules/m4/elective
   SOWISO:
     Linear Algebra [optional]: /week5/linear-algebra
   Theory Videos:
@@ -53,16 +43,22 @@ Module 5 [1/10/24]:
     Polynomial Regression [submit]: /week5/polynomial-regression
   Written Assignment:
     Algorithmic Bias [submit]: /week5/algorithmic-bias
+Module 5 [2/10/24]:
+  Assistance hours: /modules/m5/elective
+  Overview: /elective/m5-overview
+  Programming Notebooks:
+    Numpy [submit]: /numpy/numpy
+    Pandas [submit]: /numpy/pandas
+  Written Assignment:
+    Climate impact: /elective/climate
 Module 6 [9/10/24]:
   Assistance hours: /modules/m6/elective
   Theory Videos:
     Unsupervised Learning: /week6/unsupervised-learning
   Programming Notebook:
     K-means [submit]: /week6/k-means
-  SOWISO:
-    Exponentials and Logarithms [optional]: /week6/exponentials-and-logarithms
   Written Assignment:
-    Filter bubbles [submit]: /week6/filter-bubbles
+    Data labeling [submit]: /elective/labeling
 Exam [14/10/24]:
   Exam material: /exam/material
   Practice exam: /exam/practice
