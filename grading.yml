@@ -42,10 +42,8 @@ grades:
         <<: *written
     prog_2:
         <<: *manual
-        deadline: 16/02/24 18:00
     writ_2:
         <<: *written
-        deadline: 16/02/24 18:00
     prog_3:
         <<: *manual
         deadline: 23/02/24 18:00
