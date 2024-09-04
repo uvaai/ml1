@@ -1,3 +1,40 @@
+templates:
+    1: &automatic
+        type: pass
+        subgrades:
+            done: boolean
+        automatic:
+            done: -1
+        calculation: done
+        auto_publish: true
+        hide_calculated: true
+        hide_subgrades: true
+    3: &manual
+        type: float
+        subgrades:
+            points: integer
+        calculation: points
+    4: &test
+        type: float
+        subgrades:
+            points: integer
+        calculation: points
+        is_test: true
+        hide_subgrades: true
+    5: &manual_float
+        type: float
+        subgrades:
+            points: float
+        calculation: points
+    6: &written
+        type: float
+        subgrades:
+            instructions: float
+            structure_and_style: float
+            argumentation: float
+        calculation: "instructions + structure_and_style + argumentation"
+
+
 grades:
     prog_1:
         <<: *manual
