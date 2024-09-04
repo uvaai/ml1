@@ -1,0 +1,5 @@
+name: prog_5_elec
+files:
+    required:
+        - numpy.ipynb
+        - pandas.ipynb

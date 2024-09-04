@@ -1,0 +1,4 @@
+name: writ_5_elec
+files:
+    required:
+        - climate.txt
