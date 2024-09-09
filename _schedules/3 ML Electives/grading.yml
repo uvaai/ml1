@@ -39,7 +39,7 @@ grades:
     prog_2:
         <<: *manual
         deadline: 06/09/24 18:00
-    writ_1:
+    writ_1_elec:
         <<: *written
         deadline: 06/09/24 18:00
     prog_3:
@@ -89,7 +89,7 @@ writing:
     show_progress: false
     show_overview: false
     submits:
-        writ_1: 1
+        writ_1_elec: 1
         writ_3: 1
         writ_4: 1
         writ_5: 1
@@ -137,4 +137,3 @@ module_6:
     submits:
         prog_6: 1
         writ_6_elec: 1
-
