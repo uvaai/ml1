@@ -9,7 +9,7 @@ The programming notebook for this week can be downloaded [here](data/Eliza.ipynb
 (Right-click >> Save Link As >> Type of file: All Files)
 
 Navigate the terminal to the folder where you downloaded the assignment file.
-To open the notebook, activate the `progLab` environment and start the notebook
+To open the notebook, activate the `minai` environment and start the notebook
 server:
 
     jupyter nbclassic
