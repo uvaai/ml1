@@ -1,0 +1,44 @@
+Welcome:
+    Read the syllabus to get started: /syllabus
+Module 1 [30/09/24]:
+  SOWISO:
+    Probability & Describing Data [optional]: /elective/sowiso
+  Introduction to AI:
+    Elements of AI: /week1/elements-of-ai/elective
+  Theory Videos:
+    Nearest Neighbours: /week2/nearest-neighbours/elective
+  Programming Notebook:
+    Notebook introduction: /week1/notebooks
+    k-NN classification [submit]: /week2/k-nn-classification
+  Written Assignment:
+    Turing's paper [submit]: /week1/turing-test/elective
+Module 2 [14/10/24]:
+  SOWISO:
+    Probability Distributions [optional]: /week3/probability-distributions
+  Theory Videos:
+    Bayes' Rule: /week3/bayes-rule
+  Programming Notebook:
+    Naive Bayes [submit]: /week3/naive-bayes
+  Written Assignment:
+    Chinese Room [submit]: /week3/chinese-room
+Module 3 [28/10/24]:
+  SOWISO:
+    Gradients [optional]: /week4/gradients
+  Theory Videos:
+    Linear Regression: /week4/linear-regression
+  Programming Notebook:
+    Gradient Descent [submit]: /week4/gradient-descent
+  Written Assignment:
+    AlphaGo [submit]: /week4/alphago
+Module 4 [18/11/24]:
+  SOWISO:
+    Linear Algebra [optional]: /week5/linear-algebra
+  Theory Videos:
+    Multivariate Regression: /week5/multivariate-regression
+  Programming Notebook:
+    Polynomial Regression [submit]: /week5/polynomial-regression
+  Written Assignment:
+    Algorithmic Bias [submit]: /week5/algorithmic-bias
+Exam [09/12/24]:
+  Exam material: /exam/material
+  Practice exam: /exam/practice

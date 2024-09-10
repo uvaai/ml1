@@ -1,0 +1,139 @@
+templates:
+    1: &automatic
+        type: pass
+        subgrades:
+            done: boolean
+        automatic:
+            done: -1
+        calculation: done
+        auto_publish: true
+        hide_calculated: true
+        hide_subgrades: true
+    3: &manual
+        type: float
+        subgrades:
+            points: integer
+        calculation: points
+    4: &test
+        type: float
+        subgrades:
+            points: integer
+        calculation: points
+        is_test: true
+        hide_subgrades: true
+    5: &manual_float
+        type: float
+        subgrades:
+            points: float
+        calculation: points
+    6: &written
+        type: float
+        subgrades:
+            instructions: float
+            structure_and_style: float
+            argumentation: float
+        calculation: "instructions + structure_and_style + argumentation"
+
+
+grades:
+    prog_2:
+        <<: *manual
+        deadline: 06/09/24 18:00
+    writ_1_elec:
+        <<: *written
+        deadline: 06/09/24 18:00
+    prog_3:
+        <<: *manual
+        deadline: 13/09/24 18:00
+    writ_3:
+        <<: *written
+        deadline: 13/09/24 18:00
+    prog_4:
+        <<: *manual
+        deadline: 23/09/24 18:00
+    writ_4:
+        <<: *written
+        deadline: 23/09/24 18:00
+    prog_5:
+        <<: *manual
+        deadline: 01/10/24 18:00
+    writ_5:
+        <<: *written
+        deadline: 01/10/24 18:00
+    prog_5_elec:
+        <<: *manual
+        deadline: 08/10/24 18:00
+    writ_5_elec:
+        <<: *written
+        deadline: 08/10/24 18:00
+    prog_6:
+        <<: *manual
+        deadline: 16/10/24 18:00
+    writ_6_elec:
+        <<: *written
+        deadline: 16/10/24 18:00
+    exam: *test
+
+programming:
+    show_progress: false
+    show_overview: false
+    submits:
+        prog_2: 1
+        prog_3: 1
+        prog_4: 1
+        prog_5: 1
+        prog_5_elec: 1
+        prog_6: 1
+
+writing:
+    show_progress: false
+    show_overview: false
+    submits:
+        writ_1_elec: 1
+        writ_3: 1
+        writ_4: 1
+        writ_5: 1
+        writ_5_elec: 1
+        writ_6_elec: 1
+
+module_1:
+    show_progress: true
+    show_overview: true
+    submits:
+        prog_2: 1
+        writ_1_elec: 1
+
+module_2:
+    show_progress: true
+    show_overview: true
+    submits:
+        prog_3: 1
+        writ_3: 1
+
+module_3:
+    show_progress: true
+    show_overview: true
+    submits:
+        prog_4: 1
+        writ_4: 1
+
+module_4:
+    show_progress: true
+    show_overview: true
+    submits:
+        prog_5: 1
+        writ_5: 1
+
+module_5:
+    show_progress: true
+    show_overview: true
+    submits:
+        prog_5_elec: 1
+        writ_5_elec: 1
+
+module_6:
+    show_progress: true
+    show_overview: true
+    submits:
+        prog_6: 1
+        writ_6_elec: 1
