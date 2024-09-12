@@ -60,18 +60,6 @@ grades:
     writ_5:
         <<: *written
         deadline: 01/10/24 18:00
-    prog_5_elec:
-        <<: *manual
-        deadline: 08/10/24 18:00
-    writ_5_elec:
-        <<: *written
-        deadline: 08/10/24 18:00
-    prog_6:
-        <<: *manual
-        deadline: 16/10/24 18:00
-    writ_6_elec:
-        <<: *written
-        deadline: 16/10/24 18:00
     exam: *test
 
 programming:
@@ -82,8 +70,6 @@ programming:
         prog_3: 1
         prog_4: 1
         prog_5: 1
-        prog_5_elec: 1
-        prog_6: 1
 
 writing:
     show_progress: false
@@ -93,8 +79,6 @@ writing:
         writ_3: 1
         writ_4: 1
         writ_5: 1
-        writ_5_elec: 1
-        writ_6_elec: 1
 
 module_1:
     show_progress: true
@@ -124,16 +108,3 @@ module_4:
         prog_5: 1
         writ_5: 1
 
-module_5:
-    show_progress: true
-    show_overview: true
-    submits:
-        prog_5_elec: 1
-        writ_5_elec: 1
-
-module_6:
-    show_progress: true
-    show_overview: true
-    submits:
-        prog_6: 1
-        writ_6_elec: 1

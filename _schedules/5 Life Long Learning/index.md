@@ -1,12 +1,12 @@
-# Introduction to Machine Learning 1
+# Introduction to Machine Learning
 
 University of Amsterdam / Programming Lab / 50821ITM6Y
 
 ## Syllabus<br><small>Fall 2024</small>
 
 This course serves as an introduction to the basics of machine learning and
-artificial intelligence. It consists of 6 modules, where each of these modules
-is expected to take about one week, and will focus on exploring one or more
+artificial intelligence. It consists of 4 modules, where each of these modules
+is expected to take 2 or 3 weeks, and will focus on exploring one or more
 techniques from machine learning. In general, there will be 3 components to
 each module:
 
@@ -18,7 +18,7 @@ In addition, there will be optional foundational material for each module, which
 
 * **SOWISO:** An online platform we'll use to introduct foundational mathematical concepts that are the driving force behind a lot of the algorithms we'll explore.
 
-Log in with your UvAnetID and create an account to get access to the modules.
+Log in with your email and create an account to get access to the modules.
 
 ## Staff
 
@@ -40,8 +40,6 @@ each take 8 days:
 * **Module 2:** *Friday September 13th at 17:59*
 * **Module 3:** *Monday September 23th at 17:59*
 * **Module 4:** *Tuesday October 1st at 17:59*
-* **Module 5:** *Tuesday October 8th at 17:59*
-* **Module 6:** *Wednesday October 16th at 17:59*
 
 ### Absences and calling in sick
 
