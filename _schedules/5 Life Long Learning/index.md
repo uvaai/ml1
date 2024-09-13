@@ -67,8 +67,9 @@ start.
 ### Kick-off session
 
 Here we'll introduce the format of the course and help with any installation
-issues you might have with the tools for the course. Installation instructions
-for the tools can be found here: [https://minai.proglab.nl/](https://minai.proglab.nl/)
+issues you might have with the tools. You can already start installing the
+tools before the kick-off and the installation instructions for this can be
+found here: [https://minai.proglab.nl/](https://minai.proglab.nl/)
 
 If you run into any issues while installing these tools, please make sure to come to
 kick-off so we can help you get set up. That way we can ensure everyone can run
