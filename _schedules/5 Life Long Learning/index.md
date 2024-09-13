@@ -101,7 +101,7 @@ you're working on.
 
 ### Q&A for the exam
 
-Here you can ask the lectures any questions you have about the exam material.
+Here you can ask the course staff any questions you have about the exam material.
 
 * Friday, December 13th, 14:00-16:00
 
