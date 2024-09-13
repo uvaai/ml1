@@ -68,7 +68,7 @@ start.
 
 Here we'll introduce the format of the course and help with any installation
 issues you might have with the tools. You can already start installing the
-tools for the course before the kick-off, adn the installation instructions for
+tools for the course before the kick-off, and the installation instructions for
 this can be found here: [https://minai.proglab.nl/](https://minai.proglab.nl/)
 
 If you run into any issues while installing these tools, please make sure to come to
