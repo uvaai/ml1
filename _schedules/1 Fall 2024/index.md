@@ -181,7 +181,7 @@ of the formats above, you can email the course staff at <ai@proglab.nl>
 
 ## Passing the course
 
-The programming and writing assignment will both be graded on a 1 to 10 scale.
+The programming and writing assignment will both be graded on a 1 to 10 scale 
 and at the end of the course an average for both these elements will be
 computed. The SOWISO exercises have automatic feedback, so they will only be
 graded on a *pass/fail* basis. Attendance each week will also be graded

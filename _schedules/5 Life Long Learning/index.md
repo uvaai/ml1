@@ -32,34 +32,18 @@ questions.
 
 ## Deadlines
 
-The deadlines for each of the 6 modules is listed below. Note that 3 of the
-modules are a bit smaller, so should take one week, while the other 3 modules
-each take 8 days:
+The deadlines for each of the 4 modules is listed below. Note that the first 2
+modules are smaller, so should take 2 weeks, while the last 2 modules both take
+3 weeks:
 
-* **Module 1:** *Friday September 6th at 17:59*
-* **Module 2:** *Friday September 13th at 17:59*
-* **Module 3:** *Monday September 23th at 17:59*
-* **Module 4:** *Tuesday October 1st at 17:59*
+* **Module 1:** *Sunday October 13th at 23:59*
+* **Module 2:** *Sunday October 27th at 23:59*
+* **Module 3:** *Sunday November 17th at 23:59*
+* **Module 4:** *Sunday December 8th at 23:59*
 
-### Absences and calling in sick
+### Requesting extension
 
-If you are sick or are otherwise unable to come to campus, you should inform
-your group TA you will be absent by sending them a message on Slack. When you
-are feeling better, inform your TA again, so your period of absence can be
-registered.
-
-Depending on how long you were sick, and if you are behind with the module, you
-can then also contact the course staff to discuss an alternate planning for the
-module. Note that this option requires you to have also already messaged your
-TA at the start of your absense. Any exceptions or extensions required for this
-will need to be discussed with course staff (so not your TA). See the extension
-policy below for more details.
-
-### Extension policy and late days
-
-There are two types of extension; staff extensions and late days.
-
-Staff extensions usually require meeting with staff and will generally also
+Requesting extensions usually require meeting with staff and will generally also
 include making an alternative planning for the module. If any circumstances
 arise that would make it hard for you to make the deadline, send us an
 email at <ai@proglab.nl> so we can discuss your situation. Please do this as
@@ -68,70 +52,83 @@ schedule a meeting and still have room in the module for an alternative planning
 Note that a meeting does not always guarantee an extension, as this might still
 depend on the details of your circumstances.
 
-In addition, you have a total of 2 late days, each of which you can use to get
-a single 24 hour extension for the module deadline. You can request a late day
-using the submit forms linked in the sidebar of the main
-[minor AI website](https://minai.proglab.nl/). You must always submit your
-request *before* the deadline expires. Any submissions received after the
-deadline without a requested late day will not be graded, meaning your grade
-will default to a 1.
-
-You can use only 1 late day per module to get a 24 hour extension on the
-deadline.  This extension is for the whole module, so applies to all submits
-for the course. If the deadline is on a Friday, using a single late day will
-instead grant a 48 hour extension over the weekend, meaning your deadline will
-move to Sunday. If you have used both late days, or require more than 24 hours
-of extension, you may still try and request a staff extension.
-
-Any staff extension request needs to be agreed upon before the deadline expires,
-which means your request must be sent at least 2 hours before the actual deadline.
+Any extension request needs to be agreed upon before the deadline expires,
+which means your request can usually only be handeled on Friday latest.
 If you do not receive a reply in time, you should *always* still submit your
 current version of the assignment before the deadline, so this part can still be
-graded. Staff extension requests should be emailed to <ai@proglab.nl>
+graded.
 
-## Practical assistance
+## Scheduled classes
 
-There are 4 slots of 2.5 hours scheduled every week for practical assistance,
-where you can ask any questions to the TA's of the minor. During these hours
-you can use the "Assistance" feature on the main [minor AI website](https://minai.proglab.nl/),
-using the question mark symbol in the top right corner of that page. Please use
-this feature instead of raising your hand in class, as it ensures that all
-questions get handled in the order that they are asked. Questions can of be
-about any part of the course, just make sure to mention what assignment
-you're working on. For your location, please list the table you are working at,
-so the TA handling your question knows where to find you when it is your turn.
+All classes are scheduled on Friday from 14:00 to 16:00 during the 12 week
+period of the course, with a separate kick-off session the Friday before we
+start.
 
-### Scheduling practical assistance
+### Kick-off session
 
-All practical assistance will be in the main room of the minor AI, **L0.11** in
-the Lab42 building of Science Park, and will be scheduled as follows:
+Here we'll introduce the format of the course and help with any installation
+issues you might have with the tools for the course. Installation instructions
+for the tools can be found here: [https://minai.proglab.nl/](https://minai.proglab.nl/)
 
-* On Mondays from 13:30 to 16:00
-* On Tuesdays, Wednesdays, and Thursdays from 10:00 to 12:30
+If you run into any issues while installing these tools, please make sure to come to
+kick-off so we can help you get set up. That way we can ensure everyone can run
+the required programs before the course actually starts. You can, of course,
+also come and ask any other questions you might have about the course.
 
-Each module will have a form were you can select up to 2 days where you plan to
-attend the practical assistance for that module. Note that if you did not select
-a day, there might not be space in the room for you to ask questions, so make sure
-to fill in the form at the start of each module.
+* Friday, September 27th, 14:00-16:00
 
-### TA Slack
+### Mandatory classes
 
-There will also be a Slack you can use to contact your own TA, the link for which
-will be shared once the course starts. This Slack can be used to ask clarification
-on some of the feedback you got for your assignments, or to call in sick as
-described in the section on absences above. Note that this Slack is only intended
-for quick clarifying questions, and *not* for help with the assignments. Help
-with the assignments, or longer explanations on how to write better code, are
-only given in person as part of the practical assistance.
+These are the mandatory classes where we'll discuss the different algorithms and writing
+assignments we're covering.
+
+* Friday, October 11th, 14:00-16:00 
+* Friday, October 25th, 14:00-16:00 
+* Friday, November 8th, 14:00-16:00 
+* Friday, November 22nd, 14:00-16:00 
+* Friday, December 6th, 14:00-16:00 
+
+### Optional classes
+
+These are optional classes where you can just come and ask questions about the assignments
+you're working on.
+
+* Friday, October 4th, 14:00-16:00 
+* Friday, October 18th, 14:00-16:00 
+* Friday, November 1st, 14:00-16:00 
+* Friday, November 15th, 14:00-16:00 
+* Friday, November 29th, 14:00-16:00 
+
+### Q&A for the exam
+
+Here you can ask the staff any questions you have about the exam material.
+
+* Friday, December 13th, 14:00-16:00
+
+### Exam
+
+Final exam consisting of open questions about the machine learning theory.
+
+* Friday, December 20th, 14:00-17:00
+
+### Absenses
+
+There are 5 mandatory classes during the course, of which you'll need to
+attend at least 4 to pass the course. If you're unable to make it to a
+mandatory class for whatever reason, please inform the course staff at
+<ai@proglab.nl>
 
 ## Passing the course
 
-The programming and writing assignment will both be graded on a 1 to 10 scale.
+The programming and writing assignment will both be graded on a 1 to 10 scale
 and at the end of the course an average for both these elements will be
-computed. The minimum satisfactory average grade from the
-assignments is a 4.5 and the minimum grade for the exam is also a 4.5. If all
-elements are completed satisfactorily, your final grade for the course is
-computed as:
+computed. Attendance each week will also be graded pass/fail, as described in
+the *Scheduled classes* section above.
+
+Passing the attendace requirement each week is required to pass the course.
+The minimum satisfactory average grade from the assignments is a 4.5 and the
+minimum grade for the exam is also a 4.5. If all elements are completed
+satisfactorily, your final grade for the course is computed as:
 
     40% programming average + 20% written average + 40% exam grade
 
