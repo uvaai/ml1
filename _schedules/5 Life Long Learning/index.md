@@ -79,8 +79,8 @@ also come and ask any other questions you might have about the course.
 
 ### Mandatory classes
 
-These are the mandatory classes where we'll discuss the different algorithms and writing
-assignments we're covering.
+These are main classes where we'll discuss the different algorithms and writing
+assignments we're covering in each module.
 
 * Friday, October 11th, 14:00-16:00 
 * Friday, October 25th, 14:00-16:00 
@@ -90,7 +90,7 @@ assignments we're covering.
 
 ### Optional classes
 
-These are optional classes where you can just come and ask questions about the assignments
+These are optional classes where you can just come and ask questions about any assignment
 you're working on.
 
 * Friday, October 4th, 14:00-16:00 
@@ -101,11 +101,11 @@ you're working on.
 
 ### Q&A for the exam
 
-Here you can ask the staff any questions you have about the exam material.
+Here you can ask the lectures any questions you have about the exam material.
 
 * Friday, December 13th, 14:00-16:00
 
-### Exam
+### Final exam
 
 Final exam consisting of open questions about the machine learning theory.
 
