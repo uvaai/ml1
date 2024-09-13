@@ -44,7 +44,7 @@ modules are smaller, so should take 2 weeks, while the last 2 modules both take
 ### Requesting extension
 
 Requesting extensions usually require meeting with staff and will generally also
-include making an alternative planning for the module. If any circumstances
+includes making an alternative planning for the module. If any circumstances
 arise that would make it hard for you to make the deadline, send us an
 email at <ai@proglab.nl> so we can discuss your situation. Please do this as
 soon as the problem arises, rather than on the day of deadline, so we can
@@ -68,8 +68,8 @@ start.
 
 Here we'll introduce the format of the course and help with any installation
 issues you might have with the tools. You can already start installing the
-tools before the kick-off and the installation instructions for this can be
-found here: [https://minai.proglab.nl/](https://minai.proglab.nl/)
+tools for the course before the kick-off. The installation instructions for
+this can be found here: [https://minai.proglab.nl/](https://minai.proglab.nl/)
 
 If you run into any issues while installing these tools, please make sure to come to
 kick-off so we can help you get set up. That way we can ensure everyone can run
