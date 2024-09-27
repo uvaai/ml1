@@ -13,7 +13,10 @@ done in an online environment called SOWISO, which you may or may not already
 be familiar with. In SOWISO you can read theory pages describing the concepts
 and can get automated feedback and hints for each exercise.
 
-**Note:** You'll receive a separate email invitation to join SOWISO. Make sure
-to set your language in SOWISO to English, as some of the modules will not be
+You can you join course using this link: [https://uva.sowiso.nl/auth/login](https://uva.sowiso.nl/auth/login)
+
+Login in with your email, using the password: **LLLfall24**
+
+**Note:** Make sure to set your language in SOWISO to English, as some of the modules will not be
 available in Dutch.
 
