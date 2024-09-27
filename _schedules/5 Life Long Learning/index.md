@@ -81,7 +81,8 @@ also come and ask any other questions you might have about the course.
 ### Mandatory classes
 
 These are main classes where we'll discuss the different algorithms and writing
-assignments we're covering in each module.
+assignments we're covering in each module. These will all be in room **L3.35** in
+*Lab42*.
 
 * Friday, October 11th, 14:00-16:00 
 * Friday, October 25th, 14:00-16:00 
@@ -92,7 +93,8 @@ assignments we're covering in each module.
 ### Optional classes
 
 These are optional classes where you can just come and ask questions about any assignment
-you're working on.
+you're working on. These will all be in room **L3.05** in *Lab42*.
+
 
 * Friday, October 4th, 14:00-16:00 
 * Friday, October 18th, 14:00-16:00 
