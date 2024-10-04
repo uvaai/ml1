@@ -37,4 +37,4 @@ written in there, in the `notebook.ipynb` file.
 
 You do not need to hand in your notebook from this short assignment, as it is
 just an introduction for the programming assignment this week. Once you've
-completed that, you can get started with the actual ELIZA assignment.
+completed that, you can get started with the actual notebook assignment.
