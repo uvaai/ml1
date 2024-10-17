@@ -147,9 +147,7 @@ programming, but to better understand the algorithms you are implementing. Your
 answers to the open question and checking that the produced output for each
 step makes sense, are the main ways to show this understanding. Writing clear
 code with good comments is also only possible when you understand what you're
-implementing well enough. However, for the first 2 modules style and design
-will not be included in your grade, as you'll still be learning what those
-concepts entail in the *Python for Data Processing* course.
+implementing well enough.
 
 If all coding cells are completed, all open questions are answered and your
 notebook runs top to bottom without errors, your grade starts at a 6. The
