@@ -1,0 +1,66 @@
+Module 0 [1/2/25]:
+  Getting Started:
+    Read the course syllabus: /syllabus
+    Installation instructions: /week1/notebooks/elective
+  SOWISO:
+    Joining SOWISO: /week1/theoretical-probability/elective/join
+    Probability [optional]: week1/theoretical-probability/elective
+  Notebooks:
+    Notebook introduction: /week1/notebooks
+    Chatting with ELIZA [submit]: /week1/eliza/elective
+Module 1 [3/2/25]:
+  SOWISO:
+    Types of Data [optional]: /week2/types-of-data
+  Introduction to AI:
+    Elements of AI: /week1/elements-of-ai/elective
+  Theory Videos:
+    Nearest Neighbours: /week2/nearest-neighbours/elective
+  Programming Notebook:
+    k-NN classification [submit]: /week2/k-nn-classification
+  Written Assignment:
+    Turing's paper [submit]: /week1/turing-test/elective
+Module 2 [8/2/25]:
+  SOWISO:
+    Probability Distributions [optional]: /week3/probability-distributions
+  Theory Videos:
+    Bayes' Rule: /week3/bayes-rule
+  Programming Notebook:
+    Naive Bayes [submit]: /week3/naive-bayes
+  Written Assignment:
+    Chinese Room [submit]: /week3/chinese-room
+Module 3 [15/2/25]:
+  SOWISO:
+    Gradients [optional]: /week4/gradients
+  Theory Videos:
+    Linear Regression: /week4/linear-regression
+  Programming Notebook:
+    Gradient Descent [submit]: /week4/gradient-descent
+  Written Assignment:
+    AlphaGo [submit]: /week4/alphago
+Module 4 [22/2/25]:
+  SOWISO:
+    Linear Algebra [optional]: /week5/linear-algebra
+  Theory Videos:
+    Multiple Regression: /week5/multiple-regression
+  Programming Notebook:
+    Polynomial Regression [submit]: /week5/polynomial-regression
+  Written Assignment:
+    Algorithmic Bias [submit]: /week5/algorithmic-bias
+Module 5 [1/3/25]:
+  Content of this module: /elective/module5
+  Programming Notebooks:
+    Numpy [submit]: /numpy/numpy
+    Pandas [submit]: /numpy/pandas
+    Submit your notebooks: /elective/submit
+  Written Assignment:
+    Climate impact [submit]: /elective/climate
+Module 6 [8/3/25]:
+  Theory Videos:
+    Unsupervised Learning: /week6/unsupervised-learning
+  Programming Notebook:
+    K-means [submit]: /week6/k-means
+  Written Assignment:
+    Data labeling [submit]: /elective/labeling
+Exam [15/3/25]:
+  Exam material: /exam/material
+  Practice exam: /exam/practice

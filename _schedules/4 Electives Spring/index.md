@@ -1,4 +1,4 @@
-# Inleiding Machine Learning 1
+# Introduction to Machine Learning 1
 
 University of Amsterdam / Programming Lab / 50821ITM6Y
 
@@ -7,13 +7,16 @@ University of Amsterdam / Programming Lab / 50821ITM6Y
 This course serves as an introduction to the basics of machine learning and
 artificial intelligence. It consists of 6 modules, where each of these modules
 is expected to take about one week, and will focus on exploring one or more
-techniques from machine learning. In general, there will be 4 components to
+techniques from machine learning. In general, there will be 3 components to
 each module:
 
 * **Theory videos:** These will mostly introduce the required machine learning concepts for the topics that week.
-* **SOWISO:** An online platform we'll use to cover foundational mathematical concepts that are the driving force behind a lot of the algorithms we'll explore.
 * **Programming Notebook:** Here you will implement some of the machine learning algorithms yourself in *Python*.
 * **Written Assignment:** Here you'll read articles or blog posts related to the philosophical and societal implication of ML, and answer questions about them.
+
+In addition, there will be optional foundational material for each module, which you can of course skip, if you're already familiar with the concepts:
+
+* **SOWISO:** An online platform we'll use to introduct foundational mathematical concepts that are the driving force behind a lot of the algorithms we'll explore.
 
 Log in with your UvAnetID and create an account to get access to the modules.
 
@@ -27,50 +30,20 @@ You can reach us at <ai@proglab.nl> for any practical matters or other
 questions.
 
 
-## Schedule
+## Deadlines
 
-The core schedule for this course, combined with Python for Data Processing, is
-built around working with the material each weekday from 9 to 5. For this we
-have one room on the Science Park campus permanently reserved for minor AI
-students, namely **L0.10**, which provides enough space for all of you to work
-on campus full-time.
+The first module is just a basic notebook introduction, and should already be handed
+in on Tuesday of the first week. The deadlines for the other 6 modules is listed below.
+Note that not all the modules are exactly the same size, so some modules take a little
+less than a week and others a little more. As result, not all deadline will be on the same day:
 
-Most on-campus activities, including the practical assistance, will generally be
-held in this room. There are some exceptions with activities that do not fit
-in the room, like the group seminars and the exam. The schedule for the
-group seminars and the practical assistance hours can be found in the
-"Asking Questions" section below.
-
-<!--can be found on Datanose [here](https://datanose.nl/#course[128440])
-
-The schedule for the practical assistance hours that will be held in L0.10 can
-be found in the "Asking Questions" section below.-->
-
-### Deadlines and daily schedules
-
-The deadlines for each module can be found on the module schedule pages
-(the first item in the sidebar for each module).
-
-We've found that it can be difficult for students to plan when to work on what
-part of the material, especially with two completely new courses, that together
-require a full-time time investment. Being unfamiliar with a subject makes it a
-lot harder to estimate how long something might take, and structuring your work
-can be more difficult. To help with all of this, we've made a day-to-day schedule
-for each module, which indicates what elements should be completed each day.
-
-If you're finding it hard to keep on track with the daily schedule, you can
-contact the staff at <ai@proglab.nl>. We can discuss possible approaches or
-even offer extra help or resources, if needed. In general, it is a good idea to
-already contact us if are more than 1 day behind on the schedule, so we can
-look at possible solutions early.
-
-#### Part-time students
-
-If you are a part-time student, you can just follow the *Inleiding
-Machine Learning* half of the daily schedule. You should still attend the group
-seminars with the other students<!--, as scheduled [here](https://datanose.nl/#course[128440])-->,
-but can otherwise choose which of the daily practical assistance slots combine
-best with your own schedule.
+* **Module 0:** *Tuesday February 4th at 23:59*
+* **Module 1:** *Monday February 10th at 23:59*
+* **Module 2:** *Monday February 17th at 23:59*
+* **Module 3:** *Tuesday February 25th at 23:59*
+* **Module 4:** *Wednesday March 5th at 23:59*
+* **Module 5:** *Wednesday March 12th at 23:59*
+* **Module 6:** *Thursday March 20th at 23:59*
 
 ### Absences and calling in sick
 
@@ -99,21 +72,20 @@ schedule a meeting and still have room in the module for an alternative planning
 Note that a meeting does not always guarantee an extension, as this might still
 depend on the details of your circumstances.
 
-In addition, for this course and Python for Data Processing, you have a
-combined total of 2 late days, each of which you can use to get a single 24
-hour extension for the module deadline. You can request a late day using the
-submit forms linked in the sidebar of the main
+In addition, you have a total of 2 late days, each of which you can use to get
+a single 24 hour extension for the module deadline. You can request a late day
+using the submit forms linked in the sidebar of the main
 [minor AI website](https://minai.proglab.nl/). You must always submit your
 request *before* the deadline expires. Any submissions received after the
 deadline without a requested late day will not be graded, meaning your grade
 will default to a 1.
 
-You can use only 1 late day per module to get a 24 hour extension on the deadline.
-This extension is for the whole module, so applies to both courses. If the deadline
-is on a Friday, using a single late day will instead grant a 48 hour extension
-over the weekend, meaning your deadline will move to Sunday. If you have used both
-late days, or require more than 24 hours of extension, you may still try and
-request a staff extension.
+You can use only 1 late day per module to get a 24 hour extension on the
+deadline. This extension is for the whole module, so applies to all submits
+for the course. If the deadline is on a Friday, using a single late day will
+instead grant a 48 hour extension over the weekend, meaning your deadline will
+move to Sunday. If you have used both late days, or require more than 24 hours
+of extension, you may still try and request a staff extension.
 
 Any staff extension request needs to be agreed upon before the deadline expires,
 which means your request must be sent at least 2 hours before the actual deadline.
@@ -121,113 +93,59 @@ If you do not receive a reply in time, you should *always* still submit your
 current version of the assignment before the deadline, so this part can still be
 graded. Staff extension requests should be emailed to <ai@proglab.nl>
 
-## Asking questions
+## Practical assistance
 
-If you have any questions about the material, there are several ways to ask them
-and get assistance.
+This course has one introductory lecture, but the rest of the classes consist of
+frequent opportunities to come and ask questions during practical assistance hours.
+During these hours you can ask any questions to the TA's and teachers of the course,
+so consider these moments to also really replace the lectures with opportunities for
+additional explanation, either individually or in small groups. Questions can be
+about any part of the course, including further explanation of the theory for that
+module or help with solving bugs in the assignments.
 
-### Practical assistance
+During the practical assistance hours
+you can use the "Assistance" feature on the main [minor AI website](https://minai.proglab.nl/),
+using the question mark symbol in the top right corner of that page. Please use
+this feature instead of raising your hand in class, as it ensures that all
+questions get handled in the order that they are asked. Questions can of be
+about any part of the course, just make sure to mention what assignment
+you're working on. For your location, please list the table you are working at,
+so the staff member handling your question knows where to find you when it is your turn.
 
-There are 2.5 hours scheduled every day where you can ask practical questions
-to the TA's of the minor. During these hours you can use the "Assistance"
-feature on the main [minor AI website](https://minai.proglab.nl/), using the
-question mark symbol in the top right corner of that page. Please use this
-feature instead of raising your hand in class, as it ensures that all questions
-get handled in the order that they are asked. Questions can of be about either
-the PDP or ML1 courses, just make sure to mention what assignment you're
-working on. For your location, please list the table you are working at, so the
-TA handling your question knows where to find you when it is your turn.
+### Practical assistance schedule
 
-The hours are scheduled as follows:
+There are 5 slots of 2.5 hours scheduled every week for practical assistance.
+All practical assistance will be in the main room of the minor AI, **L0.10** in
+the Lab42 building of Science Park, and will be scheduled as follows:
 
-* In general, assistance hours are from 10:00 to 12:30
-* On Mondays there are group seminars in the morning, so the assistance hours are from 13:30 to 16:00 instead.
+* On Mondays from 13:30 to 16:00
+* On Tuesdays, Wednesdays, Thursdays, Friday from 10:00 to 12:30
 
-### Office hours
+You may join any of these scheduled slots to ask your questions. Note that attendance
+will be taken during the practicals, even though attendance is not mandatory. This is
+mainly to monitor the usage of each of the sessions, and ensure there is enough space
+and assistance for those present.
 
-Students in the minor AI, as with any minor, tend to come from very diverse
-backgrounds, which makes a traditional centralized lecture aimed at all
-students difficult. So, instead the course content is mainly presented using
-theory videos and reading material, while the staff is also frequently
-available for questions.
+### TA Slack
 
-Every module there will be at least one planned set of office hours, where you
-can ask the staff any questions you might have about theoretical parts of the
-course. The schedule for these office hours can be found as part of the daily
-schedule for the module. The office hours will always be together with the
-practical assistance hours in the main room L0.10.
-
-During the office hours, you can use the same "Assistance" feature to ask any
-further explanations on the theory of that module. Simply start your question
-description with "[00]" to indicate it is for staff. If these explanations are
-relevant relevant for a larger number of students, they might be covered on the
-board, but in general, questions will be answered individually or in smaller
-groups. The office hours can also be used for any other matters you might want
-to discuss with staff, such as personal matters or an alternate planning.
-
-### Seminars
-
-Once a week on Mondays there are separate group seminars with your own TA. The
-topics covered in these seminars will depend on the material of that week: how
-to improve the style and design of your code, discussing the some of the
-written assignment topics, or some small programming exercises to practice
-with the group. In addition, you can always use these seminars to ask you TA any
-questions you might have about the feedback they gave you as part of the grading for
-the previous module. This semester the group seminars are every **Monday at 11:00**
-in room *L1.11*. <!--The schedule for the group seminars can be found on Datanose
-[here](https://datanose.nl/#course[128439])-->
-
-### Email the staff
-
-If you have personal matters to discuss or other questions that do not fit any
-of the formats above, you can email the course staff at <ai@proglab.nl>
-
+There will also be a Slack you can use to contact your own TA, the link for which
+will be shared once the course starts. This Slack can be used to ask clarification
+on some of the feedback you got for your assignments, or to call in sick as
+described in the section on absences above. Note that this Slack is only intended
+for quick clarifying questions, and *not* for help with the assignments. Help
+with the assignments, or longer explanations on how to write better code, are
+only given in person as part of the practical assistance.
 
 ## Passing the course
 
-The programming and writing assignment will both be graded on a 1 to 10 scale 
+The programming and writing assignment will both be graded on a 1 to 10 scale.
 and at the end of the course an average for both these elements will be
-computed. The SOWISO exercises have automatic feedback, so they will only be
-graded on a *pass/fail* basis. Attendance each week will also be graded
-pass/fail, as described in the *Attendance* section below.
-
-Passing the attendace requirement each week is required to pass the course.
-Completing each of the SOWISO chapters is also required in order to receive a
-pass for that part. The minimum satisfactory average grade from the
+computed. The minimum satisfactory average grade from the
 assignments is a 4.5 and the minimum grade for the exam is also a 4.5. If all
 elements are completed satisfactorily, your final grade for the course is
 computed as:
 
     40% programming average + 20% written average + 40% exam grade
-
-
-### Attendance
-
-As a full-time student, we expect you to be present and working on campus every
-weekday from 9 to 5. The material of these course covers a lot of practical
-skills, which cannot just be learned from reading a book or watching a video.
-This means we expect you'll need to ask plenty questions while working on
-assignments, as you try and master these different skills. This is also why we
-offer practical assistance every day of the week.
-
-As asking questions is such a fundamental part of the way we expect you to
-learn, attendance for some of the practical assistance is mandatory. This is
-not required for every single practical session, but you should attend the
-majority of the practicals offered. Each week there are 6 lessons you can
-attend: practical assistance every day of the week, and a seminar with your own
-TA once per week. Of these you should attend at minimum 4 per week to receive a
-pass for the attendance that week. Note that for parttime students the
-requirement is only to attend 2 lessons each week.
-
-#### Rules regarding attendance
-
-* You need to attend 4 out of 6 lessons each week as a fulltime student, or 2 out of 6 as a parttime student
-* Attendance will be taken during the practical assistance each day at 10:15 and students entering after 10:30 will not be registered present
-* If you are registered sick (see the section *Absenses* above), you are also exempted from attendance on those days
-* If you need an exception for the attendance of a week for whatever reason, this should be arranged *before* the start of that week with course staff (this is a type of staff exception, as described above)
-* If you are done with all the material for the module before the day of the deadline, you can show your assignments to a TA *during practical assistance*. The TA will check if they agree every element has been properly completed, and if so you'll be granted exemption from the attendance checks for the rest of the module.
-* If you receive a fail for the attendance of one week, you should make arrangements with the staff to compensate this *the following week*. If an attendance fail is not corrected the week after, it is no longer possible to pass the course.
-
 
 ### Programming Grades
 
@@ -241,9 +159,7 @@ programming, but to better understand the algorithms you are implementing. Your
 answers to the open question and checking that the produced output for each
 step makes sense, are the main ways to show this understanding. Writing clear
 code with good comments is also only possible when you understand what you're
-implementing well enough. However, for the first 2 modules style and design
-will not be included in your grade, as you'll still be learning what those
-concepts entail in the *Python for Data Processing* course.
+implementing well enough.
 
 If all coding cells are completed, all open questions are answered and your
 notebook runs top to bottom without errors, your grade starts at a 6. The

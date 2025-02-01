@@ -36,116 +36,107 @@ templates:
 
 
 grades:
-    prog_1:
-        <<: *manual
-        deadline: 07/02/25 18:00
-    writ_1:
-        <<: *written
-        deadline: 07/02/25 18:00
+    prog_0:
+        <<: *automatic
+        deadline: 04/02/25 23:59
     prog_2:
         <<: *manual
-        deadline: 14/02/25 18:00
-    writ_2:
+        deadline: 10/02/25 23:39
+    writ_1_elec:
         <<: *written
-        deadline: 14/02/25 18:00
+        deadline: 10/02/25 23:59
     prog_3:
         <<: *manual
-        deadline: 21/02/25 18:00
+        deadline: 17/02/25 23:59
     writ_3:
         <<: *written
-        deadline: 21/02/25 18:00
+        deadline: 17/02/25 23:59
     prog_4:
         <<: *manual
-        deadline: 03/03/25 18:00
+        deadline: 25/02/25 23:59
     writ_4:
         <<: *written
-        deadline: 03/03/25 18:00
+        deadline: 25/02/25 23:59
     prog_5:
         <<: *manual
-        deadline: 11/03/25 18:00
+        deadline: 05/03/25 23:59
     writ_5:
         <<: *written
-        deadline: 11/03/25 18:00
+        deadline: 05/03/25 23:59
+    prog_5_elec:
+        <<: *manual
+        deadline: 12/03/25 23:59
+    writ_5_elec:
+        <<: *written
+        deadline: 12/03/25 23:59
     prog_6:
         <<: *manual
-        deadline: 19/03/25 18:00
-    writ_6:
+        deadline: 20/03/25 23:59
+    writ_6_elec:
         <<: *written
-        deadline: 19/03/25 18:00
+        deadline: 20/03/25 23:59
     exam: *test
-
-calculation:
-    final:
-        programming: 40
-        writing: 20
-        exam: 40
 
 programming:
     show_progress: false
     show_overview: false
     submits:
-        prog_1: 1
         prog_2: 1
         prog_3: 1
         prog_4: 1
         prog_5: 1
+        prog_5_elec: 1
         prog_6: 1
 
 writing:
     show_progress: false
     show_overview: false
     submits:
-        writ_1: 1
-        writ_2: 1
+        writ_1_elec: 1
         writ_3: 1
         writ_4: 1
         writ_5: 1
-        writ_6: 1
+        writ_5_elec: 1
+        writ_6_elec: 1
 
 module_1:
     show_progress: true
     show_overview: true
     submits:
-        prog_1: 1
-        writ_1: 1
+        prog_2: 1
+        writ_1_elec: 1
 
 module_2:
-    show_progress: true
-    show_overview: true
-    submits:
-        prog_2: 1
-        writ_2: 1
-
-module_3:
     show_progress: true
     show_overview: true
     submits:
         prog_3: 1
         writ_3: 1
 
-module_4:
+module_3:
     show_progress: true
     show_overview: true
     submits:
         prog_4: 1
         writ_4: 1
 
-module_5:
+module_4:
     show_progress: true
     show_overview: true
     submits:
         prog_5: 1
         writ_5: 1
 
+module_5:
+    show_progress: true
+    show_overview: true
+    submits:
+        prog_5_elec: 1
+        writ_5_elec: 1
+
 module_6:
     show_progress: true
     show_overview: true
     submits:
         prog_6: 1
-        writ_6: 1
-
-exam:
-    show_progress: true
-    show_overview: true
-    submits:
-        exam: 1
+        writ_6_elec: 1

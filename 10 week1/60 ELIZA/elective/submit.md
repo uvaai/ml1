@@ -1,11 +1,13 @@
 # ELIZA
 
 For this first programming assignment you'll get to know ELIZA, a famous
-computer psychotherapist, and write a simple chatbot of your own.
+computer psychotherapist, and write a simple chatbot of your own. This
+assignment will only be graded pass/fail, and is mainly intended to get
+you acquainted with Jupyter notebooks.
 
 ## Starting the assignment
 
-The programming notebook for this week can be downloaded [here](data/Eliza.ipynb).
+The programming notebook can be downloaded [here](data/Eliza.ipynb).
 (Right-click >> Save Link As >> Type of file: All Files)
 
 Navigate the terminal to the folder where you downloaded the assignment file.
@@ -23,8 +25,12 @@ You can stop any active chats by typing `quit` in the chat box. You can also
 comment out a chat by adding a `#` before, so the chatbot won't run. See the
 section *Quitting the program* for more details.
 
-## Completing your solution
+## Passing the assignment
 
-Write the answers to the open questions directly in each of the *Markdown* cells.
+The code in all cells must run without errors, including the initial imports.
+Answers to the open questions must be included in the provided *Markdown* cells.
 
-Make sure any code you write has clear variable names and comments where needed.
+If you have any trouble starting the notebook, importing the modules, or other issues
+with running the assignment, you can come to one of the practical sessions for assistance.
+
+
