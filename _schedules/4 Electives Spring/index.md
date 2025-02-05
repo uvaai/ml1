@@ -118,8 +118,11 @@ There are 5 slots of 2.5 hours scheduled every week for practical assistance.
 All practical assistance will be in the main room of the minor AI, **L0.10** in
 the Lab42 building of Science Park, and will be scheduled as follows:
 
-* On Mondays from 13:30 to 16:00
-* On Tuesdays, Wednesdays, Thursdays, Friday from 10:00 to 12:30
+* Monday 13:30 to 16:00
+* Tuesday 10:00 to 12:30
+* Wednesday 10:00 to 12:30
+* Thursday 10:00 to 12:30
+* Friday 13:30 to 16:00
 
 You may join any of these scheduled slots to ask your questions. Note that attendance
 will be taken during the practicals, even though attendance is not mandatory. This is
