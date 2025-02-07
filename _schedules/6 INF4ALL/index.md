@@ -18,12 +18,11 @@ components to each module:
 ## Staff
 
 - Wouter Vrielink (teacher)
-- Melanie Messih (TA)
 
 You can reach us at <ai@proglab.nl> or through Slack for any practical matters
 or other questions. Please pre-fix the subject of your email with "inf4all".
 
-## Schedule
+<!-- ## Schedule
 
 | **datum**          	| **tijd**              	| **activiteit**                      	| **deadline** 	|
 |--------------------	|-----------------------	|-------------------------------------	|--------------	|
@@ -37,7 +36,7 @@ or other questions. Please pre-fix the subject of your email with "inf4all".
 | 3 mei              	| **GEEN LES**          	| Onderwijsvrije week UvA             	| Module 5     	|
 | 24 mei             	| 10:00                 	| K-means + Distance Functions        	|              	|
 | 7 juni             	| 10:00                 	| Voorbespreking tentamen             	| Module 6     	|
-| 28 juni            	| 10:00                 	| Tentamen                            	|              	|
+| 28 juni            	| 10:00                 	| Tentamen                            	|              	| -->
 
 ### Deadlines
 
@@ -187,6 +186,7 @@ Your grade for each writing assignment is determined as the sum of your points f
 The exam at the end of the course will consist mainly of open questions on the
 theory and algorithms covered. More details on the exam can be found in the
 website's schedule.
+
 ## Academic honesty
 
 This course's philosophy on academic honesty is best stated as "be reasonable".
