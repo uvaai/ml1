@@ -29,7 +29,7 @@ or other questions. Please pre-fix the subject of your email with "inf4all".
 | 07 februari        	| 10:00                 	| Introductie en installatie          	|              	|
 | 21 februari        	| 10:00                 	| Formules naar code + Turing's paper 	| Module 1     	|
 | 07 maart           	| 10:00                 	| k-NN + Style & Design + Code review 	| Module 2     	|
-| 21 maart           	| 10:00                 	| Naive Bayes + Chinese room          	| Module 3     	|
+| 21 maart           	| 10:00                 	| Naive Bayes + Chinese room + GPT/LLMs | Module 3     	|
 | 4 april            	| 10:00                 	| Regression + AlphaGo                	|      	        |
 | 11 april           	| **GEEN LES**          	| **ALLEEN DEADLINE**                  	| Module 4     	|
 | 25 april           	| 10:00                 	| Multivariate/Polynomial Regression  	|              	|
