@@ -41,7 +41,7 @@ grades:
         deadline: 04/02/25 23:59
     prog_2:
         <<: *manual
-        deadline: 10/02/25 23:39
+        deadline: 10/02/25 23:59
     writ_1_elec:
         <<: *written
         deadline: 10/02/25 23:59
