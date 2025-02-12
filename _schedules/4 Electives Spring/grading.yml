@@ -81,6 +81,7 @@ programming:
     show_progress: false
     show_overview: false
     submits:
+        prog_0: 0
         prog_2: 1
         prog_3: 1
         prog_4: 1
