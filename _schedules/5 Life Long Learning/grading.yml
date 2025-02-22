@@ -114,3 +114,8 @@ module_4:
         prog_5: 1
         writ_5: 1
 
+exam:
+    show_progress: true
+    show_overview: true
+    submits:
+        exam: 1
