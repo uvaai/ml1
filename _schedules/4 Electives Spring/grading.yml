@@ -77,6 +77,12 @@ grades:
         deadline: 20/03/25 23:59
     exam: *test
 
+calculation:
+    final:
+        programming: 40
+        writing: 20
+        exam: 40
+
 programming:
     show_progress: false
     show_overview: false
