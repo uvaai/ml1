@@ -59,7 +59,8 @@ probabilities produced by the program when it makes a prediction for a new
 tweet, so you can write code to access all of the data and calculations, and
 not just the resulting prediction. Argue whether or not you think this combined
 system would be able to produce understanding of the labeled sentiment of
-tweets in the data set used in the assignment.
+tweets in the data set (i.e. if this combination could together produce
+understanding for labels of the data as described in point 4).
 
 *Note:* Some of these examples might be hard to classify as having
 understanding or not, and there isn't an obvious right or wrong answer for
