@@ -82,7 +82,7 @@ registered.
 Depending on how long you were sick, and if you are behind with the module, you
 can then also contact the course staff to discuss an alternate planning for the
 module. Note that this option requires you to have also already messaged your
-TA at the start of your absense. Any exceptions or extensions required for this
+TA at the start of your absence. Any exceptions or extensions required for this
 will need to be discussed with course staff (so not your TA). See the extension
 policy below for more details.
 
@@ -188,13 +188,13 @@ of the formats above, you can email the course staff at <ai@proglab.nl>
 
 ## Passing the course
 
-The programming and writing assignment will both be graded on a 1 to 10 scale 
+The programming and writing assignment will both be graded on a 1 to 10 scale
 and at the end of the course an average for both these elements will be
 computed. The SOWISO exercises have automatic feedback, so they will only be
 graded on a *pass/fail* basis. Attendance each week will also be graded
 pass/fail, as described in the *Attendance* section below.
 
-Passing the attendace requirement each week is required to pass the course.
+Passing the attendance requirement each week is required to pass the course.
 Completing each of the SOWISO chapters is also required in order to receive a
 pass for that part. The minimum satisfactory average grade from the
 assignments is a 4.5 and the minimum grade for the exam is also a 4.5. If all
