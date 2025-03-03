@@ -41,9 +41,9 @@ less than a week and others a little more. As result, not all deadline will be o
 * **Module 1:** *Monday February 10th at 23:59*
 * **Module 2:** *Monday February 17th at 23:59*
 * **Module 3:** *Tuesday February 25th at 23:59*
-* **Module 4:** *Wednesday March 5th at 23:59*
-* **Module 5:** *Wednesday March 12th at 23:59*
-* **Module 6:** *Thursday March 20th at 23:59*
+* **Module 4:** *Thursday March 6th at 23:59*
+* **Module 5:** *Thursday March 13th at 23:59*
+* **Module 6:** *Friday March 21st at 23:59*
 
 ### Absences and calling in sick
 
