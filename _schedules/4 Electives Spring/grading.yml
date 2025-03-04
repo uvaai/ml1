@@ -59,22 +59,22 @@ grades:
         deadline: 25/02/25 23:59
     prog_5:
         <<: *manual
-        deadline: 05/03/25 23:59
+        deadline: 06/03/25 23:59
     writ_5:
         <<: *written
-        deadline: 05/03/25 23:59
+        deadline: 06/03/25 23:59
     prog_5_elec:
         <<: *manual
-        deadline: 12/03/25 23:59
+        deadline: 13/03/25 23:59
     writ_5_elec:
         <<: *written
-        deadline: 12/03/25 23:59
+        deadline: 13/03/25 23:59
     prog_6:
         <<: *manual
-        deadline: 20/03/25 23:59
+        deadline: 21/03/25 23:59
     writ_6_elec:
         <<: *written
-        deadline: 20/03/25 23:59
+        deadline: 21/03/25 23:59
     exam: *test
 
 calculation:
