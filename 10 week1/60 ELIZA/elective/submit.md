@@ -2,8 +2,8 @@
 
 For this first programming assignment you'll get to know ELIZA, a famous
 computer psychotherapist, and write a simple chatbot of your own. This
-assignment will only be graded pass/fail, and is mainly intended to get
-you acquainted with Jupyter notebooks.
+assignment will be graded pass/fail, and is mainly intended to get
+you acquainted with Jupyter notebook and check your installation.
 
 ## Starting the assignment
 
@@ -32,5 +32,3 @@ Answers to the open questions must be included in the provided *Markdown* cells.
 
 If you have any trouble starting the notebook, importing the modules, or other issues
 with running the assignment, you can come to one of the practical sessions for assistance.
-
-
