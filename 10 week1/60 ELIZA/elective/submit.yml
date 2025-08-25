@@ -1,4 +1,4 @@
-name: prog_0
+name: prog_0_elec
 files:
     required:
         - Eliza.ipynb

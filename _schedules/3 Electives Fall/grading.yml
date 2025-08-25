@@ -36,28 +36,31 @@ templates:
 
 
 grades:
-    prog_2:
+    prog_0_elec:
+        <<: *automatic
+        deadline: 04/02/25 23:59
+    prog_1_elec:
         <<: *manual
         deadline: 06/09/24 18:00
     writ_1_elec:
         <<: *written
         deadline: 06/09/24 18:00
-    prog_3:
+    prog_2_elec:
         <<: *manual
         deadline: 13/09/24 18:00
-    writ_3:
+    writ_2_elec:
         <<: *written
         deadline: 13/09/24 18:00
-    prog_4:
+    prog_3_elec:
         <<: *manual
         deadline: 23/09/24 18:00
-    writ_4:
+    writ_3_elec:
         <<: *written
         deadline: 23/09/24 18:00
-    prog_5:
+    prog_4_elec:
         <<: *manual
         deadline: 01/10/24 18:00
-    writ_5:
+    writ_4_elec:
         <<: *written
         deadline: 01/10/24 18:00
     prog_5_elec:
@@ -66,7 +69,7 @@ grades:
     writ_5_elec:
         <<: *written
         deadline: 08/10/24 18:00
-    prog_6:
+    prog_6_elec:
         <<: *manual
         deadline: 16/10/24 18:00
     writ_6_elec:
@@ -78,6 +81,7 @@ programming:
     show_progress: false
     show_overview: false
     submits:
+        prog_0_elec: 0
         prog_2: 1
         prog_3: 1
         prog_4: 1
@@ -95,6 +99,18 @@ writing:
         writ_5: 1
         writ_5_elec: 1
         writ_6_elec: 1
+
+calculation:
+    final:
+        programming: 40
+        writing: 20
+        exam: 40
+
+module_0:
+    show_progress: true
+    show_overview: true
+    submits:
+        prog_0_elec: 1
 
 module_1:
     show_progress: true

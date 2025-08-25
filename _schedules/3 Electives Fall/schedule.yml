@@ -11,7 +11,7 @@ Module 1 [2/9/24]:
     Nearest Neighbours: /week2/nearest-neighbours/elective
   Programming Notebook:
     Notebook introduction: /week1/notebooks
-    k-NN classification [submit]: /week2/k-nn-classification
+    k-NN classification [submit]: /week2/k-nn-classification/elective
   Written Assignment:
     Turing's paper [submit]: /week1/turing-test/elective
 Module 2 [7/9/24]:
@@ -21,9 +21,9 @@ Module 2 [7/9/24]:
   Theory Videos:
     Bayes' Rule: /week3/bayes-rule
   Programming Notebook:
-    Naive Bayes [submit]: /week3/naive-bayes
+    Naive Bayes [submit]: /week3/naive-bayes/elective
   Written Assignment:
-    Chinese Room [submit]: /week3/chinese-room
+    Chinese Room [submit]: /week3/chinese-room/elective
 Module 3 [14/9/24]:
   Assistance hours: /modules/m3/elective
   SOWISO:
@@ -31,9 +31,9 @@ Module 3 [14/9/24]:
   Theory Videos:
     Linear Regression: /week4/linear-regression
   Programming Notebook:
-    Gradient Descent [submit]: /week4/gradient-descent
+    Gradient Descent [submit]: /week4/gradient-descent/elective
   Written Assignment:
-    AlphaGo [submit]: /week4/alphago
+    AlphaGo [submit]: /week4/alphago/elective
 Module 4 [24/9/24]:
   Assistance hours: /modules/m4/elective
   SOWISO:
@@ -41,9 +41,9 @@ Module 4 [24/9/24]:
   Theory Videos:
     Multiple Regression: /week5/multiple-regression
   Programming Notebook:
-    Polynomial Regression [submit]: /week5/polynomial-regression
+    Polynomial Regression [submit]: /week5/polynomial-regression/elective
   Written Assignment:
-    Algorithmic Bias [submit]: /week5/algorithmic-bias
+    Algorithmic Bias [submit]: /week5/algorithmic-bias/elective
 Module 5 [2/10/24]:
   Assistance hours: /modules/m5/elective
   Content of this module: /elective/module5
@@ -58,7 +58,7 @@ Module 6 [9/10/24]:
   Theory Videos:
     Unsupervised Learning: /week6/unsupervised-learning
   Programming Notebook:
-    K-means [submit]: /week6/k-means
+    K-means [submit]: /week6/k-means/elective
   Written Assignment:
     Data labeling [submit]: /elective/labeling
 Exam [14/10/24]:
