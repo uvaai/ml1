@@ -116,29 +116,29 @@ module_1:
     show_progress: true
     show_overview: true
     submits:
-        prog_2: 1
+        prog_1_elec: 1
         writ_1_elec: 1
 
 module_2:
     show_progress: true
     show_overview: true
     submits:
-        prog_3: 1
-        writ_3: 1
+        prog_2_elec: 1
+        writ_2_elec: 1
 
 module_3:
     show_progress: true
     show_overview: true
     submits:
-        prog_4: 1
-        writ_4: 1
+        prog_3_elec: 1
+        writ_3_elec: 1
 
 module_4:
     show_progress: true
     show_overview: true
     submits:
-        prog_5: 1
-        writ_5: 1
+        prog_4_elec: 1
+        writ_4_elec: 1
 
 module_5:
     show_progress: true
@@ -151,7 +151,7 @@ module_6:
     show_progress: true
     show_overview: true
     submits:
-        prog_6: 1
+        prog_6_elec: 1
         writ_6_elec: 1
 
 exam:
