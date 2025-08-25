@@ -1,9 +1,9 @@
 Module 0 [1/2/25]:
   Getting Started:
     Read the course syllabus: /syllabus
-    Installation instructions: /week1/notebooks/elective
+    Installation instructions: /elective/module0/install
   SOWISO:
-    Joining SOWISO: /week1/theoretical-probability/elective/join
+    Joining SOWISO: /elective/module0/sowiso
     Probability [optional]: /week1/theoretical-probability/elective
   Notebooks:
     Notebook introduction: /week1/notebooks
@@ -51,16 +51,16 @@ Module 5 [1/3/25]:
   Programming Notebooks:
     Numpy [submit]: /numpy/numpy
     Pandas [submit]: /numpy/pandas
-    Submit your notebooks: /elective/submit
+    Submit your notebooks: /elective/module5/numpy
   Written Assignment:
-    Climate impact [submit]: /elective/climate
+    Climate impact [submit]: /elective/module5/climate
 Module 6 [8/3/25]:
   Theory Videos:
     Unsupervised Learning: /week6/unsupervised-learning
   Programming Notebook:
     K-means [submit]: /week6/k-means/elective
   Written Assignment:
-    Data labeling [submit]: /elective/labeling
+    Data labeling [submit]: /elective/module6/labeling
 Exam [15/3/25]:
   Exam material: /exam/material
   Practice exam: /exam/practice

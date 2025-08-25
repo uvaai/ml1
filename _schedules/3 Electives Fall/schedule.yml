@@ -1,8 +1,16 @@
 Welcome:
     Read the syllabus to get started: /syllabus
+Module 0 [1/2/25]:
+  Getting Started:
+    Read the course syllabus: /syllabus
+    Installation instructions: /elective/module0/install
+  SOWISO:
+    Joining SOWISO: /elective/module0/sowiso
+    Probability [optional]: /week1/theoretical-probability/elective
+  Notebooks:
+    Notebook introduction: /week1/notebooks
+    Chatting with ELIZA [submit]: /week1/eliza/elective
 Module 1 [2/9/24]:
-  Assistance hours: /modules/m1/elective
-  Background survey: /elective/background
   SOWISO:
     Types of Data [optional]: /week2/types-of-data
   Introduction to AI:
@@ -15,7 +23,6 @@ Module 1 [2/9/24]:
   Written Assignment:
     Turing's paper [submit]: /week1/turing-test/elective
 Module 2 [7/9/24]:
-  Assistance hours: /modules/m2/elective
   SOWISO:
     Probability Distributions [optional]: /week3/probability-distributions
   Theory Videos:
@@ -25,7 +32,6 @@ Module 2 [7/9/24]:
   Written Assignment:
     Chinese Room [submit]: /week3/chinese-room/elective
 Module 3 [14/9/24]:
-  Assistance hours: /modules/m3/elective
   SOWISO:
     Gradients [optional]: /week4/gradients
   Theory Videos:
@@ -35,7 +41,6 @@ Module 3 [14/9/24]:
   Written Assignment:
     AlphaGo [submit]: /week4/alphago/elective
 Module 4 [24/9/24]:
-  Assistance hours: /modules/m4/elective
   SOWISO:
     Linear Algebra [optional]: /week5/linear-algebra
   Theory Videos:
@@ -45,22 +50,20 @@ Module 4 [24/9/24]:
   Written Assignment:
     Algorithmic Bias [submit]: /week5/algorithmic-bias/elective
 Module 5 [2/10/24]:
-  Assistance hours: /modules/m5/elective
   Content of this module: /elective/module5
   Programming Notebooks:
     Numpy [submit]: /numpy/numpy
     Pandas [submit]: /numpy/pandas
-    Submit your notebooks: /elective/submit
+    Submit your notebooks: /elective/module5/numpy
   Written Assignment:
-    Climate impact [submit]: /elective/climate
+    Climate impact [submit]: /elective/module5/climate
 Module 6 [9/10/24]:
-  Assistance hours: /modules/m6/elective
   Theory Videos:
     Unsupervised Learning: /week6/unsupervised-learning
   Programming Notebook:
     K-means [submit]: /week6/k-means/elective
   Written Assignment:
-    Data labeling [submit]: /elective/labeling
+    Data labeling [submit]: /elective/module6/labeling
 Exam [14/10/24]:
   Exam material: /exam/material
   Practice exam: /exam/practice
