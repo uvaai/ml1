@@ -38,40 +38,40 @@ templates:
 grades:
     prog_1:
         <<: *manual
-        deadline: 07/02/25 18:00
+        deadline: 05/09/25 18:00
     writ_1:
         <<: *written
-        deadline: 07/02/25 18:00
+        deadline: 05/09/25 18:00
     prog_2:
         <<: *manual
-        deadline: 14/02/25 18:00
+        deadline: 12/09/25 18:00
     writ_2:
         <<: *written
-        deadline: 14/02/25 18:00
+        deadline: 12/09/25 18:00
     prog_3:
         <<: *manual
-        deadline: 21/02/25 18:00
+        deadline: 19/09/25 18:00
     writ_3:
         <<: *written
-        deadline: 21/02/25 18:00
+        deadline: 19/09/25 18:00
     prog_4:
         <<: *manual
-        deadline: 03/03/25 18:00
+        deadline: 29/09/25 18:00
     writ_4:
         <<: *written
-        deadline: 03/03/25 18:00
+        deadline: 29/09/25 18:00
     prog_5:
         <<: *manual
-        deadline: 11/03/25 18:00
+        deadline: 07/10/25 18:00
     writ_5:
         <<: *written
-        deadline: 11/03/25 18:00
+        deadline: 07/10/25 18:00
     prog_6:
         <<: *manual
-        deadline: 19/03/25 18:00
+        deadline: 15/10/25 18:00
     writ_6:
         <<: *written
-        deadline: 19/03/25 18:00
+        deadline: 15/10/25 18:00
     exam: *test
 
 calculation:
