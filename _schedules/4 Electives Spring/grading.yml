@@ -82,21 +82,21 @@ programming:
     show_overview: false
     submits:
         prog_0_elec: 0
-        prog_2: 1
-        prog_3: 1
-        prog_4: 1
-        prog_5: 1
+        prog_1_elec: 1
+        prog_2_elec: 1
+        prog_3_elec: 1
+        prog_4_elec: 1
         prog_5_elec: 1
-        prog_6: 1
+        prog_6_elec: 1
 
 writing:
     show_progress: false
     show_overview: false
     submits:
         writ_1_elec: 1
-        writ_3: 1
-        writ_4: 1
-        writ_5: 1
+        writ_2_elec: 1
+        writ_3_elec: 1
+        writ_4_elec: 1
         writ_5_elec: 1
         writ_6_elec: 1
 
