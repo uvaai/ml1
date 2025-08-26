@@ -38,7 +38,7 @@ on campus full-time.
 Most on-campus activities, including the practical assistance, will generally be
 held in this room. There are some exceptions with activities that do not fit
 in the room, like the group seminars and the exam. The schedule for these
-group seminars can be found on Datanose [here](https://datanose.nl/#course[128439])
+group seminars can be found on Datanose [here](https://datanose.nl/#course[136775])
 
 The schedule for the practical assistance hours that will be held in L0.11 can
 be found in the "Asking Questions" section below.
@@ -65,7 +65,7 @@ look at possible solutions early.
 
 If you are a part-time student, you can just follow the *Inleiding
 Machine Learning* half of the daily schedule. You should still attend the group
-seminars with the other students, as scheduled [here](https://datanose.nl/#course[128439]),
+seminars with the other students, as scheduled [here](https://datanose.nl/#course[136775]),
 but can otherwise choose which of the daily practical assistance slots combine
 best with your own schedule.
 
@@ -79,7 +79,7 @@ registered.
 Depending on how long you were sick, and if you are behind with the module, you
 can then also contact the course staff to discuss an alternate planning for the
 module. Note that this option requires you to have also already messaged your
-TA at the start of your absense. Any exceptions or extensions required for this
+TA at the start of your absence. Any exceptions or extensions required for this
 will need to be discussed with course staff (so not your TA). See the extension
 policy below for more details.
 
@@ -171,7 +171,7 @@ written assignment topics, or some small programming exercises to practice
 with the group. In addition, you can always use these seminars to ask you TA any
 questions you might have about the feedback they gave you as part of the grading for
 the previous module. The schedule for the group seminars can be found on Datanose
-[here](https://datanose.nl/#course[128439])
+[here](https://datanose.nl/#course[136775])
 
 ### Email the staff
 
@@ -181,13 +181,13 @@ of the formats above, you can email the course staff at <ai@proglab.nl>
 
 ## Passing the course
 
-The programming and writing assignment will both be graded on a 1 to 10 scale 
+The programming and writing assignment will both be graded on a 1 to 10 scale
 and at the end of the course an average for both these elements will be
 computed. The SOWISO exercises have automatic feedback, so they will only be
 graded on a *pass/fail* basis. Attendance each week will also be graded
 pass/fail, as described in the *Attendance* section below.
 
-Passing the attendace requirement each week is required to pass the course.
+Passing the attendance requirement each week is required to pass the course.
 Completing each of the SOWISO chapters is also required in order to receive a
 pass for that part. The minimum satisfactory average grade from the
 assignments is a 4.5 and the minimum grade for the exam is also a 4.5. If all

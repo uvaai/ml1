@@ -37,14 +37,11 @@ on campus full-time.
 
 Most on-campus activities, including the practical assistance, will generally be
 held in this room. There are some exceptions with activities that do not fit
-in the room, like the group seminars and the exam. The schedule for the
-group seminars and the practical assistance hours can be found in the
-"Asking Questions" section below.
-
-<!--can be found on Datanose [here](https://datanose.nl/#course[128440])
+in the room, like the group seminars and the exam. The schedule for these
+group seminars can be found on Datanose [here](https://datanose.nl/#course[128440])
 
 The schedule for the practical assistance hours that will be held in L0.10 can
-be found in the "Asking Questions" section below.-->
+be found in the "Asking Questions" section below.
 
 ### Deadlines and daily schedules
 
@@ -68,7 +65,7 @@ look at possible solutions early.
 
 If you are a part-time student, you can just follow the *Inleiding
 Machine Learning* half of the daily schedule. You should still attend the group
-seminars with the other students<!--, as scheduled [here](https://datanose.nl/#course[128440])-->,
+seminars with the other students, as scheduled [here](https://datanose.nl/#course[128440]),
 but can otherwise choose which of the daily practical assistance slots combine
 best with your own schedule.
 
@@ -176,9 +173,8 @@ to improve the style and design of your code, discussing the some of the
 written assignment topics, or some small programming exercises to practice
 with the group. In addition, you can always use these seminars to ask you TA any
 questions you might have about the feedback they gave you as part of the grading for
-the previous module. This semester the group seminars are every **Monday at 11:00**
-in room *L1.11*. <!--The schedule for the group seminars can be found on Datanose
-[here](https://datanose.nl/#course[128439])-->
+the previous module. The schedule for the group seminars can be found on Datanose
+[here](https://datanose.nl/#course[128439])
 
 ### Email the staff
 

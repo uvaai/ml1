@@ -7,15 +7,12 @@ University of Amsterdam / Programming Lab / 50821ITM6Y
 This course serves as an introduction to the basics of machine learning and
 artificial intelligence. It consists of 6 modules, where each of these modules
 is expected to take about one week, and will focus on exploring one or more
-techniques from machine learning. In general, there will be 3 components to
+techniques from machine learning. In general, there will be 4 components to
 each module:
 
 * **Theory videos:** These will mostly introduce the required machine learning concepts for the topics that week.
 * **Programming Notebook:** Here you will implement some of the machine learning algorithms yourself in *Python*.
 * **Written Assignment:** Here you'll read articles or blog posts related to the philosophical and societal implication of ML, and answer questions about them.
-
-In addition, there will be optional foundational material for each module, which you can of course skip, if you're already familiar with the concepts:
-
 * **SOWISO:** An online platform we'll use to introduct foundational mathematical concepts that are the driving force behind a lot of the algorithms we'll explore.
 
 Log in with your UvAnetID and create an account to get access to the modules.
@@ -27,21 +24,23 @@ Tim Doolan (coordinator)
 Wouter Vrielink (teacher)
 
 You can reach us at <ai@proglab.nl> for any practical matters or other
-questions.
-
+questions. Note that any code related questions should always be asked on
+campus during the practical assistance sessions in the main room **L0.11**.
 
 ## Deadlines
 
-The deadlines for each of the 6 modules is listed below. Note that 3 of the
-modules are a bit smaller, so should take one week, while the other 3 modules
-each take 8 days:
+The first module is just a basic notebook introduction, and should already be handed
+in on Tuesday of the first week. The deadlines for the other 6 modules is listed below.
+Note that not all the modules are exactly the same size, so some modules take a little
+less than a week and others a little more. As result, not all deadline will be on the same day:
 
-* **Module 1:** *Friday September 6th at 17:59*
-* **Module 2:** *Friday September 13th at 17:59*
-* **Module 3:** *Monday September 23th at 17:59*
-* **Module 4:** *Tuesday October 1st at 17:59*
-* **Module 5:** *Tuesday October 8th at 17:59*
-* **Module 6:** *Wednesday October 16th at 17:59*
+* **Module 0:** *Tuesday September 2nd at 23:59*
+* **Module 1:** *Monday September 8th at 23:59*
+* **Module 2:** *Monday September 15th at 23:59*
+* **Module 3:** *Tuesday September 23rd at 23:59*
+* **Module 4:** *Thursday October 2nd at 23:59*
+* **Module 5:** *Thursday October 9th at 23:59*
+* **Module 6:** *Friday October 17th at 23:59*
 
 ### Absences and calling in sick
 
@@ -79,7 +78,7 @@ deadline without a requested late day will not be graded, meaning your grade
 will default to a 1.
 
 You can use only 1 late day per module to get a 24 hour extension on the
-deadline.  This extension is for the whole module, so applies to all submits
+deadline. This extension is for the whole module, so applies to all submits
 for the course. If the deadline is on a Friday, using a single late day will
 instead grant a 48 hour extension over the weekend, meaning your deadline will
 move to Sunday. If you have used both late days, or require more than 24 hours
@@ -91,30 +90,45 @@ If you do not receive a reply in time, you should *always* still submit your
 current version of the assignment before the deadline, so this part can still be
 graded. Staff extension requests should be emailed to <ai@proglab.nl>
 
-## Practical assistance
+## Lectures & practical assistance
 
-There are 4 slots of 2.5 hours scheduled every week for practical assistance,
-where you can ask any questions to the TA's of the minor. During these hours
+This course has one introductory lecture, but the rest of the classes consist of
+frequent opportunities to come and ask questions during practical assistance hours.
+During these hours you can ask any questions to the TA's and lecturers of the course,
+and get additional explanations, either individually or in small groups.
+
+Questions can be about any part of the course, including explanation of the theory
+for that module or help with solving bugs in the assignments. On *Thursdays* the
+lecturers of the course will also be present, so you can ask any more advanced
+questions you might have. Note that these moments are intended to really replace the
+lectures, so please do come and use these opportunities to get more explanation
+on the material or ask in-depth questions if you have them.
+
+During the practical assistance hours
 you can use the "Assistance" feature on the main [minor AI website](https://minai.proglab.nl/),
 using the question mark symbol in the top right corner of that page. Please use
 this feature instead of raising your hand in class, as it ensures that all
 questions get handled in the order that they are asked. Questions can of be
 about any part of the course, just make sure to mention what assignment
 you're working on. For your location, please list the table you are working at,
-so the TA handling your question knows where to find you when it is your turn.
+so the staff member handling your question knows where to find you when it is your turn.
 
-### Scheduling practical assistance
+### Practical assistance schedule
 
+There are 5 slots of 3 hours scheduled every week for practical assistance.
 All practical assistance will be in the main room of the minor AI, **L0.11** in
 the Lab42 building of Science Park, and will be scheduled as follows:
 
-* On Mondays from 13:30 to 16:00
-* On Tuesdays, Wednesdays, and Thursdays from 10:00 to 12:30
+* Monday 10:00 to 13:00
+* Tuesday 14:00 to 17:00
+* Wednesday 14:00 to 17:00
+* Thursday 14:00 to 17:00 *Lecturer Q&A*
+* Friday 14:00 to 17:00
 
-Each module will have a form were you can select up to 2 days where you plan to
-attend the practical assistance for that module. Note that if you did not select
-a day, there might not be space in the room for you to ask questions, so make sure
-to fill in the form at the start of each module.
+You may join any of these scheduled slots to ask your questions. Note that attendance
+might be taken during the practicals, even though attendance is not mandatory. This is
+mainly to monitor the usage of each of the sessions, and ensure there is enough space
+and assistance for those present.
 
 ### TA Slack
 

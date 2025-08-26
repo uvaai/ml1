@@ -7,15 +7,12 @@ University of Amsterdam / Programming Lab / 50821ITM6Y
 This course serves as an introduction to the basics of machine learning and
 artificial intelligence. It consists of 6 modules, where each of these modules
 is expected to take about one week, and will focus on exploring one or more
-techniques from machine learning. In general, there will be 3 components to
+techniques from machine learning. In general, there will be 4 components to
 each module:
 
 * **Theory videos:** These will mostly introduce the required machine learning concepts for the topics that week.
 * **Programming Notebook:** Here you will implement some of the machine learning algorithms yourself in *Python*.
 * **Written Assignment:** Here you'll read articles or blog posts related to the philosophical and societal implication of ML, and answer questions about them.
-
-In addition, there will be optional foundational material for each module, which you can of course skip, if you're already familiar with the concepts:
-
 * **SOWISO:** An online platform we'll use to introduct foundational mathematical concepts that are the driving force behind a lot of the algorithms we'll explore.
 
 Log in with your UvAnetID and create an account to get access to the modules.
@@ -27,8 +24,8 @@ Tim Doolan (coordinator)
 Wouter Vrielink (teacher)
 
 You can reach us at <ai@proglab.nl> for any practical matters or other
-questions.
-
+questions. Note that any code related questions should always be asked on
+campus during the practical assistance sessions in the main room **L0.10**.
 
 ## Deadlines
 
@@ -93,15 +90,19 @@ If you do not receive a reply in time, you should *always* still submit your
 current version of the assignment before the deadline, so this part can still be
 graded. Staff extension requests should be emailed to <ai@proglab.nl>
 
-## Practical assistance
+## Lectures & practical assistance
 
 This course has one introductory lecture, but the rest of the classes consist of
 frequent opportunities to come and ask questions during practical assistance hours.
-During these hours you can ask any questions to the TA's and teachers of the course,
-so consider these moments to also really replace the lectures with opportunities for
-additional explanation, either individually or in small groups. Questions can be
-about any part of the course, including further explanation of the theory for that
-module or help with solving bugs in the assignments.
+During these hours you can ask any questions to the TA's and lecturers of the course,
+and get additional explanations, either individually or in small groups.
+
+Questions can be about any part of the course, including explanation of the theory
+for that module or help with solving bugs in the assignments. On *Thursdays* the
+lecturers of the course will also be present, so you can ask any more advanced
+questions you might have. Note that these moments are intended to really replace the
+lectures, so please do come and use these opportunities to get more explanation
+on the material or ask in-depth questions if you have them.
 
 During the practical assistance hours
 you can use the "Assistance" feature on the main [minor AI website](https://minai.proglab.nl/),
@@ -114,18 +115,18 @@ so the staff member handling your question knows where to find you when it is yo
 
 ### Practical assistance schedule
 
-There are 5 slots of 2.5 hours scheduled every week for practical assistance.
+There are 5 slots of 3 hours scheduled every week for practical assistance.
 All practical assistance will be in the main room of the minor AI, **L0.10** in
 the Lab42 building of Science Park, and will be scheduled as follows:
 
-* Monday 13:30 to 16:00
-* Tuesday 10:00 to 12:30
-* Wednesday 10:00 to 12:30
-* Thursday 10:00 to 12:30
-* Friday 13:30 to 16:00
+* Monday 10:00 to 13:00
+* Tuesday 14:00 to 17:00
+* Wednesday 14:00 to 17:00
+* Thursday 14:00 to 17:00 *Lecturer Q&A*
+* Friday 14:00 to 17:00
 
 You may join any of these scheduled slots to ask your questions. Note that attendance
-will be taken during the practicals, even though attendance is not mandatory. This is
+might be taken during the practicals, even though attendance is not mandatory. This is
 mainly to monitor the usage of each of the sessions, and ensure there is enough space
 and assistance for those present.
 
