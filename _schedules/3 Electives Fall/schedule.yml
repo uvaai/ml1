@@ -1,18 +1,13 @@
-Welcome:
-    Read the syllabus to get started: /syllabus
 Module 0 [30/8/25]:
   Getting Started:
     Read the course syllabus: /syllabus
-    Installation instructions: /elective/module0/install
-  SOWISO:
-    Joining SOWISO: /elective/module0/sowiso
-    Probability [optional]: /week1/theoretical-probability/elective
+    Installation instructions: /elective/install
   Notebooks:
     Notebook introduction: /week1/notebooks
     Chatting with ELIZA [submit]: /week1/eliza/elective
-Module 1 [1/9/25]:
   SOWISO:
-    Types of Data [optional]: /week2/types-of-data
+    Joining SOWISO: /elective/sowiso/join
+Module 1 [1/9/25]:
   Introduction to AI:
     Elements of AI: /week1/elements-of-ai/elective
   Theory Videos:
@@ -22,27 +17,27 @@ Module 1 [1/9/25]:
     k-NN classification [submit]: /week2/k-nn-classification/elective
   Written Assignment:
     Turing's paper [submit]: /week1/turing-test/elective
+  SOWISO: 
+    Probability: /elective/sowiso/module1
 Module 2 [6/9/25]:
-  SOWISO:
-    Probability Distributions [optional]: /week3/probability-distributions
   Theory Videos:
     Bayes' Rule: /week3/bayes-rule
   Programming Notebook:
     Naive Bayes [submit]: /week3/naive-bayes/elective
   Written Assignment:
     Chinese Room [submit]: /week3/chinese-room/elective
-Module 3 [13/9/25]:
   SOWISO:
-    Gradients [optional]: /week4/gradients
+    Gradients: /elective/sowiso/module2
+Module 3 [13/9/25]:
   Theory Videos:
     Linear Regression: /week4/linear-regression
   Programming Notebook:
     Gradient Descent [submit]: /week4/gradient-descent/elective
   Written Assignment:
     AlphaGo [submit]: /week4/alphago/elective
-Module 4 [20/9/25]:
   SOWISO:
-    Linear Algebra [optional]: /week5/linear-algebra
+    Linear Algebra: /week5/linear-algebra
+Module 4 [20/9/25]:
   Theory Videos:
     Multiple Regression: /week5/multiple-regression
   Programming Notebook:
@@ -57,6 +52,8 @@ Module 5 [27/9/25]:
     Submit your notebooks: /elective/module5/numpy
   Written Assignment:
     Climate impact [submit]: /elective/module5/climate
+  SOWISO:
+    Exponentials and Logarithms: /week6/exponentials-and-logarithms
 Module 6 [4/10/25]:
   Theory Videos:
     Unsupervised Learning: /week6/unsupervised-learning
