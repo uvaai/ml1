@@ -122,7 +122,7 @@ the Lab42 building of Science Park, and will be scheduled as follows:
 * Monday 10:00 to 13:00
 * Tuesday 14:00 to 17:00
 * Wednesday 14:00 to 17:00
-* Thursday 14:00 to 17:00 *Lecturer Q&A*
+* Thursday 14:00 to 17:00 *- Lecturer Q&A*
 * Friday 14:00 to 17:00
 
 You may join any of these scheduled slots to ask your questions. Note that attendance
