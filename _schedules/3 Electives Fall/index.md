@@ -2,7 +2,7 @@
 
 University of Amsterdam / Programming Lab / 50821ITM6Y
 
-## Syllabus<br><small>Fall 2024</small>
+## Syllabus<br><small>Fall 2025</small>
 
 This course serves as an introduction to the basics of machine learning and
 artificial intelligence. It consists of 6 modules, where each of these modules
