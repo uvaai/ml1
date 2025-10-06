@@ -47,7 +47,7 @@ Consider the univariate regression data above. The green dots are the training s
 
 ## 7. Polynomial Cost
 
-The follow equations define the polynomial feature expansion, prediction and cost of polynomial regression model.
+The following equations define the polynomial feature expansion, prediction and cost of polynomial regression model.
 
 ![](data/poly_eq.png)
 

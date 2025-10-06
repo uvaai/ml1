@@ -31,11 +31,11 @@ optimize the cost function of some model.
 ## Allowed tools
 
 For the exam you are allowed to use a pen, pencils, eraser, ruler and a
-calculator. The ruler and pencil will be useful for questions that require
+**calculator**. The ruler and pencil will be useful for questions that require
 drawing or plotting of graphs and the calculator for any questions that
 require computation. Note that if you bring a graphical calculator to the
 exam, you might be asked to show any additional programs on the calculator
-(only relevant if you've added programs your graphical calculator).
+(only relevant if you've added programs to your graphical calculator).
 
 ## Additional material
 
