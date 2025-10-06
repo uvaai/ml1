@@ -36,7 +36,7 @@ The figure above shows 3 different linear regression models, for the same 5 data
 * Explain why the point where the gradient of the cost is exactly 0 in both directions, is the also best possible value of $$a$$ and $$b$$ for the data set.
 * Explain what the learning rate is and what it does in gradient descent.
 
-## 6. Polynomial Regression
+## 6. Polynomial Fit
 
 ![](data/poly_v2.png)
 Consider the univariate regression data above. The green dots are the training samples, the red triangles are the validation samples and the blue line represents the learned hypothesis. The each model is learned using polynomial regression, using a different polynomial degree, which is indicated above the each plot by the $$k$$ parameter.
@@ -45,7 +45,29 @@ Consider the univariate regression data above. The green dots are the training s
 * For each of the three plots, indicate whether the model underfits, overfits or fits well. For each of your three answers, explain what parts of the plot indicate that type of fit.
 * For each plot separately, answers the following question: What are the dimensions of the training data matrix after the polynomial feature expansion is applied?
 
-## 7. k-Means
+## 7. Polynomial Cost
+
+The follow equations define the polynomial feature expansion, prediction and cost of polynomial regression model.
+
+![](data/poly_eq.png)
+
+You'll be applying this model to a simple data set consisting of 3 points and using the following starting values for $\mathbf{w}$ and $b$.
+
+![](data/poly_data.png)
+
+* Write out the polynomial feature expansion matrix $X$ for a quadratic (2nd degree) model.
+* Write out the prediction vector $\mathbf{\hat{y}$ using the provided starting values for $\mathbf{w}$ and $b$.
+* Compute the cost for the prediction vector $\mathbf{\hat{y}$ from the previous question.
+
+***Note:*** *The real exam might also contain computation questions, so you can (and should) bring a calculator to the exam.
+
+* Draw the 3 data points in a plot and draw in what you think the final fitted quadratic model would look like *after* performing gradient descent.
+Your line for the model does not need to be exact, but the rough shape should match the type of the model.
+
+***Note:*** *The real exam might also contain questions that require you to draw plots, so you can (and should) bring a pencil and ruler to the exam.
+
+
+## 8. k-Means
 
 ![](data/mickey_data_v3.png)
 The figure above shows a data set that is being clustered using the k-means algorithm. The data is indicated by dots, and the current means are indicated by red triangles.
