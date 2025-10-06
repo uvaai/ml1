@@ -51,20 +51,20 @@ The follow equations define the polynomial feature expansion, prediction and cos
 
 ![](data/poly_eq.png)
 
-You'll be applying this model to a simple data set consisting of 3 points and using the following starting values for $\mathbf{w}$ and $b$.
+You'll be applying this model to a simple data set consisting of 3 points and using the following starting values for $$\mathbf{w}$$ and $$b$$.
 
 ![](data/poly_data.png)
 
-* Write out the polynomial feature expansion matrix $X$ for a quadratic (2nd degree) model.
-* Write out the prediction vector $\mathbf{\hat{y}$ using the provided starting values for $\mathbf{w}$ and $b$.
-* Compute the cost for the prediction vector $\mathbf{\hat{y}$ from the previous question.
+* Write out the polynomial feature expansion matrix $X$ for a quadratic ($$2^{nd}\ degree$$) model.
+* Write out the prediction vector $$\mathbf{\hat{y}$$ using the provided starting values for $$\mathbf{w}$$ and $$b$$.
+* Compute the cost for the prediction vector $$\mathbf{\hat{y}$$ from the previous question.
 
-***Note:*** *The real exam might also contain computation questions, so you can (and should) bring a calculator to the exam.
+***Note:*** *The real exam might also contain computation questions, so you can (and should) bring a calculator to the exam.*
 
 * Draw the 3 data points in a plot and draw in what you think the final fitted quadratic model would look like *after* performing gradient descent.
 Your line for the model does not need to be exact, but the rough shape should match the type of the model.
 
-***Note:*** *The real exam might also contain questions that require you to draw plots, so you can (and should) bring a pencil and ruler to the exam.
+***Note:*** *The real exam might also contain questions that require you to draw plots, so you can (and should) bring a pencil and ruler to the exam.*
 
 
 ## 8. k-Means
