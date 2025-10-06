@@ -55,9 +55,9 @@ You'll be applying this model to a simple data set consisting of 3 points and us
 
 ![](data/poly_data.png)
 
-* Write out the polynomial feature expansion matrix $X$ for a quadratic ($$2^{nd}\ degree$$) model.
-* Write out the prediction vector $$\mathbf{\hat{y}$$ using the provided starting values for $$\mathbf{w}$$ and $$b$$.
-* Compute the cost for the prediction vector $$\mathbf{\hat{y}$$ from the previous question.
+* Write out the polynomial feature expansion matrix $X$ for a quadratic (2nd degree) model.
+* Write out the prediction vector $$\mathbf{\hat{y}}$$ using the provided starting values for $$\mathbf{w}$$ and $$b$$.
+* Compute the cost for the prediction vector $$\mathbf{\hat{y}}$$ from the previous question.
 
 ***Note:*** *The real exam might also contain computation questions, so you can (and should) bring a calculator to the exam.*
 
