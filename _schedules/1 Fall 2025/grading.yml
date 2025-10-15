@@ -66,7 +66,7 @@ grades:
     writ_5:
         <<: *written
         deadline: 07/10/25 18:00
-    prog_6:
+    prog_6_elec:
         <<: *manual
         deadline: 15/10/25 18:00
     writ_6:
@@ -89,7 +89,7 @@ programming:
         prog_3: 1
         prog_4: 1
         prog_5: 1
-        prog_6: 1
+        prog_6_elec: 1
 
 writing:
     show_progress: false
