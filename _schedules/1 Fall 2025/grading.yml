@@ -141,7 +141,7 @@ module_6:
     show_progress: true
     show_overview: true
     submits:
-        prog_6: 1
+        prog_6_elec: 1
         writ_6: 1
 
 exam:
