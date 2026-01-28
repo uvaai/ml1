@@ -12,7 +12,7 @@ Navigate the terminal to the folder where you downloaded the assignment file.
 To open the notebook, activate the `minai` environment and start the notebook
 server:
 
-    jupyter nbclassic
+    jupyter notebook
 
 *Note:* If you close and reopen the assignment notebook, then the `nltk`
 imports and all the code you ran will no longer be in memory. You will have to

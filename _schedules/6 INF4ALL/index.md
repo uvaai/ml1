@@ -20,24 +20,24 @@ components to each module:
 - Wouter Vrielink (teacher)
 
 You can reach us at <ai@proglab.nl> or through Slack for any practical matters
-or other questions. Please pre-fix the subject of your email with "inf4all".
+or other questions. *Please pre-fix the subject of your email with* "inf4all".
 
 ## Schedule
 
 | **datum**          	| **tijd**              	| **activiteit**                      	| **deadline** 	|
 |--------------------	|-----------------------	|-------------------------------------	|--------------	|
-| 07 februari        	| 10:00                 	| Introductie en installatie          	|              	|
-| 21 februari        	| 10:00                 	| Formules naar code + Turing's paper 	| Module 1     	|
-| 07 maart           	| 10:00                 	| k-NN + Style & Design + Code review 	| Module 2     	|
-| 21 maart           	| 10:00                 	| Naive Bayes + Chinese room + GPT/LLMs | Module 3     	|
-| 4 april            	| 10:00                 	| Regression + AlphaGo                	|      	        |
-| 11 april           	| **GEEN LES**          	| **ALLEEN DEADLINE**                  	| Module 4     	|
-| 25 april           	| 10:00                 	| Multivariate/Polynomial Regression  	|              	|
-| 9 mei              	| **GEEN LES**          	| **ALLEEN DEADLINE** Vrije week UvA   	| Module 5     	|
-| 23 mei             	| 10:00                 	| K-means + Distance Functions        	|              	|
-| 6 juni             	| **GEEN LES**          	| **ALLEEN DEADLINE**                 	| Module 6     	|
-| 13 juni           	| 10:00                 	| Voorbespreking tentamen             	|             	|
-| 27 juni            	| 10:00                 	| Tentamen                            	|              	|
+| 06 februari        	| 10:00                 	| Introductie en installatie          	|              	|
+| 20 februari        	| 10:00                 	| Formules naar code + Turing's paper 	| Module 1     	|
+| 06 maart           	| 10:00                 	| k-NN + Style & Design + Code review 	| Module 2     	|
+| 20 maart           	| 10:00                 	| Naive Bayes + Chinese room + GPT/LLMs | Module 3     	|
+| 10 april            	| 10:00                 	| Regression + AlphaGo                	|      	        |
+<!-- | 11 april           	| **GEEN LES**          	| **ALLEEN DEADLINE**                  	| Module 4     	| -->
+| 24 april           	| 10:00                 	| Multivariate/Polynomial Regression  	|              	|
+| 8 mei              	| 10:00        	|    	| Module 5     	|
+| 29 mei             	| 10:00                 	| K-means + Distance Functions        	|              	|
+<!-- | 6 juni             	| **GEEN LES**          	| **ALLEEN DEADLINE**                 	| Module 6     	| -->
+| 12 juni           	| 10:00                 	| Voorbespreking tentamen             	|             	|
+| 26 juni            	| 10:00                 	| Tentamen                            	|              	|
 
 ### Deadlines
 

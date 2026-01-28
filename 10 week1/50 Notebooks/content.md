@@ -14,7 +14,7 @@ Download the introduction file below.
 Open your terminal in the directory where you downloaded the file, make sure
 your `minai` (or `ml1`) environment is active, and run the command
 
-    jupyter nbclassic
+    jupyter notebook
 
 This will print some information about the *Notebook* server in the terminal,
 and open a web browser to the URL of the web application. By default this is
