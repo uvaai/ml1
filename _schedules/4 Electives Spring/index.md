@@ -34,13 +34,13 @@ in on Tuesday of the first week. The deadlines for the other 6 modules is listed
 Note that not all the modules are exactly the same size, so some modules take a little
 less than a week and others a little more. As result, not all deadline will be on the same day:
 
-* **Module 0:** *Tuesday February 4th at 23:59*
-* **Module 1:** *Monday February 10th at 23:59*
-* **Module 2:** *Monday February 17th at 23:59*
-* **Module 3:** *Tuesday February 25th at 23:59*
-* **Module 4:** *Thursday March 6th at 23:59*
-* **Module 5:** *Thursday March 13th at 23:59*
-* **Module 6:** *Friday March 21st at 23:59*
+* **Module 0:** *Tuesday February 3rd at 23:59*
+* **Module 1:** *Monday February 9th at 23:59*
+* **Module 2:** *Monday February 16th at 23:59*
+* **Module 3:** *Tuesday February 24th at 23:59*
+* **Module 4:** *Thursday March 5th at 23:59*
+* **Module 5:** *Thursday March 12th at 23:59*
+* **Module 6:** *Friday March 20th at 23:59*
 
 ### Absences and calling in sick
 
@@ -119,11 +119,11 @@ There are 5 slots of 3 hours scheduled every week for practical assistance.
 All practical assistance will be in the main room of the minor AI, **L0.10** in
 the Lab42 building of Science Park, and will be scheduled as follows:
 
-* Monday 10:00 to 13:00
-* Tuesday 14:00 to 17:00
-* Wednesday 14:00 to 17:00
-* Thursday 14:00 to 17:00 *- Lecturer Q&A*
-* Friday 14:00 to 17:00
+* Monday 14:00 to 17:00
+* Tuesday 10:00 to 13:00
+* Wednesday 10:00 to 13:00
+* Thursday 10:00 to 13:00 *- Lecturer Q&A*
+* Friday 10:00 to 13:00
 
 You may join any of these scheduled slots to ask your questions. Note that attendance
 might be taken during the practicals, even though attendance is not mandatory. This is

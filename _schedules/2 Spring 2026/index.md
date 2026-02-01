@@ -2,7 +2,7 @@
 
 University of Amsterdam / Programming Lab / 50821ITM6Y
 
-## Syllabus<br><small>Spring 2025</small>
+## Syllabus<br><small>Spring 2026</small>
 
 This course serves as an introduction to the basics of machine learning and
 artificial intelligence. It consists of 6 modules, where each of these modules
@@ -38,7 +38,7 @@ on campus full-time.
 Most on-campus activities, including the practical assistance, will generally be
 held in this room. There are some exceptions with activities that do not fit
 in the room, like the group seminars and the exam. The schedule for these
-group seminars can be found on Datanose [here](https://datanose.nl/#course[128440])
+group seminars can be found on Datanose [here](https://datanose.nl/#course[136776])
 
 The schedule for the practical assistance hours that will be held in L0.10 can
 be found in the "Asking Questions" section below.
@@ -65,7 +65,7 @@ look at possible solutions early.
 
 If you are a part-time student, you can just follow the *Inleiding
 Machine Learning* half of the daily schedule. You should still attend the group
-seminars with the other students, as scheduled [here](https://datanose.nl/#course[128440]),
+seminars with the other students, as scheduled [here](https://datanose.nl/#course[136776]),
 but can otherwise choose which of the daily practical assistance slots combine
 best with your own schedule.
 
@@ -125,7 +125,7 @@ and get assistance.
 
 ### Practical assistance
 
-There are 2.5 hours scheduled every day where you can ask practical questions
+There are 3 hours scheduled every day where you can ask practical questions
 to the TA's of the minor. During these hours you can use the "Assistance"
 feature on the main [minor AI website](https://minai.proglab.nl/), using the
 question mark symbol in the top right corner of that page. Please use this
@@ -137,11 +137,8 @@ TA handling your question knows where to find you when it is your turn.
 
 The hours are scheduled as follows:
 
-* Monday 13:30 to 16:00
-* Tuesday 10:00 to 12:30
-* Wednesday 10:00 to 12:30
-* Thursday 10:00 to 12:30
-* Friday 13:30 to 16:00
+* In general, assistance hours are from 10:00 to 13:00
+* On Mondays there are group seminars in the morning, so the assistance hours are from 14:00 to 17:00 instead.
 
 ### Office hours
 
@@ -174,7 +171,7 @@ written assignment topics, or some small programming exercises to practice
 with the group. In addition, you can always use these seminars to ask you TA any
 questions you might have about the feedback they gave you as part of the grading for
 the previous module. The schedule for the group seminars can be found on Datanose
-[here](https://datanose.nl/#course[128439])
+[here](https://datanose.nl/#course[136776])
 
 ### Email the staff
 
