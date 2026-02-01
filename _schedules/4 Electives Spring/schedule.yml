@@ -1,4 +1,4 @@
-Module 0 [1/2/25]:
+Module 0 [1/2/26]:
   Getting Started:
     Read the course syllabus: /syllabus
     Installation instructions: /elective/install
@@ -7,7 +7,7 @@ Module 0 [1/2/25]:
     Chatting with ELIZA [submit]: /week1/eliza/elective
   SOWISO:
     Joining SOWISO: /elective/sowiso/join
-Module 1 [3/2/25]:
+Module 1 [2/2/26]:
   Introduction to AI:
     Elements of AI: /week1/elements-of-ai/elective
   Theory Videos:
@@ -18,7 +18,7 @@ Module 1 [3/2/25]:
     Turing's paper [submit]: /week1/turing-test/elective
   SOWISO:
     Probability: /elective/sowiso/module1
-Module 2 [8/2/25]:
+Module 2 [7/2/26]:
   Theory Videos:
     Bayes' Rule: /week3/bayes-rule
   Programming Notebook:
@@ -27,7 +27,7 @@ Module 2 [8/2/25]:
     Chinese Room [submit]: /week3/chinese-room/elective
   SOWISO:
     Gradients: /elective/sowiso/module2
-Module 3 [15/2/25]:
+Module 3 [14/2/26]:
   Theory Videos:
     Linear Regression: /week4/linear-regression/elective
   Programming Notebook:
@@ -36,14 +36,14 @@ Module 3 [15/2/25]:
     AlphaGo [submit]: /week4/alphago
   SOWISO:
     Linear Algebra: /week5/linear-algebra
-Module 4 [22/2/25]:
+Module 4 [21/2/26]:
   Theory Videos:
     Multiple Regression: /week5/multiple-regression
   Programming Notebook:
     Polynomial Regression [submit]: /week5/polynomial-regression/elective
   Written Assignment:
     Algorithmic Bias [submit]: /week5/algorithmic-bias/elective
-Module 5 [1/3/25]:
+Module 5 [28/2/26]:
   Content of this module: /elective/module5
   Programming Notebooks:
     Numpy [submit]: /numpy/numpy
@@ -53,13 +53,13 @@ Module 5 [1/3/25]:
     Climate impact [submit]: /elective/module5/climate
   SOWISO:
     Exponentials and Logarithms: /week6/exponentials-and-logarithms
-Module 6 [8/3/25]:
+Module 6 [7/3/26]:
   Theory Videos:
     Unsupervised Learning: /week6/unsupervised-learning
   Programming Notebook:
     K-means [submit]: /week6/k-means/elective
   Written Assignment:
     Data labeling [submit]: /elective/module6/labeling
-Exam [15/3/25]:
+Exam [14/3/26]:
   Exam material: /exam/material
   Practice exam: /exam/practice
