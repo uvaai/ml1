@@ -7,7 +7,7 @@ you acquainted with Jupyter notebook and check your installation.
 
 ## Starting the assignment
 
-The programming notebook can be downloaded [here](data/Eliza.ipynb).
+The programming notebook can be downloaded [here](../data/Eliza.ipynb).
 (Right-click >> Save Link As >> Type of file: All Files)
 
 Navigate the terminal to the folder where you downloaded the assignment file.

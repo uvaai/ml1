@@ -103,8 +103,8 @@ writing:
 calculation:
     final:
         programming: 40
-        writing: 20
-        exam: 40
+        writing: 10
+        exam: 50
 
 module_0:
     show_progress: true
