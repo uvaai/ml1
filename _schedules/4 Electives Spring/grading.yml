@@ -38,43 +38,43 @@ templates:
 grades:
     prog_0_elec:
         <<: *automatic
-        deadline: 04/02/25 23:59
+        deadline: 03/02/26 23:59
     prog_1_elec:
         <<: *manual
-        deadline: 10/02/25 23:59
+        deadline: 09/02/26 23:59
     writ_1_elec:
         <<: *written
-        deadline: 10/02/25 23:59
+        deadline: 09/02/26 23:59
     prog_2_elec:
         <<: *manual
-        deadline: 17/02/25 23:59
+        deadline: 16/02/26 23:59
     writ_2_elec:
         <<: *written
-        deadline: 17/02/25 23:59
+        deadline: 16/02/26 23:59
     prog_3_elec:
         <<: *manual
-        deadline: 25/02/25 23:59
+        deadline: 24/02/26 23:59
     writ_3_elec:
         <<: *written
-        deadline: 25/02/25 23:59
+        deadline: 24/02/26 23:59
     prog_4_elec:
         <<: *manual
-        deadline: 06/03/25 23:59
+        deadline: 05/03/26 23:59
     writ_4_elec:
         <<: *written
-        deadline: 06/03/25 23:59
+        deadline: 05/03/26 23:59
     prog_5_elec:
         <<: *manual
-        deadline: 13/03/25 23:59
+        deadline: 12/03/26 23:59
     writ_5_elec:
         <<: *written
-        deadline: 13/03/25 23:59
+        deadline: 12/03/26 23:59
     prog_6_elec:
         <<: *manual
-        deadline: 21/03/25 23:59
+        deadline: 20/03/26 23:59
     writ_6_elec:
         <<: *written
-        deadline: 21/03/25 23:59
+        deadline: 20/03/26 23:59
     exam: *test
 
 programming:

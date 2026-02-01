@@ -1,4 +1,4 @@
-name: prog_6
+name: prog_6_elec
 files:
     required:
         - k_means.ipynb
