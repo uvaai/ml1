@@ -30,12 +30,12 @@ or other questions. *Please pre-fix the subject of your email with* "inf4all".
 | 20 februari        	| 10:00                 	| Formules naar code + Turing's paper 	| Module 1     	|
 | 06 maart           	| 10:00                 	| k-NN + Style & Design + Code review 	| Module 2     	|
 | 20 maart           	| 10:00                 	| Naive Bayes + Chinese room + GPT/LLMs | Module 3     	|
-| 10 april            	| 10:00                 	| Regression + AlphaGo                	|      	        |
-<!-- | 11 april           	| **GEEN LES**          	| **ALLEEN DEADLINE**                  	| Module 4     	| -->
-| 24 april           	| 10:00                 	| Multivariate/Polynomial Regression  	|              	|
-| 8 mei              	| 10:00        	|    	| Module 5     	|
+| 10 april            | 10:00                 	| Regression + AlphaGo                	|      	        |
+| 17 april           	| **GEEN LES**          	| **ALLEEN DEADLINE**                  	| Module 4     	|
+| 24 april           	| 10:00                 	| Multivariate/Polynomial Regression  	|             	|
+| 8 mei              	| **GEEN LES**           	| **ALLEEN DEADLINE**                 	| Module 5    	|
 | 29 mei             	| 10:00                 	| K-means + Distance Functions        	|              	|
-<!-- | 6 juni             	| **GEEN LES**          	| **ALLEEN DEADLINE**                 	| Module 6     	| -->
+| 6 juni             	| **GEEN LES**          	| **ALLEEN DEADLINE**                 	| Module 6     	|
 | 12 juni           	| 10:00                 	| Voorbespreking tentamen             	|             	|
 | 26 juni            	| 10:00                 	| Tentamen                            	|              	|
 
@@ -98,9 +98,7 @@ include making an alternative planning for the module. If any circumstances
 arise that would make it hard for you to make the deadline, send us a message
 so we can discuss your situation. Please do this as soon as the problem arises,
 rather than on the day of deadline, so we can schedule a meeting and still have
-room in the module for an alternative planning. Note that a meeting does not
-always guarantee an extension, as this might still depend on the details of
-your circumstances.
+room in the module for an alternative planning.
 
 Any staff extension request needs to be agreed upon before the deadline expires,
 which means your request must be sent at least 2 hours before the actual deadline.
@@ -159,7 +157,7 @@ The remainder of your grade is determined as follows:
 ### Writing Grades
 
 The writing assignments for this course might be different from writing
-assignments you've done previously. We'll start by outlining the
+assignments you've done in your own studies. We'll start by outlining the
 basic concept, in order to avoid confusion of what you are exactly graded on.
 
 The most important aspect of your writing assignments is to show you've read
@@ -211,7 +209,7 @@ so instead of learning and considering all the possibilities, you just end up
 trying to recreate the solution you already saw. As there usually quite a few
 different ways to solve programming problems, this can even end up with code
 that is similar enough in structure that it is caught by our automated
-plagiarism detector.
+plagiarism detection.
 
 ### Helping other students
 
