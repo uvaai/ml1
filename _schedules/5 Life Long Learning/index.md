@@ -14,9 +14,9 @@ each module:
 * **Programming Notebook:** Here you will implement some of the machine learning algorithms yourself in *Python*.
 * **Written Assignment:** Here you'll read articles or blog posts related to the philosophical and societal implication of ML, and answer questions about them.
 
-In addition, there will be optional foundational material for each module, which you can of course skip, if you're already familiar with the concepts:
+In addition, there will be optional foundational material for each module, which you can of course skip if you're already familiar with the concepts:
 
-* **SOWISO:** An online platform we'll use to introduct foundational mathematical concepts that are the driving force behind a lot of the algorithms we'll explore.
+* **SOWISO:** An online platform we'll use to introduce foundational mathematical concepts that are the driving force behind a lot of the algorithms we'll explore.
 
 Log in with your email and create an account to get access to the modules.
 
@@ -27,19 +27,19 @@ Tim Doolan (coordinator)
 Wouter Vrielink (teacher)
 
 You can reach us at <ai@proglab.nl> for any practical matters or other
-questions.
+questions. *Please pre-fix the subject of your email with* "LLL ML1".
 
 
 ## Deadlines
 
 The deadlines for each of the 4 modules is listed below. Note that the first 2
 modules are smaller, so should take 2 weeks, while the last 2 modules both take
-3 weeks:
+more time (about 3 weeks):
 
-* **Module 1:** *Sunday October 13th at 23:59*
-* **Module 2:** *Sunday October 27th at 23:59*
-* **Module 3:** *Sunday November 17th at 23:59*
-* **Module 4:** *Sunday December 8th at 23:59*
+* **Module 1:** *Sunday March 22nd at 23:59*
+* **Module 2:** *Sunday April 5th at 23:59*
+* **Module 3:** *Sunday April 26th at 23:59*
+* **Module 4:** *Sunday May 24th at 23:59*
 
 ### Requesting extension
 
@@ -53,16 +53,16 @@ Note that a meeting does not always guarantee an extension, as this might still
 depend on the details of your circumstances.
 
 Any extension request needs to be agreed upon before the deadline expires,
-which means your request can usually only be handeled on Friday latest.
+which means your request can usually only be handled on Friday latest.
 If you do not receive a reply in time, you should *always* still submit your
 current version of the assignment before the deadline, so this part can still be
 graded.
 
 ## Scheduled classes
 
-All classes are scheduled on Friday from 14:00 to 16:00 during the 12 week
-period of the course, with a separate kick-off session the Friday before we
-start.
+All classes are scheduled on Wednesday from 14:00 to 16:00 during the 12 week
+period of the course, with a separate kick-off session the Wednesday before we
+start. The full course schedule is available as a PDF on the Life Long Learning website.
 
 ### Kick-off session
 
@@ -76,64 +76,59 @@ kick-off so we can help you get set up. That way we can ensure everyone can run
 the required programs before the course actually starts. You can, of course,
 also come and ask any other questions you might have about the course.
 
-* Friday, September 27th, 14:00-16:00
+* Wednesday, March 4th, 14:00-16:00, LAB42 room L3.35 (third floor)
 
 ### Mandatory classes
 
 These are main classes where we'll discuss the different algorithms and writing
 assignments we're covering in each module. These will all be in room **L3.35** in
-*Lab42*.
+*LAB42*.
 
-* Friday, October 11th, 14:00-16:00 
-* Friday, October 25th, 14:00-16:00 
-* Friday, November 8th, 14:00-16:00 
-* Friday, November 22nd, 14:00-16:00 
-* Friday, December 6th, 14:00-16:00 
+* Wednesday, March 18th, 14:00-16:00
+* Wednesday, April 1st, 14:00-16:00
+* Wednesday, April 15th, 14:00-16:00
+* Wednesday, May 6th, 14:00-16:00
+* Wednesday, May 20th, 14:00-16:00
 
-### Optional classes
+### Q&A sessions
 
-These are optional classes where you can just come and ask questions about any assignment
-you're working on. These will all be in room **L3.05** in *Lab42*.
+Q&A sessions are scheduled every week and are intended for you to attend only if you have specific questions for our Technical Assistants (TAs) and/or lecturers.
 
+Sessions are open to all on a walk-in basis; you do not need to sign up to attend, nor are the sessions mandatory. Students from other programs will also be present during these sessions.
 
-* Friday, October 4th, 14:00-16:00 
-* Friday, October 18th, 14:00-16:00 
-* Friday, November 1st, 14:00-16:00 
-* Friday, November 15th, 14:00-16:00 
-* Friday, November 29th, 14:00-16:00 
+All Q&A sessions will take place in room **L0.09** in *LAB42*.
+
+* Monday 13:30–16:30
+* Tuesday 10:00–13:00
+* Wednesday 10:00–13:00
+* Thursday 10:00–13:00
+* Friday 10:00–13:00
 
 ### Q&A for the exam
 
-Here you can ask the course staff any questions you have about the exam material.
+We will organize an extra exam session during which you can ask the course staff any questions you have about the exam material.
 
-* Friday, December 13th, 14:00-16:00
+* Wednesday, May 27th, 14:00-16:00, location TBD
 
 ### Final exam
 
 Final exam consisting of open questions about the machine learning theory.
 
-* Friday, December 20th, 14:00-17:00
+* Wednesday, June 3rd, 14:00-17:00
 
 ### Absenses
 
 There are 5 mandatory classes during the course, of which you'll need to
 attend at least 4 to pass the course. If you're unable to make it to a
 mandatory class for whatever reason, please inform the course staff at
-<ai@proglab.nl>
+<ai@proglab.nl>.
 
 ## Passing the course
 
-The programming and writing assignment will both be graded on a 1 to 10 scale
-and at the end of the course an average for both these elements will be
-computed. Attendance each week will also be graded pass/fail, as described in
+The programming- and writing assignments will graded as pass/fail. Attendance each week will also be graded pass/fail, as described in
 the *Scheduled classes* section above.
 
-Passing the attendace requirement each week is required to pass the course.
-The minimum satisfactory average grade from the assignments is a 4.5 and the
-minimum grade for the exam is also a 4.5. If all elements are completed
-satisfactorily, your final grade for the course is computed as:
-
-    40% programming average + 20% written average + 40% exam grade
+If all elements of the course are completed satisfactorily, you have passed the course.
 
 ### Programming Grades
 
@@ -150,18 +145,10 @@ code with good comments is also only possible when you understand what you're
 implementing well enough.
 
 If all coding cells are completed, all open questions are answered and your
-notebook runs top to bottom without errors, your grade starts at a 6. The
-remainder of your grade is then determined as follows:
+notebook runs top to bottom without errors, and the notebook was not completed using a
+LLM, your grade for the notebook will be considered a pass.
 
-* 0 - Some code cells produce incorrect or incomplete results. Answers to some open questions are incorrect or lack motivations.
-
-* 1 - All code cells produce mostly correct results, but may still contain small mistakes. Same goes for the answers to open questions. Style and design have had some attention, but can be improved.
-
-* 2 - All code cells produce correct results. Answers to all open questions are correct and are motivated. Style and design are good.
-
-* 3 - All code cells produce correct and nicely formatted results. Answers to all open questions are correct and consistently well motivated based on the theory of the algorithm. Style and design are very good.
-
-* 4 - Above, and in addition: Output, answers and code cells are beyond what is expected for the course.
+You will also receive feedback on your code, and your answers to the open questions.
 
 ### Writing Grades
 
@@ -189,11 +176,12 @@ Your grade for each writing assignment is determined as the sum of your points f
 | **Argumentation** | **0:** A concept from the reading material is misrepresented and/or some motivations are missing. | **1:** The writing shows a general understanding of the reading material and the corresponding concepts. All answers are motivated, but one or two motivations might be incomplete or inconsistent. | **2:** The writing shows clear understanding of the reading material and the corresponding concepts. All answers are well motivated using these concepts. | **3:** In addition to showing a clear understanding and well-motivated answers, the writing contains other sources or examples from the author’s field of study, thereby providing relevant novel perspectives. |
 |-------------------|--------------------------------|---------------------------------|---------------------------------|------------------------------------|
 
+If you get 6 or more points in this rubric, your written will be considered a pass.
+
 ### Exam
 
 The exam at the end of the course will consist mainly of open questions on the
 theory and algorithms covered. More details on the exam will follow later.
-
 
 ## Academic honesty
 
