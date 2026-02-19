@@ -18,48 +18,55 @@ templates:
         type: float
         subgrades:
             points: integer
-        calculation: points
+        calculation: done
         is_test: true
         hide_subgrades: true
+        hide_calculated: true
     5: &manual_float
         type: float
         subgrades:
             points: float
         calculation: points
-    6: &written
-        type: float
+    6: &written_check_off
+        type: pass
         subgrades:
             instructions: float
             structure_and_style: float
             argumentation: float
-        calculation: "instructions + structure_and_style + argumentation"
-
+        calculation: done
+        hide_calculated: true
+    7: &check_off
+        type: pass
+        subgrades:
+            done: boolean
+        calculation: done
+        hide_calculated: true
 
 grades:
     prog_2:
-        <<: *manual
-        deadline: 13/10/24 23:59
+        <<: *check_off
+        deadline: 22/03/26 23:59
     writ_1_elec:
-        <<: *written
-        deadline: 13/10/24 23:59
+        <<: *written_check_off
+        deadline: 22/03/26 23:59
     prog_3:
-        <<: *manual
-        deadline: 27/10/24 23:59
+        <<: *check_off
+        deadline: 05/04/26 23:59
     writ_3:
-        <<: *written
-        deadline: 27/10/24 23:59
+        <<: *written_check_off
+        deadline: 05/04/26 23:59
     prog_4:
-        <<: *manual
-        deadline: 17/11/24 23:59
+        <<: *check_off
+        deadline: 26/04/26 23:59
     writ_4:
-        <<: *written
-        deadline: 17/11/24 23:59
+        <<: *written_check_off
+        deadline: 26/04/26 23:59
     prog_5:
-        <<: *manual
-        deadline: 08/12/24 23:59
+        <<: *check_off
+        deadline: 24/05/26 23:59
     writ_5:
-        <<: *written
-        deadline: 08/12/24 23:59
+        <<: *written_check_off
+        deadline: 24/05/26 23:59
     exam: *test
 
 calculation:
