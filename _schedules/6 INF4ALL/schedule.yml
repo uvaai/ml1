@@ -62,7 +62,7 @@ Python refresher:
         Learn about file I/O [theory]: /python/en/file-io
         Learn to analyse and process a data set [practice]: /python/en/files
 
-Module 1:
+Module 1 [01/02/26]:
   Overview: /week1/overview
   Introduction to AI:
     Elements of AI: /week1/elements-of-ai
@@ -76,7 +76,7 @@ Module 1:
     Notebook introduction: /week1/notebooks
     Chatting with ELIZA [submit]: /week1/eliza
 
-Module 2:
+Module 2 [20/02/26]:
   Overview: /week2/overview
   Written Assignment:
     Elements of AI [submit]: /week2/elements-of-ai
@@ -88,7 +88,7 @@ Module 2:
     Working on the notebooks: /week2/notebooks
     k-NN classification [submit]: /week2/k-nn-classification
 
-Module 3:
+Module 3 [06/03/26]:
   Overview: /week3/overview
   SOWISO:
     Probability Distributions: /week3/probability-distributions
@@ -100,7 +100,7 @@ Module 3:
   Written Assignment:
     Chinese Room [submit]: /week3/chinese-room
 
-Module 4:
+Module 4 [20/03/26]:
   Overview: /week4/overview
   SOWISO:
     Gradients: /week4/gradients
@@ -110,7 +110,8 @@ Module 4:
     Gradient Descent [submit]: /week4/gradient-descent
   Written Assignment:
     AlphaGo [submit]: /week4/alphago
-Module 5:
+
+Module 5 [17/04/26]:
   Overview: /week5/overview
   SOWISO:
     Linear Algebra: /week5/linear-algebra
@@ -120,7 +121,8 @@ Module 5:
     Polynomial Regression [submit]: /week5/polynomial-regression
   Written Assignment:
     Algorithmic Bias [submit]: /week5/algorithmic-bias
-Module 6:
+
+Module 6 [08/05/26]:
   Overview: /week6/overview
   Numpy [practice]: /numpy/numpy
   Theory Videos:
@@ -131,6 +133,7 @@ Module 6:
     Exponentials and Logarithms: /week6/exponentials-and-logarithms
   Written Assignment:
     Filter bubbles [submit]: /week6/filter-bubbles
-Exam:
+    
+Exam [05/06/26]:
   Exam material: /exam/material
   Practice exam: /exam/practice
