@@ -2,7 +2,7 @@
 
 University of Amsterdam / Programming Lab / 50821ITM6Y
 
-## Syllabus<br><small>Fall 2024</small>
+## Syllabus<br><small>Spring 2026</small>
 
 This course serves as an introduction to the basics of machine learning and
 artificial intelligence. It consists of 4 modules, where each of these modules
@@ -103,6 +103,16 @@ All Q&A sessions will take place in room **L0.09** in *LAB42*.
 * Wednesday 10:00–13:00
 * Thursday 10:00–13:00
 * Friday 10:00–13:00
+
+There will be no Q&A sessions during the university's exam week, and during holidays. These are on the following dates:
+
+* March 23th to March 27th
+* April 6th
+* April 27th to May 1st
+* May 4th and May 5th
+* May 14th and May 15th
+* May 22th
+* May 25th to May 29th
 
 ### Q&A for the exam
 
