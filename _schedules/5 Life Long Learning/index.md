@@ -107,6 +107,7 @@ All Q&A sessions will take place in room **L0.09** in *LAB42*.
 There will be no Q&A sessions during the university's exam week, and during holidays. These are on the following dates:
 
 * March 23th to March 27th
+* April 3rd
 * April 6th
 * April 27th to May 1st
 * May 4th and May 5th
