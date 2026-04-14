@@ -33,6 +33,7 @@ templates:
             instructions: float
             structure_and_style: float
             argumentation: float
+            done: boolean
         calculation: done
         hide_calculated: true
     7: &check_off
