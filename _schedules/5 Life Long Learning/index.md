@@ -119,7 +119,7 @@ There will be no Q&A sessions during the university's exam week, and during holi
 
 We will organize an extra exam session during which you can ask the course staff any questions you have about the exam material.
 
-* Wednesday, May 27th, 14:00-16:00, location TBD
+* Wednesday, May 27th, 14:00-16:00, location L3.36
 
 ### Final exam
 
