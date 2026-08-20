@@ -79,6 +79,10 @@ calculation:
         programming: 40
         writing: 20
         exam: 40
+    retake:
+        programming: 40
+        writing: 20
+        resit: 40
 
 programming:
     show_progress: false
@@ -147,5 +151,13 @@ module_6:
 exam:
     show_progress: true
     show_overview: true
+    minimum: 5
     submits:
         exam: 1
+
+resit:
+    show_progress: true
+    show_overview: true
+    minimum: 5
+    submits:
+        resit: 1
