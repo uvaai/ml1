@@ -69,7 +69,7 @@ grades:
     writ_5_elec:
         <<: *written
         deadline: 09/10/25 23:59
-    prog_6:
+    prog_6_elec:
         <<: *manual
         deadline: 17/10/25 23:59
     writ_6_elec:
@@ -87,7 +87,7 @@ programming:
         prog_3_elec: 1
         prog_4_elec: 1
         prog_5_elec: 1
-        prog_6: 1
+        prog_6_elec: 1
 
 writing:
     show_progress: false
@@ -151,7 +151,7 @@ module_6:
     show_progress: true
     show_overview: true
     submits:
-        prog_6: 1
+        prog_6_elec: 1
         writ_6_elec: 1
 
 exam:
