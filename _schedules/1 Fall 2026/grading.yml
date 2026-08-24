@@ -77,16 +77,17 @@ grades:
 calculation:
     final:
         programming: 40
-        writing: 20
-        exam: 40
+        writing: 10
+        exam: 50
     retake:
         programming: 40
-        writing: 20
-        resit: 40
+        writing: 10
+        resit: 50
 
 programming:
     show_progress: false
     show_overview: false
+    minimum: 5
     submits:
         prog_1: 1
         prog_2: 1
@@ -98,6 +99,7 @@ programming:
 writing:
     show_progress: false
     show_overview: false
+    minimum: 5
     submits:
         writ_1: 1
         writ_2: 1

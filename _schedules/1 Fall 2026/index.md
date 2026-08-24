@@ -2,7 +2,7 @@
 
 University of Amsterdam / Programming Lab / 50821ITM6Y
 
-## Syllabus<br><small>Fall 2025</small>
+## Syllabus<br><small>Fall 2026</small>
 
 This course serves as an introduction to the basics of machine learning and
 artificial intelligence. It consists of 6 modules, where each of these modules
@@ -38,7 +38,7 @@ on campus full-time.
 Most on-campus activities, including the practical assistance, will generally be
 held in this room. There are some exceptions with activities that do not fit
 in the room, like the group seminars and the exam. The schedule for these
-group seminars can be found on Datanose [here](https://datanose.nl/#course[136775])
+group seminars can be found on Datanose [here](https://datanose.nl/#course[147434])
 
 The schedule for the practical assistance hours that will be held in L0.11 can
 be found in the "Asking Questions" section below.
@@ -65,7 +65,7 @@ look at possible solutions early.
 
 If you are a part-time student, you can just follow the *Inleiding
 Machine Learning* half of the daily schedule. You should still attend the group
-seminars with the other students, as scheduled [here](https://datanose.nl/#course[136775]),
+seminars with the other students, as scheduled [here](https://datanose.nl/#course[147434]),
 but can otherwise choose which of the daily practical assistance slots combine
 best with your own schedule.
 
@@ -125,15 +125,14 @@ and get assistance.
 
 ### Practical assistance
 
-There are 3 hours scheduled every day where you can ask practical questions
-to the TA's of the minor. During these hours you can use the "Assistance"
-feature on the main [minor AI website](https://minai.proglab.nl/), using the
-question mark symbol in the top right corner of that page. Please use this
-feature instead of raising your hand in class, as it ensures that all questions
-get handled in the order that they are asked. Questions can of be about either
-the PDP or ML1 courses, just make sure to mention what assignment you're
-working on. For your location, please list the table you are working at, so the
-TA handling your question knows where to find you when it is your turn.
+There are 3 hours scheduled every day where you can ask practical questions to
+the TA's of the minor. During these hours you can use the "Assistance" feature
+with the question mark symbol in the top right corner of this page. Please use
+this feature instead of raising your hand in class, as it ensures that all
+questions get handled in the order that they are asked. Questions can always be
+about either the PDP or ML1 courses, just make sure to mention what assignment
+you're working on. For your location, please list the table you are working at,
+so the TA handling your question knows where to find you when it is your turn.
 
 The hours are scheduled as follows:
 
@@ -164,14 +163,15 @@ to discuss with staff, such as personal matters or an alternate planning.
 
 ### Seminars
 
-Once a week on Mondays there are separate group seminars with your own TA. The
-topics covered in these seminars will depend on the material of that week: how
-to improve the style and design of your code, discussing the some of the
-written assignment topics, or some small programming exercises to practice
-with the group. In addition, you can always use these seminars to ask you TA any
-questions you might have about the feedback they gave you as part of the grading for
-the previous module. The schedule for the group seminars can be found on Datanose
-[here](https://datanose.nl/#course[136775])
+Once a week on Mondays or Tuesdays there are separate group seminars with your
+own TA. The topics covered in these seminars will depend on the material of
+that week: how to improve the style and design of your code, discussing the
+some of the written assignment topics, or some small programming exercises to
+practice with the group. In addition, you can always use these seminars to ask
+you TA any questions you might have about the feedback they gave you as part of
+the grading for the previous module. The schedule for the group seminars can be
+found on Datanose
+[here](https://datanose.nl/#course[147434])
 
 ### Email the staff
 
@@ -190,11 +190,11 @@ pass/fail, as described in the *Attendance* section below.
 Passing the attendance requirement each week is required to pass the course.
 Completing each of the SOWISO chapters is also required in order to receive a
 pass for that part. The minimum satisfactory average grade from the
-assignments is a 4.5 and the minimum grade for the exam is also a 4.5. If all
+assignments is a 5 and the minimum grade for the exam is also a 5. If all
 elements are completed satisfactorily, your final grade for the course is
 computed as:
 
-    40% programming average + 20% written average + 40% exam grade
+    40% programming average + 10% written average + 50% exam grade
 
 
 ### Attendance
