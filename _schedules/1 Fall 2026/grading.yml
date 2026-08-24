@@ -73,6 +73,7 @@ grades:
         <<: *written
         deadline: 15/10/25 18:00
     exam: *test
+    resit: *test
 
 calculation:
     final:
