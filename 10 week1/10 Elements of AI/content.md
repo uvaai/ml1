@@ -26,7 +26,7 @@ You should read this chapter, but the exercises here are optional.
 
 #### 3. Real world AI
 
-You only need to complete section *I. Odds and probability** for this chapter. The topics of Bayes
+You only need to complete section *I. Odds and probability* for this chapter. The topics of Bayes
 rule and the Naive Bayes classifier will be covered in more detail in week 3 of this course.
 
 **You should submit your file for exercise 4 using the submit tab on the "Turing's paper" page.**
