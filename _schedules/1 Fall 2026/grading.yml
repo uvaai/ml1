@@ -68,10 +68,10 @@ grades:
         deadline: 07/10/25 18:00
     prog_6:
         <<: *manual
-        deadline: 15/10/25 18:00
+        deadline: 15/10/25 23:59
     writ_6:
         <<: *written
-        deadline: 15/10/25 18:00
+        deadline: 15/10/25 23:59
     exam: *test
     resit: *test
 
