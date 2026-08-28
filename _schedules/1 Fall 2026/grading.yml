@@ -38,40 +38,40 @@ templates:
 grades:
     prog_1:
         <<: *manual
-        deadline: 05/09/25 18:00
+        deadline: 04/09/26 18:00
     writ_1:
         <<: *written
-        deadline: 05/09/25 18:00
+        deadline: 04/09/26 18:00
     prog_2:
         <<: *manual
-        deadline: 12/09/25 18:00
+        deadline: 11/09/26 18:00
     writ_2:
         <<: *written
-        deadline: 12/09/25 18:00
+        deadline: 11/09/26 18:00
     prog_3:
         <<: *manual
-        deadline: 19/09/25 18:00
+        deadline: 18/09/26 18:00
     writ_3:
         <<: *written
-        deadline: 19/09/25 18:00
+        deadline: 18/09/26 18:00
     prog_4:
         <<: *manual
-        deadline: 29/09/25 18:00
+        deadline: 28/09/26 18:00
     writ_4:
         <<: *written
-        deadline: 29/09/25 18:00
+        deadline: 28/09/26 18:00
     prog_5:
         <<: *manual
-        deadline: 07/10/25 18:00
+        deadline: 06/10/26 18:00
     writ_5:
         <<: *written
-        deadline: 07/10/25 18:00
+        deadline: 06/10/26 18:00
     prog_6:
         <<: *manual
-        deadline: 15/10/25 23:59
+        deadline: 14/10/26 23:59
     writ_6:
         <<: *written
-        deadline: 15/10/25 23:59
+        deadline: 14/10/26 23:59
     exam: *test
     resit: *test
 
