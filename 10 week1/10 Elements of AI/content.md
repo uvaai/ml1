@@ -9,16 +9,24 @@ how AI might affect your life, and how it will develop in the coming years.
 ### Getting Started
 
 Register as a student on [the Elements of AI
-website](https://course.elementsofai.com/). Read the first three chapters and
-complete all of the corresponding exercises.
+website](https://course.elementsofai.com/). For this week you should complete the first three chapters:
 
-1. What is AI?
-2. AI problem solving
-3. Real world AI
+#### 1. What is AI?
 
-At the end of Chapter 1-3 there is an open question in Exercise 4, on the
-definition of AI. Make sure to *save your answer* to this question in a
-separate file somewhere, as you will need to hand it in as part of your written
-assignment for this week.
+Read this chapter and complete all corresponding exercises.
 
-**You can submit your file using the submit tab on the "Turing's paper" page.**
+**Note:** At the end of section *III. Philosophy of AI*, there is an open
+question in *Exercise 4* on the definition of AI. Make sure to save your answer
+to that question in a separate file somewhere, as you will need to hand it in
+as part of your written assignment for this week!
+
+#### 2. AI problem solving
+
+You should read this chapter, but the exercises here are optional.
+
+#### 3. Real world AI
+
+You only need to complete section *I. Odds and probability** for this chapter. The topics of Bayes
+rule and the Naive Bayes classifier will be covered in more detail in week 3 of this course.
+
+**You should submit your file for exercise 4 using the submit tab on the "Turing's paper" page.**
